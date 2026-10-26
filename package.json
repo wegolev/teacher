@@ -1,0 +1,27 @@
+{
+  "name": "teacher",
+  "version": "1.0.0",
+  "description": "Katovich Elena Vladimirovna",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wegolev/teacher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wegolev/teacher/issues"
+  },
+  "homepage": "https://github.com/wegolev/teacher#readme",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.20",
+    "@tailwindcss/vite": "^4.3.3",
+    "tailwindcss": "^4.3.3",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.44"
+  }
+}
