@@ -2,6 +2,7 @@
 import DefaultTheme from 'vitepress/theme'
 import Layout from './Layout.vue'
 import AccessibilityToggle from './components/AccessibilityToggle.vue'
+import Gallery from './components/Gallery.vue'
 import './custom.css'
 
 export default {
@@ -9,5 +10,6 @@ export default {
   Layout,
   enhanceApp({ app }) {
     app.component('AccessibilityToggle', AccessibilityToggle)
+    app.component('Gallery', Gallery)
   },
 }
