@@ -1,0 +1,5602 @@
+.
+├── docs
+│   ├── about
+│   ├── colleagues
+│   │   ├── method
+│   │   ├── mo
+│   │   ├── museum
+│   │   └── publishing
+│   ├── contact
+│   ├── gallery
+│   │   └── album
+│   ├── historical
+│   ├── news
+│   ├── parents
+│   │   ├── meetings
+│   │   ├── memos
+│   │   └── normative
+│   ├── public
+│   │   ├── files
+│   │   │   ├── about
+│   │   │   │   ├── Визитная карточка.docx
+│   │   │   │   └── Образование и повышение квалификации.docx
+│   │   │   ├── colleagues
+│   │   │   │   ├── links
+│   │   │   │   │   ├── Материалы методических обьединений
+│   │   │   │   │   │   ├── Дополнительные материалы
+│   │   │   │   │   │   │   ├── Вклад российской школы в формирование технологического суверенитета страны.pdf
+│   │   │   │   │   │   │   └── Нормативно-правовое обеспечение преподования предмета Обществознание.pdf
+│   │   │   │   │   │   └── Протоколы заседаний МО учителей истории и обществознания
+│   │   │   │   │   │       └── Выписки из протоколов.docx
+│   │   │   │   │   ├── Ссылки на профессиональные сообщества
+│   │   │   │   │   │   └── Ссылки на профессиональные сообщество.docx
+│   │   │   │   │   └── Ссылки на профессиональные сообщество.docx
+│   │   │   │   ├── method
+│   │   │   │   │   ├── История Ставропольского края
+│   │   │   │   │   │   ├── Конспект урока «Ставрополье в годы Великой российской революции и Гражданской войны».docx
+│   │   │   │   │   │   ├── Конспект урока «Ставропольский край на карте Северного Кавказа».docx
+│   │   │   │   │   │   ├── Конспект урока «Южный форпост России. Строительство Азово-Моздокской оборонительной линии».docx
+│   │   │   │   │   │   ├── Рабочий лист 5 кл История СК.docx
+│   │   │   │   │   │   ├── Рабочий лист 5 кл История СК.pdf
+│   │   │   │   │   │   ├── Рабочий лист к уроку «Ставрополье в годы Великой Отечественной войны», 7 класс.docx
+│   │   │   │   │   │   ├── Рабочий лист к уроку «Ставрополье в годы Великой российской революции и Гражданской войны», 7 класс.docx
+│   │   │   │   │   │   ├── Рабочий лист к уроку «Ставрополье — наша малая родина», 5 класс.docx
+│   │   │   │   │   │   ├── Рабочий лист к уроку «Территория Ставропольского края в составе Золотой Орды. Город Маджар».docx
+│   │   │   │   │   │   ├── Рабочий лист к уроку «Южный форпост России. Строительство Азово-Моздокской оборонительной линии», 6 класс.docx
+│   │   │   │   │   │   ├── Сценарий урока «Ставрополье в годы Великой Отечественной войны».docx
+│   │   │   │   │   │   ├── Сценарий урока «Ставрополье — наша малая родина».docx
+│   │   │   │   │   │   ├── Тема  «Развитие курортных поселений у минеральных источников Кавказа», 6 класс.docx
+│   │   │   │   │   │   └── Технологическая карта урока «Территория Ставропольского края в составе Золотой Орды. Город Маджар».docx
+│   │   │   │   │   ├── Мастер-класс Система тренинговых заданий с высокомотивированнными учащимися.docx
+│   │   │   │   │   ├── Методика выполнения заданий повышенной сложности егэ обществознание 2027 г.docx
+│   │   │   │   │   ├── Методика выполнения заданий части 2 по истории в формате ЕГЭ.docx
+│   │   │   │   │   ├── Методика подготовки заданий 17-20 в формате ОГЭ по обществознанию.docx
+│   │   │   │   │   ├── Методика преподования сложных тем по праву.docx
+│   │   │   │   │   ├── Методическая разработка урока,рабочий лист Юридическая отвтественность.pdf
+│   │   │   │   │   ├── Методические рекомендации работы с заданием № 6 ф в формате ОГЭ по обществознанию.docx
+│   │   │   │   │   ├── Методические рекомендации работы со сложными заданиями.docx
+│   │   │   │   │   ├── Метод рекомендации по работе с исторической  картой.docx
+│   │   │   │   │   ├── Общие рекомендации по подготовке к ГИА  9 класс,обществознание.docx
+│   │   │   │   │   ├── Общие рекомендации по подготовке к ОГЭ по истории.docx
+│   │   │   │   │   └── пятиминутки по антитеррору.doc
+│   │   │   │   ├── mo
+│   │   │   │   │   ├── Дополнительные материалы
+│   │   │   │   │   │   ├── Вклад российской школы в формирование технологического суверенитета страны.pdf
+│   │   │   │   │   │   └── Нормативно-правовое обеспечение преподования предмета Обществознание.pdf
+│   │   │   │   │   └── Протоколы заседаний МО учителей истории и обществознания
+│   │   │   │   │       └── Выписки из протоколов.docx
+│   │   │   │   ├── museum
+│   │   │   │   │   ├── Очерк о музее История села Орловки.pdf
+│   │   │   │   │   ├── программа развития музея.docx
+│   │   │   │   │   └── Справка о внедрении программы развития музея.docx
+│   │   │   │   └── publications
+│   │   │   │       ├── Историческая память и уроки XX века как говорить с подростками о.pdf
+│   │   │   │       ├── Исторический контент в соцсетях.pdf
+│   │   │   │       ├── Как говорить с подростками о войнах.pdf
+│   │   │   │       ├── «Каменная летопись памяти Воинские захоронения села Орловка и хутора Пегушин»..pdf
+│   │   │   │       ├── Монография Александр Второй.pdf
+│   │   │   │       ├── МР Глобальные компетенции на уроках обществознания.pdf
+│   │   │   │       ├── Научно-иследовательская работа.pdf
+│   │   │   │       ├── Очерк о музее История села Орловки.pdf
+│   │   │   │       ├── Статья Между мифом и фактом.Границы школьного исторического образования.pdf
+│   │   │   │       └── Цифровая трансформация исторического образования от ИИ-помощников до.pdf
+│   │   │   ├── contact
+│   │   │   │   ├── Контакты.docx
+│   │   │   │   └── Памятка по правилам общения.docx
+│   │   │   ├── gallery
+│   │   │   │   └── projects
+│   │   │   │       ├── Геннадий Гурин увековечение памяти в проекте «Парта героя.docx
+│   │   │   │       ├── Исследование  Герой моей семьи. Без права забвения.pdf
+│   │   │   │       ├── Исторческое исследование «Кто виноват Две правды одной войны».docx
+│   │   │   │       ├── Проектно-исследовательская работа Герой нашего времени.docx
+│   │   │   │       ├── Проектно-исследовательская работа История развития Кавмивод.docx
+│   │   │   │       ├── Пусть память говорит Окружной конкурс-фестиваль авторских стихотворений Грабовец С.docx
+│   │   │   │       ├── Пусть память говорит Окружной конкурс-фестиваль авторских стихотворений Кленова К.docx
+│   │   │   │       ├── Шаг в науку  Выступление Мозговая Ю.docx
+│   │   │   │       ├── Эссе «Плакат как оружие Искусство, которое вело к Победе».docx
+│   │   │   │       └── Эссе Право служит человеку Коломыц Дарья.docx
+│   │   │   ├── historical
+│   │   │   │   ├── contest
+│   │   │   │   │   └── «Учитель истории Ставрополья - 2026» методическая разработка урока
+│   │   │   │   │       └── Самоанализ урока Музеи-хранители истории.docx
+│   │   │   │   ├── creative
+│   │   │   │   ├── lessons
+│   │   │   │   │   ├── Конспект урока «Ставрополье в годы Великой российской революции и Гражданской войны».docx
+│   │   │   │   │   ├── Конспект урока «Ставропольский край на карте Северного Кавказа».docx
+│   │   │   │   │   ├── Конспект урока «Южный форпост России. Строительство Азово-Моздокской оборонительной линии».docx
+│   │   │   │   │   ├── Методическая разработка урока«Ставропольская крепость как военный форпост стал Вратами Кавказа».docx
+│   │   │   │   │   ├── Рабочий лист 5 кл История СК.docx
+│   │   │   │   │   ├── Рабочий лист 5 кл История СК.pdf
+│   │   │   │   │   ├── Рабочий лист к уроку «Ставрополье в годы Великой Отечественной войны», 7 класс.docx
+│   │   │   │   │   ├── Рабочий лист к уроку «Ставрополье в годы Великой российской революции и Гражданской войны», 7 класс.docx
+│   │   │   │   │   └── Рабочий лист к уроку «Ставрополье — наша малая родина», 5 класс.docx
+│   │   │   │   ├── museum
+│   │   │   │   ├── publications
+│   │   │   │   ├── tests
+│   │   │   │   │   ├── Банкк тестовых заданий по Истории Ставропльского края 7 класс.docx
+│   │   │   │   │   ├── Банк тестовых заданий по Истории СК,  5 класс.docx
+│   │   │   │   │   └── Итоговый контроль,история СК, 6 класс.docx
+│   │   │   │   └── worksheets
+│   │   │   ├── method
+│   │   │   ├── news
+│   │   │   │   ├── День в истории - 4 ноября.docx
+│   │   │   │   └── Календарь знаменательных дат по истории России.docx
+│   │   │   ├── parents
+│   │   │   │   ├── meetings
+│   │   │   │   │   ├── Протокол 4  апрель 2026.docx
+│   │   │   │   │   ├── Протокол род собр 3  13.02.26.docx
+│   │   │   │   │   ├── Пртокол 2,октябрь 2025 г.docx
+│   │   │   │   │   ├── Пртокол ,сентябрь 2026 г.docx
+│   │   │   │   │   └── Родительское собрание, февралть 2025 г.docx
+│   │   │   │   ├── memos
+│   │   │   │   │   ├── Памятка 1 «Как помочь ребёнку учить историю, а не зубрить даты».docx
+│   │   │   │   │   ├── Памятка 2. «Что нужно для успешной сдачи ОГЭЕГЭ по истории».docx
+│   │   │   │   │   ├── Памятка 3. «Как организовать рабочее место и режим подготовки».docx
+│   │   │   │   │   ├── Памятка 4. «Как помочь ребёнку, если он “не любит” историю».docx
+│   │   │   │   │   └── пятиминутки по антитеррору.doc
+│   │   │   │   └── normative
+│   │   │   │       ├── Календарный план ВР ООО 2025-2026 учебный год.doc
+│   │   │   │       ├── Основные нормативно- правовые документы,которые должен знать родитель.docx
+│   │   │   │       ├── План патриотической работы 2025-2026.doc
+│   │   │   │       ├── план профориентационной работы  (1).doc
+│   │   │   │       └── согласие ВсОШ.docx
+│   │   │   └── students
+│   │   │       ├── homework
+│   │   │       ├── links
+│   │   │       │   └── Полезные ссылки для подготовки.docx
+│   │   │       ├── oge-ege
+│   │   │       │   ├── ЕГЭ история,обществознание
+│   │   │       │   │   ├── Важное (компактно) основное содержание курса Обществознание.docx
+│   │   │       │   │   ├── ЕГЭ история таблица для подготовке к заданиям по теме ВОВ.docx
+│   │   │       │   │   ├── Задание 24, ЕГЭ обществознание
+│   │   │       │   │   │   ├── политика.docx
+│   │   │       │   │   │   ├── право.docx
+│   │   │       │   │   │   ├── социальная.docx
+│   │   │       │   │   │   ├── человек и общество.docx
+│   │   │       │   │   │   └── экономика.docx
+│   │   │       │   │   ├── ИС-11 ЕГЭ 2027 КОДИФ.pdf
+│   │   │       │   │   ├── ИС-11 ЕГЭ 2027 СПЕЦ.pdf
+│   │   │       │   │   ├── Материалы для выполнения задания 13 Политика, ЕГЭ
+│   │   │       │   │   │   ├── органы гос власти.docx
+│   │   │       │   │   │   ├── Полномочия органов государственной власти РФ.docx
+│   │   │       │   │   │   └── Предеметы ведения зад 14.docx
+│   │   │       │   │   ├── материалы для подготовки к заданию № 23 ЕГЭ обществознание.docx
+│   │   │       │   │   ├── Методика выполнения заданий повышенной сложности егэ обществознание 2027 г.docx
+│   │   │       │   │   ├── Методика выполнения заданий части 2 по истории в формате ЕГЭ.docx
+│   │   │       │   │   ├── Методика подготовки заданий 17-20 в формате ОГЭ по обществознанию.docx
+│   │   │       │   │   ├── Метод рекомендации по работе с исторической  картой.docx
+│   │   │       │   │   ├── Мето. рекомендации работы со сложными заданиями.docx
+│   │   │       │   │   ├── обществознание демо ЕГЭ 2027.pdf
+│   │   │       │   │   ├── обществознание к ЕГЭ 2027.pdf
+│   │   │       │   │   ├── обществознание спец ЕГЭ 2027.pdf
+│   │   │       │   │   ├── Основные обществоведческие понятия.docx
+│   │   │       │   │   └── Уровни налогов по поступлению в бюджет, задание 7,8.docx
+│   │   │       │   └── ОГЭ история,обществознание
+│   │   │       │       ├── Методические рекомендации по выполнению заданий в формате ОГЭ по истории 2 в 2027 году.docx
+│   │   │       │       ├── ОБ-9 ОГЭ 2027_КОДИФ.pdf
+│   │   │       │       ├── ОБ-9 ОГЭ 2027_СПЕЦ.pdf
+│   │   │       │       ├── Общие рекомендации по подготовке к ГИА  9 класс,обществознание.docx
+│   │   │       │       ├── Общие рекомендации по подготовке к ОГЭ по истории.docx
+│   │   │       │       ├── Рекомендации по выполнению заданий в формате ОГЭ обществознание.docx
+│   │   │       │       ├── Тренировочный вариант по истории,ОГЭ 2027.docx
+│   │   │       │       └── Тренировочный вариант по обществознанию ОГЭ,2026-227 уч.год.docx
+│   │   │       ├── olympiads
+│   │   │       │   ├── Всероссийская олимпиада школьников.docx
+│   │   │       │   ├── Календарный график проведения ВсОШ в 2026-2027 учебном году.pdf
+│   │   │       │   ├── Количество участнико ВсОШ.docx
+│   │   │       │   ├── Конкурс творческих работ моя Россия
+│   │   │       │   │   ├── Гончарова Варвара.docx
+│   │   │       │   │   ├── Грабовец С.docx
+│   │   │       │   │   ├── Процкова.docx
+│   │   │       │   │   ├── Процкова Анастасия.docx
+│   │   │       │   │   ├── Стихотворение Кленова Карина.docx
+│   │   │       │   │   └── творч.работа Процкова А.docx
+│   │   │       │   ├── Конкурсы и олимпиады по предмету Обществознание.docx
+│   │   │       │   ├── Перечень конкурсов по истории.docx
+│   │   │       │   └── Рекомендации по подготовке к олимпиаде по истории.docx
+│   │   │       └── projects
+│   │   │           ├── Защита проекта Парта героя.docx
+│   │   │           ├── Проект Актуальный родитель.docx
+│   │   │           └── рецензия Калмыков.docx
+│   │   └── images
+│   │       ├── album
+│   │       │   ├── 02.05.jpg
+│   │       │   ├── 02.-2.jpg
+│   │       │   ├── 04.05.jpg
+│   │       │   ├── 05.05.jpg
+│   │       │   ├── 06.02.jpg
+│   │       │   ├── 06.03.jpg
+│   │       │   ├── 07.02.jpg
+│   │       │   ├── 07.05.jpg
+│   │       │   ├── 10.04.jpg
+│   │       │   ├── 13.02.jpg
+│   │       │   ├── 14.03.jpg
+│   │       │   ├── 18.02.jpg
+│   │       │   ├── 18.05.jpg
+│   │       │   ├── 18.jpg
+│   │       │   ├── 19.jpg
+│   │       │   ├── 20.02.jpg
+│   │       │   ├── 21.02.2026 г Защита ппроекта Малахов курган.jpg
+│   │       │   ├── 24.01.jpg
+│   │       │   ├── 27.01.jpg
+│   │       │   ├── 27.03.jpg
+│   │       │   ├── 27.04.jpg
+│   │       │   ├── 3.05.jpg
+│   │       │   ├── 3.09.2026.jpg
+│   │       │   ├── 6.05.jpg
+│   │       │   ├── 9.05.2026 гАкция Бессмертный полк,.jpg
+│   │       │   ├── Акция Скажем терроризму нет.jpg
+│   │       │   ├── Всероссийская акция Георгиевская лента, апрель 2026 г.jpg
+│   │       │   ├── Всероссийский диктант, 08.-9.jpg
+│   │       │   ├── День солидарности в борьбе с тероризмом ,3.09.jpg
+│   │       │   ├── Квест-игра,посвященная Дню Победы,7.09.jpg
+│   │       │   └── Краевой автопробег Ах путь дорожка фронтовая май,2026 г.jpg
+│   │       ├── school.jpg
+│   │       └── teacher.jpg
+│   └── students
+│       ├── homework
+│       ├── oge-ege
+│       ├── olympiads
+│       └── projects
+├── LICENSE
+├── node_modules
+│   ├── @algolia
+│   │   ├── abtesting
+│   │   │   ├── dist
+│   │   │   │   ├── browser.d.ts
+│   │   │   │   ├── builds
+│   │   │   │   │   ├── browser.js
+│   │   │   │   │   ├── browser.js.map
+│   │   │   │   │   ├── browser.min.js
+│   │   │   │   │   ├── browser.min.js.map
+│   │   │   │   │   ├── browser.umd.js
+│   │   │   │   │   ├── fetch.js
+│   │   │   │   │   ├── fetch.js.map
+│   │   │   │   │   ├── node.cjs
+│   │   │   │   │   ├── node.cjs.map
+│   │   │   │   │   ├── node.js
+│   │   │   │   │   ├── node.js.map
+│   │   │   │   │   ├── worker.js
+│   │   │   │   │   └── worker.js.map
+│   │   │   │   ├── fetch.d.ts
+│   │   │   │   ├── node.d.cts
+│   │   │   │   ├── node.d.ts
+│   │   │   │   ├── src
+│   │   │   │   │   ├── abtestingV3Client.cjs
+│   │   │   │   │   ├── abtestingV3Client.cjs.map
+│   │   │   │   │   ├── abtestingV3Client.js
+│   │   │   │   │   └── abtestingV3Client.js.map
+│   │   │   │   └── worker.d.ts
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── autocomplete-core
+│   │   │   ├── dist
+│   │   │   │   ├── esm
+│   │   │   │   │   ├── checkOptions.d.ts
+│   │   │   │   │   ├── checkOptions.js
+│   │   │   │   │   ├── createAutocomplete.d.ts
+│   │   │   │   │   ├── createAutocomplete.js
+│   │   │   │   │   ├── createStore.d.ts
+│   │   │   │   │   ├── createStore.js
+│   │   │   │   │   ├── getAutocompleteSetters.d.ts
+│   │   │   │   │   ├── getAutocompleteSetters.js
+│   │   │   │   │   ├── getCompletion.d.ts
+│   │   │   │   │   ├── getCompletion.js
+│   │   │   │   │   ├── getDefaultProps.d.ts
+│   │   │   │   │   ├── getDefaultProps.js
+│   │   │   │   │   ├── getPropGetters.d.ts
+│   │   │   │   │   ├── getPropGetters.js
+│   │   │   │   │   ├── index.d.ts
+│   │   │   │   │   ├── index.js
+│   │   │   │   │   ├── metadata.d.ts
+│   │   │   │   │   ├── metadata.js
+│   │   │   │   │   ├── onInput.d.ts
+│   │   │   │   │   ├── onInput.js
+│   │   │   │   │   ├── onKeyDown.d.ts
+│   │   │   │   │   ├── onKeyDown.js
+│   │   │   │   │   ├── reshape.d.ts
+│   │   │   │   │   ├── reshape.js
+│   │   │   │   │   ├── resolve.d.ts
+│   │   │   │   │   ├── resolve.js
+│   │   │   │   │   ├── stateReducer.d.ts
+│   │   │   │   │   ├── stateReducer.js
+│   │   │   │   │   ├── types
+│   │   │   │   │   │   ├── AutocompleteStore.d.ts
+│   │   │   │   │   │   ├── AutocompleteStore.js
+│   │   │   │   │   │   ├── AutocompleteSubscribers.d.ts
+│   │   │   │   │   │   ├── AutocompleteSubscribers.js
+│   │   │   │   │   │   ├── index.d.ts
+│   │   │   │   │   │   └── index.js
+│   │   │   │   │   └── utils
+│   │   │   │   │       ├── createCancelablePromise.d.ts
+│   │   │   │   │       ├── createCancelablePromise.js
+│   │   │   │   │       ├── createCancelablePromiseList.d.ts
+│   │   │   │   │       ├── createCancelablePromiseList.js
+│   │   │   │   │       ├── createConcurrentSafePromise.d.ts
+│   │   │   │   │       ├── createConcurrentSafePromise.js
+│   │   │   │   │       ├── getActiveItem.d.ts
+│   │   │   │   │       ├── getActiveItem.js
+│   │   │   │   │       ├── getAutocompleteElementId.d.ts
+│   │   │   │   │       ├── getAutocompleteElementId.js
+│   │   │   │   │       ├── getNativeEvent.d.ts
+│   │   │   │   │       ├── getNativeEvent.js
+│   │   │   │   │       ├── getNextActiveItemId.d.ts
+│   │   │   │   │       ├── getNextActiveItemId.js
+│   │   │   │   │       ├── getNormalizedSources.d.ts
+│   │   │   │   │       ├── getNormalizedSources.js
+│   │   │   │   │       ├── index.d.ts
+│   │   │   │   │       ├── index.js
+│   │   │   │   │       ├── isOrContainsNode.d.ts
+│   │   │   │   │       ├── isOrContainsNode.js
+│   │   │   │   │       ├── isSamsung.d.ts
+│   │   │   │   │       ├── isSamsung.js
+│   │   │   │   │       ├── mapToAlgoliaResponse.d.ts
+│   │   │   │   │       └── mapToAlgoliaResponse.js
+│   │   │   │   └── umd
+│   │   │   │       ├── index.development.js
+│   │   │   │       ├── index.development.js.map
+│   │   │   │       ├── index.production.js
+│   │   │   │       └── index.production.js.map
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── autocomplete-plugin-algolia-insights
+│   │   │   ├── dist
+│   │   │   │   ├── esm
+│   │   │   │   │   ├── createAlgoliaInsightsPlugin.d.ts
+│   │   │   │   │   ├── createAlgoliaInsightsPlugin.js
+│   │   │   │   │   ├── createClickedEvent.d.ts
+│   │   │   │   │   ├── createClickedEvent.js
+│   │   │   │   │   ├── createSearchInsightsApi.d.ts
+│   │   │   │   │   ├── createSearchInsightsApi.js
+│   │   │   │   │   ├── createViewedEvents.d.ts
+│   │   │   │   │   ├── createViewedEvents.js
+│   │   │   │   │   ├── index.d.js
+│   │   │   │   │   ├── index.d.ts
+│   │   │   │   │   ├── index.js
+│   │   │   │   │   ├── isAlgoliaInsightsHit.d.ts
+│   │   │   │   │   ├── isAlgoliaInsightsHit.js
+│   │   │   │   │   ├── isModernInsightsClient.d.ts
+│   │   │   │   │   ├── isModernInsightsClient.js
+│   │   │   │   │   └── types
+│   │   │   │   │       ├── AlgoliaInsightsHit.d.ts
+│   │   │   │   │       ├── AlgoliaInsightsHit.js
+│   │   │   │   │       ├── AutocompleteInsightsApi.d.ts
+│   │   │   │   │       ├── AutocompleteInsightsApi.js
+│   │   │   │   │       ├── EventParams.d.ts
+│   │   │   │   │       ├── EventParams.js
+│   │   │   │   │       ├── index.d.ts
+│   │   │   │   │       ├── index.js
+│   │   │   │   │       ├── InsightsClient.d.ts
+│   │   │   │   │       └── InsightsClient.js
+│   │   │   │   └── umd
+│   │   │   │       ├── index.development.js
+│   │   │   │       ├── index.development.js.map
+│   │   │   │       ├── index.production.js
+│   │   │   │       └── index.production.js.map
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── autocomplete-preset-algolia
+│   │   │   ├── dist
+│   │   │   │   ├── esm
+│   │   │   │   │   ├── constants
+│   │   │   │   │   │   ├── index.d.ts
+│   │   │   │   │   │   └── index.js
+│   │   │   │   │   ├── highlight
+│   │   │   │   │   │   ├── HighlightedHit.d.ts
+│   │   │   │   │   │   ├── HighlightedHit.js
+│   │   │   │   │   │   ├── index.d.ts
+│   │   │   │   │   │   ├── index.js
+│   │   │   │   │   │   ├── isPartHighlighted.d.ts
+│   │   │   │   │   │   ├── isPartHighlighted.js
+│   │   │   │   │   │   ├── parseAlgoliaHitHighlight.d.ts
+│   │   │   │   │   │   ├── parseAlgoliaHitHighlight.js
+│   │   │   │   │   │   ├── ParseAlgoliaHitParams.d.ts
+│   │   │   │   │   │   ├── ParseAlgoliaHitParams.js
+│   │   │   │   │   │   ├── parseAlgoliaHitReverseHighlight.d.ts
+│   │   │   │   │   │   ├── parseAlgoliaHitReverseHighlight.js
+│   │   │   │   │   │   ├── parseAlgoliaHitReverseSnippet.d.ts
+│   │   │   │   │   │   ├── parseAlgoliaHitReverseSnippet.js
+│   │   │   │   │   │   ├── parseAlgoliaHitSnippet.d.ts
+│   │   │   │   │   │   ├── parseAlgoliaHitSnippet.js
+│   │   │   │   │   │   ├── parseAttribute.d.ts
+│   │   │   │   │   │   ├── parseAttribute.js
+│   │   │   │   │   │   ├── ParsedAttribute.d.ts
+│   │   │   │   │   │   ├── ParsedAttribute.js
+│   │   │   │   │   │   ├── reverseHighlightedParts.d.ts
+│   │   │   │   │   │   ├── reverseHighlightedParts.js
+│   │   │   │   │   │   ├── SnippetedHit.d.ts
+│   │   │   │   │   │   └── SnippetedHit.js
+│   │   │   │   │   ├── index.d.ts
+│   │   │   │   │   ├── index.js
+│   │   │   │   │   ├── requester
+│   │   │   │   │   │   ├── createAlgoliaRequester.d.ts
+│   │   │   │   │   │   ├── createAlgoliaRequester.js
+│   │   │   │   │   │   ├── createRequester.d.ts
+│   │   │   │   │   │   ├── createRequester.js
+│   │   │   │   │   │   ├── getAlgoliaFacets.d.ts
+│   │   │   │   │   │   ├── getAlgoliaFacets.js
+│   │   │   │   │   │   ├── getAlgoliaResults.d.ts
+│   │   │   │   │   │   ├── getAlgoliaResults.js
+│   │   │   │   │   │   ├── index.d.ts
+│   │   │   │   │   │   └── index.js
+│   │   │   │   │   ├── search
+│   │   │   │   │   │   ├── fetchAlgoliaResults.d.ts
+│   │   │   │   │   │   ├── fetchAlgoliaResults.js
+│   │   │   │   │   │   ├── index.d.ts
+│   │   │   │   │   │   └── index.js
+│   │   │   │   │   ├── types
+│   │   │   │   │   │   ├── index.d.ts
+│   │   │   │   │   │   └── index.js
+│   │   │   │   │   └── utils
+│   │   │   │   │       ├── getAppIdAndApiKey.d.ts
+│   │   │   │   │       ├── getAppIdAndApiKey.js
+│   │   │   │   │       ├── index.d.ts
+│   │   │   │   │       └── index.js
+│   │   │   │   └── umd
+│   │   │   │       ├── index.development.js
+│   │   │   │       ├── index.development.js.map
+│   │   │   │       ├── index.production.js
+│   │   │   │       └── index.production.js.map
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── autocomplete-shared
+│   │   │   ├── dist
+│   │   │   │   └── esm
+│   │   │   │       ├── core
+│   │   │   │       │   ├── AutocompleteApi.d.ts
+│   │   │   │       │   ├── AutocompleteApi.js
+│   │   │   │       │   ├── AutocompleteCollection.d.ts
+│   │   │   │       │   ├── AutocompleteCollection.js
+│   │   │   │       │   ├── AutocompleteContext.d.ts
+│   │   │   │       │   ├── AutocompleteContext.js
+│   │   │   │       │   ├── AutocompleteEnvironment.d.ts
+│   │   │   │       │   ├── AutocompleteEnvironment.js
+│   │   │   │       │   ├── AutocompleteNavigator.d.ts
+│   │   │   │       │   ├── AutocompleteNavigator.js
+│   │   │   │       │   ├── AutocompleteOptions.d.ts
+│   │   │   │       │   ├── AutocompleteOptions.js
+│   │   │   │       │   ├── AutocompletePlugin.d.ts
+│   │   │   │       │   ├── AutocompletePlugin.js
+│   │   │   │       │   ├── AutocompletePropGetters.d.ts
+│   │   │   │       │   ├── AutocompletePropGetters.js
+│   │   │   │       │   ├── AutocompleteReshape.d.ts
+│   │   │   │       │   ├── AutocompleteReshape.js
+│   │   │   │       │   ├── AutocompleteSetters.d.ts
+│   │   │   │       │   ├── AutocompleteSetters.js
+│   │   │   │       │   ├── AutocompleteSource.d.ts
+│   │   │   │       │   ├── AutocompleteSource.js
+│   │   │   │       │   ├── AutocompleteState.d.ts
+│   │   │   │       │   ├── AutocompleteState.js
+│   │   │   │       │   ├── index.d.ts
+│   │   │   │       │   └── index.js
+│   │   │   │       ├── createRef.d.ts
+│   │   │   │       ├── createRef.js
+│   │   │   │       ├── debounce.d.ts
+│   │   │   │       ├── debounce.js
+│   │   │   │       ├── decycle.d.ts
+│   │   │   │       ├── decycle.js
+│   │   │   │       ├── flatten.d.ts
+│   │   │   │       ├── flatten.js
+│   │   │   │       ├── generateAutocompleteId.d.ts
+│   │   │   │       ├── generateAutocompleteId.js
+│   │   │   │       ├── getAttributeValueByPath.d.ts
+│   │   │   │       ├── getAttributeValueByPath.js
+│   │   │   │       ├── getItemsCount.d.ts
+│   │   │   │       ├── getItemsCount.js
+│   │   │   │       ├── index.d.ts
+│   │   │   │       ├── index.js
+│   │   │   │       ├── invariant.d.ts
+│   │   │   │       ├── invariant.js
+│   │   │   │       ├── isEqual.d.ts
+│   │   │   │       ├── isEqual.js
+│   │   │   │       ├── js
+│   │   │   │       │   ├── AutocompleteClassNames.d.ts
+│   │   │   │       │   ├── AutocompleteClassNames.js
+│   │   │   │       │   ├── AutocompleteCollection.d.ts
+│   │   │   │       │   ├── AutocompleteCollection.js
+│   │   │   │       │   ├── AutocompleteComponents.d.ts
+│   │   │   │       │   ├── AutocompleteComponents.js
+│   │   │   │       │   ├── AutocompleteOptions.d.ts
+│   │   │   │       │   ├── AutocompleteOptions.js
+│   │   │   │       │   ├── AutocompletePlugin.d.ts
+│   │   │   │       │   ├── AutocompletePlugin.js
+│   │   │   │       │   ├── AutocompletePropGetters.d.ts
+│   │   │   │       │   ├── AutocompletePropGetters.js
+│   │   │   │       │   ├── AutocompleteRender.d.ts
+│   │   │   │       │   ├── AutocompleteRenderer.d.ts
+│   │   │   │       │   ├── AutocompleteRenderer.js
+│   │   │   │       │   ├── AutocompleteRender.js
+│   │   │   │       │   ├── AutocompleteSource.d.ts
+│   │   │   │       │   ├── AutocompleteSource.js
+│   │   │   │       │   ├── AutocompleteState.d.ts
+│   │   │   │       │   ├── AutocompleteState.js
+│   │   │   │       │   ├── AutocompleteTranslations.d.ts
+│   │   │   │       │   ├── AutocompleteTranslations.js
+│   │   │   │       │   ├── HighlightHitParams.d.ts
+│   │   │   │       │   ├── HighlightHitParams.js
+│   │   │   │       │   ├── index.d.ts
+│   │   │   │       │   └── index.js
+│   │   │   │       ├── MaybePromise.d.ts
+│   │   │   │       ├── MaybePromise.js
+│   │   │   │       ├── noop.d.ts
+│   │   │   │       ├── noop.js
+│   │   │   │       ├── preset-algolia
+│   │   │   │       │   ├── algoliasearch.d.ts
+│   │   │   │       │   ├── algoliasearch.js
+│   │   │   │       │   ├── createRequester.d.ts
+│   │   │   │       │   └── createRequester.js
+│   │   │   │       ├── safelyRunOnBrowser.d.ts
+│   │   │   │       ├── safelyRunOnBrowser.js
+│   │   │   │       ├── SearchResponse.d.ts
+│   │   │   │       ├── SearchResponse.js
+│   │   │   │       ├── UserAgent.d.ts
+│   │   │   │       ├── UserAgent.js
+│   │   │   │       ├── userAgents.d.ts
+│   │   │   │       ├── userAgents.js
+│   │   │   │       ├── version.d.ts
+│   │   │   │       ├── version.js
+│   │   │   │       ├── warn.d.ts
+│   │   │   │       └── warn.js
+│   │   │   └── package.json
+│   │   ├── client-abtesting
+│   │   │   ├── dist
+│   │   │   │   ├── browser.d.ts
+│   │   │   │   ├── builds
+│   │   │   │   │   ├── browser.js
+│   │   │   │   │   ├── browser.js.map
+│   │   │   │   │   ├── browser.min.js
+│   │   │   │   │   ├── browser.min.js.map
+│   │   │   │   │   ├── browser.umd.js
+│   │   │   │   │   ├── fetch.js
+│   │   │   │   │   ├── fetch.js.map
+│   │   │   │   │   ├── node.cjs
+│   │   │   │   │   ├── node.cjs.map
+│   │   │   │   │   ├── node.js
+│   │   │   │   │   ├── node.js.map
+│   │   │   │   │   ├── worker.js
+│   │   │   │   │   └── worker.js.map
+│   │   │   │   ├── fetch.d.ts
+│   │   │   │   ├── node.d.cts
+│   │   │   │   ├── node.d.ts
+│   │   │   │   ├── src
+│   │   │   │   │   ├── abtestingClient.cjs
+│   │   │   │   │   ├── abtestingClient.cjs.map
+│   │   │   │   │   ├── abtestingClient.js
+│   │   │   │   │   └── abtestingClient.js.map
+│   │   │   │   └── worker.d.ts
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── client-analytics
+│   │   │   ├── dist
+│   │   │   │   ├── browser.d.ts
+│   │   │   │   ├── builds
+│   │   │   │   │   ├── browser.js
+│   │   │   │   │   ├── browser.js.map
+│   │   │   │   │   ├── browser.min.js
+│   │   │   │   │   ├── browser.min.js.map
+│   │   │   │   │   ├── browser.umd.js
+│   │   │   │   │   ├── fetch.js
+│   │   │   │   │   ├── fetch.js.map
+│   │   │   │   │   ├── node.cjs
+│   │   │   │   │   ├── node.cjs.map
+│   │   │   │   │   ├── node.js
+│   │   │   │   │   ├── node.js.map
+│   │   │   │   │   ├── worker.js
+│   │   │   │   │   └── worker.js.map
+│   │   │   │   ├── fetch.d.ts
+│   │   │   │   ├── node.d.cts
+│   │   │   │   ├── node.d.ts
+│   │   │   │   ├── src
+│   │   │   │   │   ├── analyticsClient.cjs
+│   │   │   │   │   ├── analyticsClient.cjs.map
+│   │   │   │   │   ├── analyticsClient.js
+│   │   │   │   │   └── analyticsClient.js.map
+│   │   │   │   └── worker.d.ts
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── client-common
+│   │   │   ├── dist
+│   │   │   │   ├── common.cjs
+│   │   │   │   ├── common.cjs.map
+│   │   │   │   ├── common.d.cts
+│   │   │   │   ├── common.d.ts
+│   │   │   │   ├── common.js
+│   │   │   │   └── common.js.map
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   └── package.json
+│   │   ├── client-insights
+│   │   │   ├── dist
+│   │   │   │   ├── browser.d.ts
+│   │   │   │   ├── builds
+│   │   │   │   │   ├── browser.js
+│   │   │   │   │   ├── browser.js.map
+│   │   │   │   │   ├── browser.min.js
+│   │   │   │   │   ├── browser.min.js.map
+│   │   │   │   │   ├── browser.umd.js
+│   │   │   │   │   ├── fetch.js
+│   │   │   │   │   ├── fetch.js.map
+│   │   │   │   │   ├── node.cjs
+│   │   │   │   │   ├── node.cjs.map
+│   │   │   │   │   ├── node.js
+│   │   │   │   │   ├── node.js.map
+│   │   │   │   │   ├── worker.js
+│   │   │   │   │   └── worker.js.map
+│   │   │   │   ├── fetch.d.ts
+│   │   │   │   ├── node.d.cts
+│   │   │   │   ├── node.d.ts
+│   │   │   │   ├── src
+│   │   │   │   │   ├── insightsClient.cjs
+│   │   │   │   │   ├── insightsClient.cjs.map
+│   │   │   │   │   ├── insightsClient.js
+│   │   │   │   │   └── insightsClient.js.map
+│   │   │   │   └── worker.d.ts
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── client-personalization
+│   │   │   ├── dist
+│   │   │   │   ├── browser.d.ts
+│   │   │   │   ├── builds
+│   │   │   │   │   ├── browser.js
+│   │   │   │   │   ├── browser.js.map
+│   │   │   │   │   ├── browser.min.js
+│   │   │   │   │   ├── browser.min.js.map
+│   │   │   │   │   ├── browser.umd.js
+│   │   │   │   │   ├── fetch.js
+│   │   │   │   │   ├── fetch.js.map
+│   │   │   │   │   ├── node.cjs
+│   │   │   │   │   ├── node.cjs.map
+│   │   │   │   │   ├── node.js
+│   │   │   │   │   ├── node.js.map
+│   │   │   │   │   ├── worker.js
+│   │   │   │   │   └── worker.js.map
+│   │   │   │   ├── fetch.d.ts
+│   │   │   │   ├── node.d.cts
+│   │   │   │   ├── node.d.ts
+│   │   │   │   ├── src
+│   │   │   │   │   ├── personalizationClient.cjs
+│   │   │   │   │   ├── personalizationClient.cjs.map
+│   │   │   │   │   ├── personalizationClient.js
+│   │   │   │   │   └── personalizationClient.js.map
+│   │   │   │   └── worker.d.ts
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── client-query-suggestions
+│   │   │   ├── dist
+│   │   │   │   ├── browser.d.ts
+│   │   │   │   ├── builds
+│   │   │   │   │   ├── browser.js
+│   │   │   │   │   ├── browser.js.map
+│   │   │   │   │   ├── browser.min.js
+│   │   │   │   │   ├── browser.min.js.map
+│   │   │   │   │   ├── browser.umd.js
+│   │   │   │   │   ├── fetch.js
+│   │   │   │   │   ├── fetch.js.map
+│   │   │   │   │   ├── node.cjs
+│   │   │   │   │   ├── node.cjs.map
+│   │   │   │   │   ├── node.js
+│   │   │   │   │   ├── node.js.map
+│   │   │   │   │   ├── worker.js
+│   │   │   │   │   └── worker.js.map
+│   │   │   │   ├── fetch.d.ts
+│   │   │   │   ├── node.d.cts
+│   │   │   │   ├── node.d.ts
+│   │   │   │   ├── src
+│   │   │   │   │   ├── querySuggestionsClient.cjs
+│   │   │   │   │   ├── querySuggestionsClient.cjs.map
+│   │   │   │   │   ├── querySuggestionsClient.js
+│   │   │   │   │   └── querySuggestionsClient.js.map
+│   │   │   │   └── worker.d.ts
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── client-search
+│   │   │   ├── dist
+│   │   │   │   ├── browser.d.ts
+│   │   │   │   ├── builds
+│   │   │   │   │   ├── browser.js
+│   │   │   │   │   ├── browser.js.map
+│   │   │   │   │   ├── browser.min.js
+│   │   │   │   │   ├── browser.min.js.map
+│   │   │   │   │   ├── browser.umd.js
+│   │   │   │   │   ├── fetch.js
+│   │   │   │   │   ├── fetch.js.map
+│   │   │   │   │   ├── node.cjs
+│   │   │   │   │   ├── node.cjs.map
+│   │   │   │   │   ├── node.js
+│   │   │   │   │   ├── node.js.map
+│   │   │   │   │   ├── worker.js
+│   │   │   │   │   └── worker.js.map
+│   │   │   │   ├── fetch.d.ts
+│   │   │   │   ├── node.d.cts
+│   │   │   │   ├── node.d.ts
+│   │   │   │   ├── src
+│   │   │   │   │   ├── searchClient.cjs
+│   │   │   │   │   ├── searchClient.cjs.map
+│   │   │   │   │   ├── searchClient.js
+│   │   │   │   │   └── searchClient.js.map
+│   │   │   │   └── worker.d.ts
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── ingestion
+│   │   │   ├── dist
+│   │   │   │   ├── browser.d.ts
+│   │   │   │   ├── builds
+│   │   │   │   │   ├── browser.js
+│   │   │   │   │   ├── browser.js.map
+│   │   │   │   │   ├── browser.min.js
+│   │   │   │   │   ├── browser.min.js.map
+│   │   │   │   │   ├── browser.umd.js
+│   │   │   │   │   ├── fetch.js
+│   │   │   │   │   ├── fetch.js.map
+│   │   │   │   │   ├── node.cjs
+│   │   │   │   │   ├── node.cjs.map
+│   │   │   │   │   ├── node.js
+│   │   │   │   │   ├── node.js.map
+│   │   │   │   │   ├── worker.js
+│   │   │   │   │   └── worker.js.map
+│   │   │   │   ├── fetch.d.ts
+│   │   │   │   ├── node.d.cts
+│   │   │   │   ├── node.d.ts
+│   │   │   │   ├── src
+│   │   │   │   │   ├── ingestionClient.cjs
+│   │   │   │   │   ├── ingestionClient.cjs.map
+│   │   │   │   │   ├── ingestionClient.js
+│   │   │   │   │   └── ingestionClient.js.map
+│   │   │   │   └── worker.d.ts
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── monitoring
+│   │   │   ├── dist
+│   │   │   │   ├── browser.d.ts
+│   │   │   │   ├── builds
+│   │   │   │   │   ├── browser.js
+│   │   │   │   │   ├── browser.js.map
+│   │   │   │   │   ├── browser.min.js
+│   │   │   │   │   ├── browser.min.js.map
+│   │   │   │   │   ├── browser.umd.js
+│   │   │   │   │   ├── fetch.js
+│   │   │   │   │   ├── fetch.js.map
+│   │   │   │   │   ├── node.cjs
+│   │   │   │   │   ├── node.cjs.map
+│   │   │   │   │   ├── node.js
+│   │   │   │   │   ├── node.js.map
+│   │   │   │   │   ├── worker.js
+│   │   │   │   │   └── worker.js.map
+│   │   │   │   ├── fetch.d.ts
+│   │   │   │   ├── node.d.cts
+│   │   │   │   ├── node.d.ts
+│   │   │   │   ├── src
+│   │   │   │   │   ├── monitoringClient.cjs
+│   │   │   │   │   ├── monitoringClient.cjs.map
+│   │   │   │   │   ├── monitoringClient.js
+│   │   │   │   │   └── monitoringClient.js.map
+│   │   │   │   └── worker.d.ts
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── recommend
+│   │   │   ├── dist
+│   │   │   │   ├── browser.d.ts
+│   │   │   │   ├── builds
+│   │   │   │   │   ├── browser.js
+│   │   │   │   │   ├── browser.js.map
+│   │   │   │   │   ├── browser.min.js
+│   │   │   │   │   ├── browser.min.js.map
+│   │   │   │   │   ├── browser.umd.js
+│   │   │   │   │   ├── fetch.js
+│   │   │   │   │   ├── fetch.js.map
+│   │   │   │   │   ├── node.cjs
+│   │   │   │   │   ├── node.cjs.map
+│   │   │   │   │   ├── node.js
+│   │   │   │   │   ├── node.js.map
+│   │   │   │   │   ├── worker.js
+│   │   │   │   │   └── worker.js.map
+│   │   │   │   ├── fetch.d.ts
+│   │   │   │   ├── node.d.cts
+│   │   │   │   ├── node.d.ts
+│   │   │   │   ├── src
+│   │   │   │   │   ├── recommendClient.cjs
+│   │   │   │   │   ├── recommendClient.cjs.map
+│   │   │   │   │   ├── recommendClient.js
+│   │   │   │   │   └── recommendClient.js.map
+│   │   │   │   └── worker.d.ts
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── requester-browser-xhr
+│   │   │   ├── dist
+│   │   │   │   ├── requester.xhr.d.ts
+│   │   │   │   ├── requester.xhr.js
+│   │   │   │   └── requester.xhr.js.map
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   └── package.json
+│   │   ├── requester-fetch
+│   │   │   ├── dist
+│   │   │   │   ├── requester.fetch.browser.d.ts
+│   │   │   │   ├── requester.fetch.browser.js
+│   │   │   │   ├── requester.fetch.browser.js.map
+│   │   │   │   ├── requester.fetch.node.cjs
+│   │   │   │   ├── requester.fetch.node.cjs.map
+│   │   │   │   ├── requester.fetch.node.d.cts
+│   │   │   │   ├── requester.fetch.node.d.ts
+│   │   │   │   ├── requester.fetch.node.js
+│   │   │   │   └── requester.fetch.node.js.map
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   └── package.json
+│   │   └── requester-node-http
+│   │       ├── dist
+│   │       │   ├── requester.http.cjs
+│   │       │   ├── requester.http.cjs.map
+│   │       │   ├── requester.http.d.cts
+│   │       │   ├── requester.http.d.ts
+│   │       │   ├── requester.http.js
+│   │       │   └── requester.http.js.map
+│   │       ├── index.d.ts
+│   │       ├── index.js
+│   │       ├── LICENSE
+│   │       └── package.json
+│   ├── algoliasearch
+│   │   ├── dist
+│   │   │   ├── algoliasearch.umd.js
+│   │   │   ├── browser.d.ts
+│   │   │   ├── browser.js
+│   │   │   ├── browser.js.map
+│   │   │   ├── browser.min.js
+│   │   │   ├── browser.min.js.map
+│   │   │   ├── fetch.d.ts
+│   │   │   ├── fetch.js
+│   │   │   ├── fetch.js.map
+│   │   │   ├── lite
+│   │   │   │   ├── browser.d.ts
+│   │   │   │   ├── builds
+│   │   │   │   │   ├── browser.js
+│   │   │   │   │   ├── browser.js.map
+│   │   │   │   │   ├── browser.min.js
+│   │   │   │   │   ├── browser.min.js.map
+│   │   │   │   │   ├── browser.umd.js
+│   │   │   │   │   ├── node.cjs
+│   │   │   │   │   ├── node.cjs.map
+│   │   │   │   │   ├── node.js
+│   │   │   │   │   └── node.js.map
+│   │   │   │   ├── node.d.cts
+│   │   │   │   ├── node.d.ts
+│   │   │   │   └── src
+│   │   │   │       ├── liteClient.cjs
+│   │   │   │       ├── liteClient.cjs.map
+│   │   │   │       ├── liteClient.js
+│   │   │   │       └── liteClient.js.map
+│   │   │   ├── node.cjs
+│   │   │   ├── node.cjs.map
+│   │   │   ├── node.d.cts
+│   │   │   ├── node.d.ts
+│   │   │   ├── node.js
+│   │   │   ├── node.js.map
+│   │   │   ├── worker.d.ts
+│   │   │   ├── worker.js
+│   │   │   └── worker.js.map
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── lite.d.ts
+│   │   ├── lite.js
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── @babel
+│   │   ├── helper-string-parser
+│   │   │   ├── lib
+│   │   │   │   ├── index.js
+│   │   │   │   └── index.js.map
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── helper-validator-identifier
+│   │   │   ├── lib
+│   │   │   │   ├── identifier.js
+│   │   │   │   ├── identifier.js.map
+│   │   │   │   ├── index.js
+│   │   │   │   ├── index.js.map
+│   │   │   │   ├── keyword.js
+│   │   │   │   └── keyword.js.map
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── parser
+│   │   │   ├── bin
+│   │   │   │   └── babel-parser.js
+│   │   │   ├── CHANGELOG.md
+│   │   │   ├── lib
+│   │   │   │   ├── index.js
+│   │   │   │   └── index.js.map
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   ├── README.md
+│   │   │   └── typings
+│   │   │       └── babel-parser.d.ts
+│   │   └── types
+│   │       ├── lib
+│   │       │   ├── asserts
+│   │       │   │   ├── assertNode.js
+│   │       │   │   ├── assertNode.js.map
+│   │       │   │   └── generated
+│   │       │   │       ├── index.js
+│   │       │   │       └── index.js.map
+│   │       │   ├── ast-types
+│   │       │   │   └── generated
+│   │       │   │       ├── index.js
+│   │       │   │       └── index.js.map
+│   │       │   ├── builders
+│   │       │   │   ├── flow
+│   │       │   │   │   ├── createFlowUnionType.js
+│   │       │   │   │   ├── createFlowUnionType.js.map
+│   │       │   │   │   ├── createTypeAnnotationBasedOnTypeof.js
+│   │       │   │   │   └── createTypeAnnotationBasedOnTypeof.js.map
+│   │       │   │   ├── generated
+│   │       │   │   │   ├── index.js
+│   │       │   │   │   ├── index.js.map
+│   │       │   │   │   ├── lowercase.js
+│   │       │   │   │   ├── lowercase.js.map
+│   │       │   │   │   ├── uppercase.js
+│   │       │   │   │   └── uppercase.js.map
+│   │       │   │   ├── productions.js
+│   │       │   │   ├── productions.js.map
+│   │       │   │   ├── react
+│   │       │   │   │   ├── buildChildren.js
+│   │       │   │   │   └── buildChildren.js.map
+│   │       │   │   ├── typescript
+│   │       │   │   │   ├── createTSUnionType.js
+│   │       │   │   │   └── createTSUnionType.js.map
+│   │       │   │   ├── validateNode.js
+│   │       │   │   └── validateNode.js.map
+│   │       │   ├── clone
+│   │       │   │   ├── cloneDeep.js
+│   │       │   │   ├── cloneDeep.js.map
+│   │       │   │   ├── cloneDeepWithoutLoc.js
+│   │       │   │   ├── cloneDeepWithoutLoc.js.map
+│   │       │   │   ├── clone.js
+│   │       │   │   ├── clone.js.map
+│   │       │   │   ├── cloneNode.js
+│   │       │   │   ├── cloneNode.js.map
+│   │       │   │   ├── cloneWithoutLoc.js
+│   │       │   │   └── cloneWithoutLoc.js.map
+│   │       │   ├── comments
+│   │       │   │   ├── addComment.js
+│   │       │   │   ├── addComment.js.map
+│   │       │   │   ├── addComments.js
+│   │       │   │   ├── addComments.js.map
+│   │       │   │   ├── inheritInnerComments.js
+│   │       │   │   ├── inheritInnerComments.js.map
+│   │       │   │   ├── inheritLeadingComments.js
+│   │       │   │   ├── inheritLeadingComments.js.map
+│   │       │   │   ├── inheritsComments.js
+│   │       │   │   ├── inheritsComments.js.map
+│   │       │   │   ├── inheritTrailingComments.js
+│   │       │   │   ├── inheritTrailingComments.js.map
+│   │       │   │   ├── removeComments.js
+│   │       │   │   └── removeComments.js.map
+│   │       │   ├── constants
+│   │       │   │   ├── generated
+│   │       │   │   │   ├── index.js
+│   │       │   │   │   └── index.js.map
+│   │       │   │   ├── index.js
+│   │       │   │   └── index.js.map
+│   │       │   ├── converters
+│   │       │   │   ├── ensureBlock.js
+│   │       │   │   ├── ensureBlock.js.map
+│   │       │   │   ├── gatherSequenceExpressions.js
+│   │       │   │   ├── gatherSequenceExpressions.js.map
+│   │       │   │   ├── toBindingIdentifierName.js
+│   │       │   │   ├── toBindingIdentifierName.js.map
+│   │       │   │   ├── toBlock.js
+│   │       │   │   ├── toBlock.js.map
+│   │       │   │   ├── toComputedKey.js
+│   │       │   │   ├── toComputedKey.js.map
+│   │       │   │   ├── toExpression.js
+│   │       │   │   ├── toExpression.js.map
+│   │       │   │   ├── toIdentifier.js
+│   │       │   │   ├── toIdentifier.js.map
+│   │       │   │   ├── toKeyAlias.js
+│   │       │   │   ├── toKeyAlias.js.map
+│   │       │   │   ├── toSequenceExpression.js
+│   │       │   │   ├── toSequenceExpression.js.map
+│   │       │   │   ├── toStatement.js
+│   │       │   │   ├── toStatement.js.map
+│   │       │   │   ├── valueToNode.js
+│   │       │   │   └── valueToNode.js.map
+│   │       │   ├── definitions
+│   │       │   │   ├── core.js
+│   │       │   │   ├── core.js.map
+│   │       │   │   ├── deprecated-aliases.js
+│   │       │   │   ├── deprecated-aliases.js.map
+│   │       │   │   ├── experimental.js
+│   │       │   │   ├── experimental.js.map
+│   │       │   │   ├── flow.js
+│   │       │   │   ├── flow.js.map
+│   │       │   │   ├── index.js
+│   │       │   │   ├── index.js.map
+│   │       │   │   ├── jsx.js
+│   │       │   │   ├── jsx.js.map
+│   │       │   │   ├── misc.js
+│   │       │   │   ├── misc.js.map
+│   │       │   │   ├── placeholders.js
+│   │       │   │   ├── placeholders.js.map
+│   │       │   │   ├── typescript.js
+│   │       │   │   ├── typescript.js.map
+│   │       │   │   ├── utils.js
+│   │       │   │   └── utils.js.map
+│   │       │   ├── index.d.ts
+│   │       │   ├── index.js
+│   │       │   ├── index.js.flow
+│   │       │   ├── index.js.map
+│   │       │   ├── index-legacy.d.ts
+│   │       │   ├── modifications
+│   │       │   │   ├── appendToMemberExpression.js
+│   │       │   │   ├── appendToMemberExpression.js.map
+│   │       │   │   ├── flow
+│   │       │   │   │   ├── removeTypeDuplicates.js
+│   │       │   │   │   └── removeTypeDuplicates.js.map
+│   │       │   │   ├── inherits.js
+│   │       │   │   ├── inherits.js.map
+│   │       │   │   ├── prependToMemberExpression.js
+│   │       │   │   ├── prependToMemberExpression.js.map
+│   │       │   │   ├── removePropertiesDeep.js
+│   │       │   │   ├── removePropertiesDeep.js.map
+│   │       │   │   ├── removeProperties.js
+│   │       │   │   ├── removeProperties.js.map
+│   │       │   │   └── typescript
+│   │       │   │       ├── removeTypeDuplicates.js
+│   │       │   │       └── removeTypeDuplicates.js.map
+│   │       │   ├── retrievers
+│   │       │   │   ├── getAssignmentIdentifiers.js
+│   │       │   │   ├── getAssignmentIdentifiers.js.map
+│   │       │   │   ├── getBindingIdentifiers.js
+│   │       │   │   ├── getBindingIdentifiers.js.map
+│   │       │   │   ├── getFunctionName.js
+│   │       │   │   ├── getFunctionName.js.map
+│   │       │   │   ├── getOuterBindingIdentifiers.js
+│   │       │   │   └── getOuterBindingIdentifiers.js.map
+│   │       │   ├── traverse
+│   │       │   │   ├── traverseFast.js
+│   │       │   │   ├── traverseFast.js.map
+│   │       │   │   ├── traverse.js
+│   │       │   │   └── traverse.js.map
+│   │       │   ├── utils
+│   │       │   │   ├── deprecationWarning.js
+│   │       │   │   ├── deprecationWarning.js.map
+│   │       │   │   ├── inherit.js
+│   │       │   │   ├── inherit.js.map
+│   │       │   │   ├── react
+│   │       │   │   │   ├── cleanJSXElementLiteralChild.js
+│   │       │   │   │   └── cleanJSXElementLiteralChild.js.map
+│   │       │   │   ├── shallowEqual.js
+│   │       │   │   └── shallowEqual.js.map
+│   │       │   └── validators
+│   │       │       ├── buildMatchMemberExpression.js
+│   │       │       ├── buildMatchMemberExpression.js.map
+│   │       │       ├── generated
+│   │       │       │   ├── index.js
+│   │       │       │   └── index.js.map
+│   │       │       ├── isBinding.js
+│   │       │       ├── isBinding.js.map
+│   │       │       ├── isBlockScoped.js
+│   │       │       ├── isBlockScoped.js.map
+│   │       │       ├── isImmutable.js
+│   │       │       ├── isImmutable.js.map
+│   │       │       ├── is.js
+│   │       │       ├── is.js.map
+│   │       │       ├── isLet.js
+│   │       │       ├── isLet.js.map
+│   │       │       ├── isNode.js
+│   │       │       ├── isNode.js.map
+│   │       │       ├── isNodesEquivalent.js
+│   │       │       ├── isNodesEquivalent.js.map
+│   │       │       ├── isPlaceholderType.js
+│   │       │       ├── isPlaceholderType.js.map
+│   │       │       ├── isReferenced.js
+│   │       │       ├── isReferenced.js.map
+│   │       │       ├── isScope.js
+│   │       │       ├── isScope.js.map
+│   │       │       ├── isSpecifierDefault.js
+│   │       │       ├── isSpecifierDefault.js.map
+│   │       │       ├── isType.js
+│   │       │       ├── isType.js.map
+│   │       │       ├── isValidES3Identifier.js
+│   │       │       ├── isValidES3Identifier.js.map
+│   │       │       ├── isValidIdentifier.js
+│   │       │       ├── isValidIdentifier.js.map
+│   │       │       ├── isVar.js
+│   │       │       ├── isVar.js.map
+│   │       │       ├── matchesPattern.js
+│   │       │       ├── matchesPattern.js.map
+│   │       │       ├── react
+│   │       │       │   ├── isCompatTag.js
+│   │       │       │   ├── isCompatTag.js.map
+│   │       │       │   ├── isReactComponent.js
+│   │       │       │   └── isReactComponent.js.map
+│   │       │       ├── validate.js
+│   │       │       └── validate.js.map
+│   │       ├── LICENSE
+│   │       ├── package.json
+│   │       └── README.md
+│   ├── birpc
+│   │   ├── dist
+│   │   │   ├── index.cjs
+│   │   │   ├── index.d.cts
+│   │   │   ├── index.d.mts
+│   │   │   ├── index.d.ts
+│   │   │   └── index.mjs
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── ccount
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── character-entities-html4
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── character-entities-legacy
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── comma-separated-tokens
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── copy-anything
+│   │   ├── dist
+│   │   │   ├── index.d.ts
+│   │   │   └── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── cssesc
+│   │   ├── bin
+│   │   │   └── cssesc
+│   │   ├── cssesc.js
+│   │   ├── LICENSE-MIT.txt
+│   │   ├── man
+│   │   │   └── cssesc.1
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── csstype
+│   │   ├── index.d.ts
+│   │   ├── index.js.flow
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── dequal
+│   │   ├── dist
+│   │   │   ├── index.js
+│   │   │   ├── index.min.js
+│   │   │   └── index.mjs
+│   │   ├── index.d.ts
+│   │   ├── license
+│   │   ├── lite
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── index.min.js
+│   │   │   └── index.mjs
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── detect-libc
+│   │   ├── index.d.ts
+│   │   ├── lib
+│   │   │   ├── detect-libc.js
+│   │   │   ├── elf.js
+│   │   │   ├── filesystem.js
+│   │   │   └── process.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── devlop
+│   │   ├── lib
+│   │   │   ├── default.js
+│   │   │   ├── development.d.ts
+│   │   │   └── development.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── @docsearch
+│   │   ├── css
+│   │   │   ├── dist
+│   │   │   │   ├── button.css
+│   │   │   │   ├── modal.css
+│   │   │   │   ├── style.css
+│   │   │   │   ├── style.scss
+│   │   │   │   └── _variables.css
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── js
+│   │   │   ├── dist
+│   │   │   │   ├── esm
+│   │   │   │   │   ├── index.d.ts
+│   │   │   │   │   ├── index.js
+│   │   │   │   │   └── index.js.map
+│   │   │   │   └── umd
+│   │   │   │       ├── index.js
+│   │   │   │       └── index.js.map
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   └── react
+│   │       ├── button.js
+│   │       ├── dist
+│   │       │   ├── esm
+│   │       │   │   ├── index.d.ts
+│   │       │   │   └── index.js
+│   │       │   └── umd
+│   │       │       ├── index.js
+│   │       │       └── index.js.map
+│   │       ├── modal.js
+│   │       ├── package.json
+│   │       ├── README.md
+│   │       └── style
+│   │           ├── button.js
+│   │           ├── index.js
+│   │           ├── modal.js
+│   │           └── variables.js
+│   ├── emoji-regex-xs
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── index.mjs
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── enhanced-resolve
+│   │   ├── lib
+│   │   │   ├── AliasFieldPlugin.js
+│   │   │   ├── AliasPlugin.js
+│   │   │   ├── AliasUtils.js
+│   │   │   ├── AppendPlugin.js
+│   │   │   ├── CachedInputFileSystem.js
+│   │   │   ├── CloneBasenamePlugin.js
+│   │   │   ├── ConditionalPlugin.js
+│   │   │   ├── createInnerContext.js
+│   │   │   ├── DescriptionFilePlugin.js
+│   │   │   ├── DescriptionFileUtils.js
+│   │   │   ├── DirectoryExistsPlugin.js
+│   │   │   ├── ExportsFieldPlugin.js
+│   │   │   ├── ExtensionAliasPlugin.js
+│   │   │   ├── FileExistsPlugin.js
+│   │   │   ├── forEachBail.js
+│   │   │   ├── getInnerRequest.js
+│   │   │   ├── getPaths.js
+│   │   │   ├── ImportsFieldPlugin.js
+│   │   │   ├── index.js
+│   │   │   ├── JoinRequestPartPlugin.js
+│   │   │   ├── JoinRequestPlugin.js
+│   │   │   ├── LogInfoPlugin.js
+│   │   │   ├── MainFieldPlugin.js
+│   │   │   ├── ModulesInHierachicDirectoriesPlugin.js
+│   │   │   ├── ModulesInHierarchicalDirectoriesPlugin.js
+│   │   │   ├── ModulesInRootPlugin.js
+│   │   │   ├── ModulesUtils.js
+│   │   │   ├── NextPlugin.js
+│   │   │   ├── PackageMapPlugin.js
+│   │   │   ├── ParsePlugin.js
+│   │   │   ├── PnpPlugin.js
+│   │   │   ├── ResolverFactory.js
+│   │   │   ├── Resolver.js
+│   │   │   ├── RestrictionsPlugin.js
+│   │   │   ├── ResultPlugin.js
+│   │   │   ├── RootsPlugin.js
+│   │   │   ├── SelfReferencePlugin.js
+│   │   │   ├── SymlinkPlugin.js
+│   │   │   ├── SyncAsyncFileSystemDecorator.js
+│   │   │   ├── TryNextPlugin.js
+│   │   │   ├── TsconfigPathsPlugin.js
+│   │   │   ├── UnsafeCachePlugin.js
+│   │   │   ├── UseFilePlugin.js
+│   │   │   └── util
+│   │   │       ├── entrypoints.js
+│   │   │       ├── fileURLToPath.js
+│   │   │       ├── fs.js
+│   │   │       ├── graceful-fs-browser.js
+│   │   │       ├── identifier.js
+│   │   │       ├── memoize.js
+│   │   │       ├── module-browser.js
+│   │   │       ├── packageMap.js
+│   │   │       ├── path-browser.js
+│   │   │       ├── path.js
+│   │   │       ├── pathToFileURL.js
+│   │   │       ├── process-browser.js
+│   │   │       ├── strip-json-comments.js
+│   │   │       └── url-browser.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── types
+│   │   │   ├── AliasFieldPlugin.d.ts
+│   │   │   ├── AliasPlugin.d.ts
+│   │   │   ├── AliasUtils.d.ts
+│   │   │   ├── AppendPlugin.d.ts
+│   │   │   ├── CachedInputFileSystem.d.ts
+│   │   │   ├── CloneBasenamePlugin.d.ts
+│   │   │   ├── ConditionalPlugin.d.ts
+│   │   │   ├── createInnerContext.d.ts
+│   │   │   ├── DescriptionFilePlugin.d.ts
+│   │   │   ├── DescriptionFileUtils.d.ts
+│   │   │   ├── DirectoryExistsPlugin.d.ts
+│   │   │   ├── ExportsFieldPlugin.d.ts
+│   │   │   ├── ExtensionAliasPlugin.d.ts
+│   │   │   ├── FileExistsPlugin.d.ts
+│   │   │   ├── forEachBail.d.ts
+│   │   │   ├── getInnerRequest.d.ts
+│   │   │   ├── getPaths.d.ts
+│   │   │   ├── ImportsFieldPlugin.d.ts
+│   │   │   ├── index.d.ts
+│   │   │   ├── JoinRequestPartPlugin.d.ts
+│   │   │   ├── JoinRequestPlugin.d.ts
+│   │   │   ├── LogInfoPlugin.d.ts
+│   │   │   ├── MainFieldPlugin.d.ts
+│   │   │   ├── ModulesInHierachicDirectoriesPlugin.d.ts
+│   │   │   ├── ModulesInHierarchicalDirectoriesPlugin.d.ts
+│   │   │   ├── ModulesInRootPlugin.d.ts
+│   │   │   ├── ModulesUtils.d.ts
+│   │   │   ├── NextPlugin.d.ts
+│   │   │   ├── PackageMapPlugin.d.ts
+│   │   │   ├── ParsePlugin.d.ts
+│   │   │   ├── PnpPlugin.d.ts
+│   │   │   ├── Resolver.d.ts
+│   │   │   ├── ResolverFactory.d.ts
+│   │   │   ├── RestrictionsPlugin.d.ts
+│   │   │   ├── ResultPlugin.d.ts
+│   │   │   ├── RootsPlugin.d.ts
+│   │   │   ├── SelfReferencePlugin.d.ts
+│   │   │   ├── SymlinkPlugin.d.ts
+│   │   │   ├── SyncAsyncFileSystemDecorator.d.ts
+│   │   │   ├── TryNextPlugin.d.ts
+│   │   │   ├── TsconfigPathsPlugin.d.ts
+│   │   │   ├── UnsafeCachePlugin.d.ts
+│   │   │   ├── UseFilePlugin.d.ts
+│   │   │   └── util
+│   │   │       ├── entrypoints.d.ts
+│   │   │       ├── fileURLToPath.d.ts
+│   │   │       ├── fs.d.ts
+│   │   │       ├── graceful-fs-browser.d.ts
+│   │   │       ├── identifier.d.ts
+│   │   │       ├── memoize.d.ts
+│   │   │       ├── module-browser.d.ts
+│   │   │       ├── packageMap.d.ts
+│   │   │       ├── path-browser.d.ts
+│   │   │       ├── path.d.ts
+│   │   │       ├── pathToFileURL.d.ts
+│   │   │       ├── process-browser.d.ts
+│   │   │       ├── strip-json-comments.d.ts
+│   │   │       └── url-browser.d.ts
+│   │   └── types.d.ts
+│   ├── entities
+│   │   ├── decode.d.ts
+│   │   ├── decode.js
+│   │   ├── dist
+│   │   │   ├── commonjs
+│   │   │   │   ├── decode-codepoint.d.ts
+│   │   │   │   ├── decode-codepoint.d.ts.map
+│   │   │   │   ├── decode-codepoint.js
+│   │   │   │   ├── decode-codepoint.js.map
+│   │   │   │   ├── decode.d.ts
+│   │   │   │   ├── decode.d.ts.map
+│   │   │   │   ├── decode.js
+│   │   │   │   ├── decode.js.map
+│   │   │   │   ├── encode.d.ts
+│   │   │   │   ├── encode.d.ts.map
+│   │   │   │   ├── encode.js
+│   │   │   │   ├── encode.js.map
+│   │   │   │   ├── escape.d.ts
+│   │   │   │   ├── escape.d.ts.map
+│   │   │   │   ├── escape.js
+│   │   │   │   ├── escape.js.map
+│   │   │   │   ├── generated
+│   │   │   │   │   ├── decode-data-html.d.ts
+│   │   │   │   │   ├── decode-data-html.d.ts.map
+│   │   │   │   │   ├── decode-data-html.js
+│   │   │   │   │   ├── decode-data-html.js.map
+│   │   │   │   │   ├── decode-data-xml.d.ts
+│   │   │   │   │   ├── decode-data-xml.d.ts.map
+│   │   │   │   │   ├── decode-data-xml.js
+│   │   │   │   │   ├── decode-data-xml.js.map
+│   │   │   │   │   ├── encode-html.d.ts
+│   │   │   │   │   ├── encode-html.d.ts.map
+│   │   │   │   │   ├── encode-html.js
+│   │   │   │   │   └── encode-html.js.map
+│   │   │   │   ├── index.d.ts
+│   │   │   │   ├── index.d.ts.map
+│   │   │   │   ├── index.js
+│   │   │   │   ├── index.js.map
+│   │   │   │   ├── internal
+│   │   │   │   │   ├── bin-trie-flags.d.ts
+│   │   │   │   │   ├── bin-trie-flags.d.ts.map
+│   │   │   │   │   ├── bin-trie-flags.js
+│   │   │   │   │   ├── bin-trie-flags.js.map
+│   │   │   │   │   ├── decode-shared.d.ts
+│   │   │   │   │   ├── decode-shared.d.ts.map
+│   │   │   │   │   ├── decode-shared.js
+│   │   │   │   │   ├── decode-shared.js.map
+│   │   │   │   │   ├── encode-shared.d.ts
+│   │   │   │   │   ├── encode-shared.d.ts.map
+│   │   │   │   │   ├── encode-shared.js
+│   │   │   │   │   └── encode-shared.js.map
+│   │   │   │   └── package.json
+│   │   │   └── esm
+│   │   │       ├── decode-codepoint.d.ts
+│   │   │       ├── decode-codepoint.d.ts.map
+│   │   │       ├── decode-codepoint.js
+│   │   │       ├── decode-codepoint.js.map
+│   │   │       ├── decode.d.ts
+│   │   │       ├── decode.d.ts.map
+│   │   │       ├── decode.js
+│   │   │       ├── decode.js.map
+│   │   │       ├── encode.d.ts
+│   │   │       ├── encode.d.ts.map
+│   │   │       ├── encode.js
+│   │   │       ├── encode.js.map
+│   │   │       ├── escape.d.ts
+│   │   │       ├── escape.d.ts.map
+│   │   │       ├── escape.js
+│   │   │       ├── escape.js.map
+│   │   │       ├── generated
+│   │   │       │   ├── decode-data-html.d.ts
+│   │   │       │   ├── decode-data-html.d.ts.map
+│   │   │       │   ├── decode-data-html.js
+│   │   │       │   ├── decode-data-html.js.map
+│   │   │       │   ├── decode-data-xml.d.ts
+│   │   │       │   ├── decode-data-xml.d.ts.map
+│   │   │       │   ├── decode-data-xml.js
+│   │   │       │   ├── decode-data-xml.js.map
+│   │   │       │   ├── encode-html.d.ts
+│   │   │       │   ├── encode-html.d.ts.map
+│   │   │       │   ├── encode-html.js
+│   │   │       │   └── encode-html.js.map
+│   │   │       ├── index.d.ts
+│   │   │       ├── index.d.ts.map
+│   │   │       ├── index.js
+│   │   │       ├── index.js.map
+│   │   │       ├── internal
+│   │   │       │   ├── bin-trie-flags.d.ts
+│   │   │       │   ├── bin-trie-flags.d.ts.map
+│   │   │       │   ├── bin-trie-flags.js
+│   │   │       │   ├── bin-trie-flags.js.map
+│   │   │       │   ├── decode-shared.d.ts
+│   │   │       │   ├── decode-shared.d.ts.map
+│   │   │       │   ├── decode-shared.js
+│   │   │       │   ├── decode-shared.js.map
+│   │   │       │   ├── encode-shared.d.ts
+│   │   │       │   ├── encode-shared.d.ts.map
+│   │   │       │   ├── encode-shared.js
+│   │   │       │   └── encode-shared.js.map
+│   │   │       └── package.json
+│   │   ├── escape.d.ts
+│   │   ├── escape.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── readme.md
+│   │   └── src
+│   │       ├── decode-codepoint.ts
+│   │       ├── decode.ts
+│   │       ├── encode.ts
+│   │       ├── escape.ts
+│   │       ├── generated
+│   │       │   ├── decode-data-html.ts
+│   │       │   ├── decode-data-xml.ts
+│   │       │   └── encode-html.ts
+│   │       ├── index.ts
+│   │       └── internal
+│   │           ├── bin-trie-flags.ts
+│   │           ├── decode-shared.ts
+│   │           └── encode-shared.ts
+│   ├── @esbuild
+│   │   └── linux-x64
+│   │       ├── bin
+│   │       │   └── esbuild
+│   │       ├── package.json
+│   │       └── README.md
+│   ├── esbuild
+│   │   ├── bin
+│   │   │   └── esbuild
+│   │   ├── install.js
+│   │   ├── lib
+│   │   │   ├── main.d.ts
+│   │   │   └── main.js
+│   │   ├── LICENSE.md
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── estree-walker
+│   │   ├── CHANGELOG.md
+│   │   ├── dist
+│   │   │   ├── esm
+│   │   │   │   ├── estree-walker.js
+│   │   │   │   └── package.json
+│   │   │   └── umd
+│   │   │       └── estree-walker.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── src
+│   │   │   ├── async.js
+│   │   │   ├── index.js
+│   │   │   ├── package.json
+│   │   │   ├── sync.js
+│   │   │   └── walker.js
+│   │   └── types
+│   │       ├── async.d.ts
+│   │       ├── index.d.ts
+│   │       ├── sync.d.ts
+│   │       ├── tsconfig.tsbuildinfo
+│   │       └── walker.d.ts
+│   ├── focus-trap
+│   │   ├── CHANGELOG.md
+│   │   ├── dist
+│   │   │   ├── focus-trap.esm.js
+│   │   │   ├── focus-trap.esm.js.map
+│   │   │   ├── focus-trap.esm.min.js
+│   │   │   ├── focus-trap.esm.min.js.map
+│   │   │   ├── focus-trap.js
+│   │   │   ├── focus-trap.js.map
+│   │   │   ├── focus-trap.min.js
+│   │   │   ├── focus-trap.min.js.map
+│   │   │   ├── focus-trap.umd.js
+│   │   │   ├── focus-trap.umd.js.map
+│   │   │   ├── focus-trap.umd.min.js
+│   │   │   └── focus-trap.umd.min.js.map
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── SECURITY.md
+│   ├── graceful-fs
+│   │   ├── clone.js
+│   │   ├── graceful-fs.js
+│   │   ├── legacy-streams.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── polyfills.js
+│   │   └── README.md
+│   ├── hast-util-to-html
+│   │   ├── index.d.ts
+│   │   ├── index.d.ts.map
+│   │   ├── index.js
+│   │   ├── lib
+│   │   │   ├── handle
+│   │   │   │   ├── comment.d.ts
+│   │   │   │   ├── comment.d.ts.map
+│   │   │   │   ├── comment.js
+│   │   │   │   ├── doctype.d.ts
+│   │   │   │   ├── doctype.d.ts.map
+│   │   │   │   ├── doctype.js
+│   │   │   │   ├── element.d.ts
+│   │   │   │   ├── element.d.ts.map
+│   │   │   │   ├── element.js
+│   │   │   │   ├── index.d.ts
+│   │   │   │   ├── index.d.ts.map
+│   │   │   │   ├── index.js
+│   │   │   │   ├── raw.d.ts
+│   │   │   │   ├── raw.d.ts.map
+│   │   │   │   ├── raw.js
+│   │   │   │   ├── root.d.ts
+│   │   │   │   ├── root.d.ts.map
+│   │   │   │   ├── root.js
+│   │   │   │   ├── text.d.ts
+│   │   │   │   ├── text.d.ts.map
+│   │   │   │   └── text.js
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.d.ts.map
+│   │   │   ├── index.js
+│   │   │   └── omission
+│   │   │       ├── closing.d.ts
+│   │   │       ├── closing.d.ts.map
+│   │   │       ├── closing.js
+│   │   │       ├── omission.d.ts
+│   │   │       ├── omission.d.ts.map
+│   │   │       ├── omission.js
+│   │   │       ├── opening.d.ts
+│   │   │       ├── opening.d.ts.map
+│   │   │       ├── opening.js
+│   │   │       └── util
+│   │   │           ├── siblings.d.ts
+│   │   │           ├── siblings.d.ts.map
+│   │   │           └── siblings.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── hast-util-whitespace
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── lib
+│   │   │   ├── index.d.ts
+│   │   │   └── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── hookable
+│   │   ├── dist
+│   │   │   ├── index.cjs
+│   │   │   ├── index.d.ts
+│   │   │   └── index.mjs
+│   │   ├── LICENSE.md
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── html-void-elements
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── @iconify
+│   │   └── types
+│   │       ├── license.txt
+│   │       ├── package.json
+│   │       ├── pnpm-lock.yaml
+│   │       ├── provider.d.ts
+│   │       ├── provider.js
+│   │       ├── README.md
+│   │       ├── types.d.ts
+│   │       └── types.js
+│   ├── @iconify-json
+│   │   └── simple-icons
+│   │       ├── chars.json
+│   │       ├── icons.json
+│   │       ├── index.d.ts
+│   │       ├── index.js
+│   │       ├── index.mjs
+│   │       ├── info.json
+│   │       ├── metadata.json
+│   │       ├── package.json
+│   │       └── README.md
+│   ├── jiti
+│   │   ├── dist
+│   │   │   ├── babel.cjs
+│   │   │   └── jiti.cjs
+│   │   ├── lib
+│   │   │   ├── jiti.cjs
+│   │   │   ├── jiti-cli.mjs
+│   │   │   ├── jiti.d.cts
+│   │   │   ├── jiti.d.mts
+│   │   │   ├── jiti-hooks.mjs
+│   │   │   ├── jiti.mjs
+│   │   │   ├── jiti-native.mjs
+│   │   │   ├── jiti-register.d.mts
+│   │   │   ├── jiti-register.mjs
+│   │   │   ├── jiti-static.mjs
+│   │   │   └── types.d.ts
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── @jridgewell
+│   │   ├── gen-mapping
+│   │   │   ├── dist
+│   │   │   │   ├── gen-mapping.mjs
+│   │   │   │   ├── gen-mapping.mjs.map
+│   │   │   │   ├── gen-mapping.umd.js
+│   │   │   │   ├── gen-mapping.umd.js.map
+│   │   │   │   └── types
+│   │   │   │       ├── gen-mapping.d.ts
+│   │   │   │       ├── set-array.d.ts
+│   │   │   │       ├── sourcemap-segment.d.ts
+│   │   │   │       └── types.d.ts
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   ├── README.md
+│   │   │   ├── src
+│   │   │   │   ├── gen-mapping.ts
+│   │   │   │   ├── set-array.ts
+│   │   │   │   ├── sourcemap-segment.ts
+│   │   │   │   └── types.ts
+│   │   │   └── types
+│   │   │       ├── gen-mapping.d.cts
+│   │   │       ├── gen-mapping.d.cts.map
+│   │   │       ├── gen-mapping.d.mts
+│   │   │       ├── gen-mapping.d.mts.map
+│   │   │       ├── set-array.d.cts
+│   │   │       ├── set-array.d.cts.map
+│   │   │       ├── set-array.d.mts
+│   │   │       ├── set-array.d.mts.map
+│   │   │       ├── sourcemap-segment.d.cts
+│   │   │       ├── sourcemap-segment.d.cts.map
+│   │   │       ├── sourcemap-segment.d.mts
+│   │   │       ├── sourcemap-segment.d.mts.map
+│   │   │       ├── types.d.cts
+│   │   │       ├── types.d.cts.map
+│   │   │       ├── types.d.mts
+│   │   │       └── types.d.mts.map
+│   │   ├── remapping
+│   │   │   ├── dist
+│   │   │   │   ├── remapping.mjs
+│   │   │   │   ├── remapping.mjs.map
+│   │   │   │   ├── remapping.umd.js
+│   │   │   │   └── remapping.umd.js.map
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   ├── README.md
+│   │   │   ├── src
+│   │   │   │   ├── build-source-map-tree.ts
+│   │   │   │   ├── remapping.ts
+│   │   │   │   ├── source-map-tree.ts
+│   │   │   │   ├── source-map.ts
+│   │   │   │   └── types.ts
+│   │   │   └── types
+│   │   │       ├── build-source-map-tree.d.cts
+│   │   │       ├── build-source-map-tree.d.cts.map
+│   │   │       ├── build-source-map-tree.d.mts
+│   │   │       ├── build-source-map-tree.d.mts.map
+│   │   │       ├── remapping.d.cts
+│   │   │       ├── remapping.d.cts.map
+│   │   │       ├── remapping.d.mts
+│   │   │       ├── remapping.d.mts.map
+│   │   │       ├── source-map.d.cts
+│   │   │       ├── source-map.d.cts.map
+│   │   │       ├── source-map.d.mts
+│   │   │       ├── source-map.d.mts.map
+│   │   │       ├── source-map-tree.d.cts
+│   │   │       ├── source-map-tree.d.cts.map
+│   │   │       ├── source-map-tree.d.mts
+│   │   │       ├── source-map-tree.d.mts.map
+│   │   │       ├── types.d.cts
+│   │   │       ├── types.d.cts.map
+│   │   │       ├── types.d.mts
+│   │   │       └── types.d.mts.map
+│   │   ├── resolve-uri
+│   │   │   ├── dist
+│   │   │   │   ├── resolve-uri.mjs
+│   │   │   │   ├── resolve-uri.mjs.map
+│   │   │   │   ├── resolve-uri.umd.js
+│   │   │   │   ├── resolve-uri.umd.js.map
+│   │   │   │   └── types
+│   │   │   │       └── resolve-uri.d.ts
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── sourcemap-codec
+│   │   │   ├── dist
+│   │   │   │   ├── sourcemap-codec.mjs
+│   │   │   │   ├── sourcemap-codec.mjs.map
+│   │   │   │   ├── sourcemap-codec.umd.js
+│   │   │   │   └── sourcemap-codec.umd.js.map
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   ├── README.md
+│   │   │   ├── src
+│   │   │   │   ├── range-mappings.ts
+│   │   │   │   ├── scopes.ts
+│   │   │   │   ├── sourcemap-codec.ts
+│   │   │   │   ├── strings.ts
+│   │   │   │   └── vlq.ts
+│   │   │   └── types
+│   │   │       ├── range-mappings.d.cts
+│   │   │       ├── range-mappings.d.cts.map
+│   │   │       ├── range-mappings.d.mts
+│   │   │       ├── range-mappings.d.mts.map
+│   │   │       ├── scopes.d.cts
+│   │   │       ├── scopes.d.cts.map
+│   │   │       ├── scopes.d.mts
+│   │   │       ├── scopes.d.mts.map
+│   │   │       ├── sourcemap-codec.d.cts
+│   │   │       ├── sourcemap-codec.d.cts.map
+│   │   │       ├── sourcemap-codec.d.mts
+│   │   │       ├── sourcemap-codec.d.mts.map
+│   │   │       ├── strings.d.cts
+│   │   │       ├── strings.d.cts.map
+│   │   │       ├── strings.d.mts
+│   │   │       ├── strings.d.mts.map
+│   │   │       ├── vlq.d.cts
+│   │   │       ├── vlq.d.cts.map
+│   │   │       ├── vlq.d.mts
+│   │   │       └── vlq.d.mts.map
+│   │   └── trace-mapping
+│   │       ├── dist
+│   │       │   ├── trace-mapping.mjs
+│   │       │   ├── trace-mapping.mjs.map
+│   │       │   ├── trace-mapping.umd.js
+│   │       │   └── trace-mapping.umd.js.map
+│   │       ├── LICENSE
+│   │       ├── package.json
+│   │       ├── README.md
+│   │       ├── src
+│   │       │   ├── binary-search.ts
+│   │       │   ├── by-source.ts
+│   │       │   ├── flatten-map.ts
+│   │       │   ├── resolve.ts
+│   │       │   ├── sort.ts
+│   │       │   ├── sourcemap-segment.ts
+│   │       │   ├── strip-filename.ts
+│   │       │   ├── trace-mapping.ts
+│   │       │   └── types.ts
+│   │       └── types
+│   │           ├── binary-search.d.cts
+│   │           ├── binary-search.d.cts.map
+│   │           ├── binary-search.d.mts
+│   │           ├── binary-search.d.mts.map
+│   │           ├── by-source.d.cts
+│   │           ├── by-source.d.cts.map
+│   │           ├── by-source.d.mts
+│   │           ├── by-source.d.mts.map
+│   │           ├── flatten-map.d.cts
+│   │           ├── flatten-map.d.cts.map
+│   │           ├── flatten-map.d.mts
+│   │           ├── flatten-map.d.mts.map
+│   │           ├── resolve.d.cts
+│   │           ├── resolve.d.cts.map
+│   │           ├── resolve.d.mts
+│   │           ├── resolve.d.mts.map
+│   │           ├── sort.d.cts
+│   │           ├── sort.d.cts.map
+│   │           ├── sort.d.mts
+│   │           ├── sort.d.mts.map
+│   │           ├── sourcemap-segment.d.cts
+│   │           ├── sourcemap-segment.d.cts.map
+│   │           ├── sourcemap-segment.d.mts
+│   │           ├── sourcemap-segment.d.mts.map
+│   │           ├── strip-filename.d.cts
+│   │           ├── strip-filename.d.cts.map
+│   │           ├── strip-filename.d.mts
+│   │           ├── strip-filename.d.mts.map
+│   │           ├── trace-mapping.d.cts
+│   │           ├── trace-mapping.d.cts.map
+│   │           ├── trace-mapping.d.mts
+│   │           ├── trace-mapping.d.mts.map
+│   │           ├── types.d.cts
+│   │           ├── types.d.cts.map
+│   │           ├── types.d.mts
+│   │           └── types.d.mts.map
+│   ├── lightningcss
+│   │   ├── LICENSE
+│   │   ├── node
+│   │   │   ├── ast.d.ts
+│   │   │   ├── ast.js.flow
+│   │   │   ├── browserslistToTargets.js
+│   │   │   ├── composeVisitors.js
+│   │   │   ├── flags.js
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── index.js.flow
+│   │   │   ├── index.mjs
+│   │   │   ├── targets.d.ts
+│   │   │   └── targets.js.flow
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── lightningcss-linux-x64-gnu
+│   │   ├── LICENSE
+│   │   ├── lightningcss.linux-x64-gnu.node
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── lightningcss-linux-x64-musl
+│   │   ├── LICENSE
+│   │   ├── lightningcss.linux-x64-musl.node
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── magic-string
+│   │   ├── dist
+│   │   │   ├── magic-string.cjs.d.ts
+│   │   │   ├── magic-string.cjs.js
+│   │   │   ├── magic-string.cjs.js.map
+│   │   │   ├── magic-string.es.d.mts
+│   │   │   ├── magic-string.es.mjs
+│   │   │   ├── magic-string.es.mjs.map
+│   │   │   ├── magic-string.umd.js
+│   │   │   └── magic-string.umd.js.map
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── mark.js
+│   │   ├── bower.json
+│   │   ├── build
+│   │   │   ├── karma.config-ci.js
+│   │   │   ├── karma.config.js
+│   │   │   ├── rollup.config.js
+│   │   │   └── templates
+│   │   │       └── copyright.hbs
+│   │   ├── CONTRIBUTING.md
+│   │   ├── dist
+│   │   │   ├── jquery.mark.es6.js
+│   │   │   ├── jquery.mark.es6.min.js
+│   │   │   ├── jquery.mark.js
+│   │   │   ├── jquery.mark.min.js
+│   │   │   ├── mark.es6.js
+│   │   │   ├── mark.es6.min.js
+│   │   │   ├── mark.js
+│   │   │   └── mark.min.js
+│   │   ├── ISSUE_TEMPLATE.md
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── src
+│   │   │   ├── jquery.js
+│   │   │   ├── lib
+│   │   │   │   ├── domiterator.js
+│   │   │   │   └── mark.js
+│   │   │   └── vanilla.js
+│   │   └── test
+│   │       ├── fixtures
+│   │       │   ├── across-elements
+│   │       │   │   ├── basic
+│   │       │   │   │   ├── accuracy-exactly.html
+│   │       │   │   │   ├── empty.html
+│   │       │   │   │   ├── filter.html
+│   │       │   │   │   ├── ignore-joiners.html
+│   │       │   │   │   ├── main.html
+│   │       │   │   │   └── merge-blanks.html
+│   │       │   │   ├── iframes
+│   │       │   │   │   ├── across.html
+│   │       │   │   │   ├── inc.html
+│   │       │   │   │   ├── main.html
+│   │       │   │   │   ├── nested.html
+│   │       │   │   │   └── nested-inc.html
+│   │       │   │   ├── nested
+│   │       │   │   │   └── main.html
+│   │       │   │   └── regexp
+│   │       │   │       ├── filter.html
+│   │       │   │       ├── ignore-groups.html
+│   │       │   │       ├── infinite.html
+│   │       │   │       └── main.html
+│   │       │   ├── basic
+│   │       │   │   ├── accuracy-complementary.html
+│   │       │   │   ├── accuracy-complementary-limiters.html
+│   │       │   │   ├── accuracy-exactly.html
+│   │       │   │   ├── accuracy-exactly-limiters.html
+│   │       │   │   ├── accuracy-partially.html
+│   │       │   │   ├── array-keyword.html
+│   │       │   │   ├── case-sensitive-diacritics.html
+│   │       │   │   ├── case-sensitive.html
+│   │       │   │   ├── case-sensitive-synonyms-diacritics.html
+│   │       │   │   ├── case-sensitive-synonyms.html
+│   │       │   │   ├── context-array.html
+│   │       │   │   ├── context-direct.html
+│   │       │   │   ├── context-nodelist.html
+│   │       │   │   ├── context-string.html
+│   │       │   │   ├── custom-element-class.html
+│   │       │   │   ├── diacritics.html
+│   │       │   │   ├── diacritics-vietnamese.html
+│   │       │   │   ├── duplicate-context.html
+│   │       │   │   ├── duplicate-keywords.html
+│   │       │   │   ├── empty.html
+│   │       │   │   ├── entities.html
+│   │       │   │   ├── escape.html
+│   │       │   │   ├── events.html
+│   │       │   │   ├── exclude.html
+│   │       │   │   ├── filter.html
+│   │       │   │   ├── ignore-joiners-diacritics.html
+│   │       │   │   ├── ignore-joiners-escape.html
+│   │       │   │   ├── ignore-joiners.html
+│   │       │   │   ├── ignore-joiners-synonyms-diacritics.html
+│   │       │   │   ├── ignore-joiners-synonyms.html
+│   │       │   │   ├── ignore-punctuation-accuracy.html
+│   │       │   │   ├── ignore-punctuation.html
+│   │       │   │   ├── ignore-punctuation-ignore-joiners.html
+│   │       │   │   ├── ignore-punctuation-separate-word-search.html
+│   │       │   │   ├── ignore-punctuation-synonyms-diacritics.html
+│   │       │   │   ├── ignore-punctuation-synonyms.html
+│   │       │   │   ├── large-document.html
+│   │       │   │   ├── main.html
+│   │       │   │   ├── manipulated-mark.html
+│   │       │   │   ├── merge-blanks.html
+│   │       │   │   ├── nested-mark.html
+│   │       │   │   ├── no-options.html
+│   │       │   │   ├── same-keywords.html
+│   │       │   │   ├── script-style.html
+│   │       │   │   ├── separate-word-search-blank.html
+│   │       │   │   ├── separate-word-search.html
+│   │       │   │   ├── synonyms-diacritics.html
+│   │       │   │   ├── synonyms.html
+│   │       │   │   ├── synonyms-merge-blanks.html
+│   │       │   │   ├── synonyms-no-match.html
+│   │       │   │   ├── synonyms-not-empty.html
+│   │       │   │   ├── unmark-exclude.html
+│   │       │   │   ├── wildcards-between-words.html
+│   │       │   │   ├── wildcards-diacritics.html
+│   │       │   │   ├── wildcards-escaped.html
+│   │       │   │   ├── wildcards.html
+│   │       │   │   ├── wildcards-ignore-joiners-synonyms.html
+│   │       │   │   └── wildcards-synonyms.html
+│   │       │   ├── iframes
+│   │       │   │   ├── disabled.html
+│   │       │   │   ├── exclude.html
+│   │       │   │   ├── inaccessible.html
+│   │       │   │   ├── inc.html
+│   │       │   │   ├── main.html
+│   │       │   │   ├── nested.html
+│   │       │   │   ├── nested-inc.html
+│   │       │   │   ├── onload.html
+│   │       │   │   ├── onload-inc.html
+│   │       │   │   ├── order.html
+│   │       │   │   ├── readystate.html
+│   │       │   │   └── unmark-same-instance.html
+│   │       │   ├── nested
+│   │       │   │   └── main.html
+│   │       │   ├── ranges
+│   │       │   │   ├── across-elements.html
+│   │       │   │   ├── each.html
+│   │       │   │   ├── filter.html
+│   │       │   │   ├── iframes.html
+│   │       │   │   ├── inc.html
+│   │       │   │   ├── main.html
+│   │       │   │   ├── no-match.html
+│   │       │   │   └── overlap.html
+│   │       │   └── regexp
+│   │       │       ├── filter.html
+│   │       │       ├── ignore-groups.html
+│   │       │       ├── infinite.html
+│   │       │       └── main.html
+│   │       ├── manual.html
+│   │       └── specs
+│   │           ├── across-elements
+│   │           │   ├── basic
+│   │           │   │   ├── accuracy-exactly.js
+│   │           │   │   ├── done.js
+│   │           │   │   ├── each.js
+│   │           │   │   ├── empty.js
+│   │           │   │   ├── filter.js
+│   │           │   │   ├── ignore-joiners.js
+│   │           │   │   ├── main.js
+│   │           │   │   └── merge-blanks.js
+│   │           │   ├── iframes
+│   │           │   │   ├── across.js
+│   │           │   │   ├── main.js
+│   │           │   │   └── nested.js
+│   │           │   ├── nested
+│   │           │   │   └── main.js
+│   │           │   └── regexp
+│   │           │       ├── filter.js
+│   │           │       ├── ignore-groups.js
+│   │           │       ├── infinite.js
+│   │           │       └── main.js
+│   │           ├── basic
+│   │           │   ├── accuracy-complementary.js
+│   │           │   ├── accuracy-complementary-limiters.js
+│   │           │   ├── accuracy-exactly.js
+│   │           │   ├── accuracy-exactly-limiters.js
+│   │           │   ├── accuracy-partially.js
+│   │           │   ├── array-keyword.js
+│   │           │   ├── case-sensitive-diacritics.js
+│   │           │   ├── case-sensitive.js
+│   │           │   ├── case-sensitive-synonyms-diacritics.js
+│   │           │   ├── case-sensitive-synonyms.js
+│   │           │   ├── context-array.js
+│   │           │   ├── context-direct.js
+│   │           │   ├── context-nodelist.js
+│   │           │   ├── context-string.js
+│   │           │   ├── custom-element-class.js
+│   │           │   ├── custom-element-class-unmark.js
+│   │           │   ├── debug.js
+│   │           │   ├── diacritics.js
+│   │           │   ├── diacritics-vietnamese.js
+│   │           │   ├── done.js
+│   │           │   ├── duplicate-context.js
+│   │           │   ├── duplicate-keyword.js
+│   │           │   ├── each.js
+│   │           │   ├── empty.js
+│   │           │   ├── entities.js
+│   │           │   ├── escape.js
+│   │           │   ├── events.js
+│   │           │   ├── exclude.js
+│   │           │   ├── filter.js
+│   │           │   ├── ignore-joiners-diacritics.js
+│   │           │   ├── ignore-joiners-escape.js
+│   │           │   ├── ignore-joiners.js
+│   │           │   ├── ignore-joiners-synonyms-diacritics.js
+│   │           │   ├── ignore-joiners-synonyms.js
+│   │           │   ├── ignore-punctuation-accuracy.js
+│   │           │   ├── ignore-punctuation-ignore-joiners.js
+│   │           │   ├── ignore-punctuation.js
+│   │           │   ├── ignore-punctuation-separate-word-search.js
+│   │           │   ├── ignore-punctuation-synonyms-diacritics.js
+│   │           │   ├── ignore-punctuation-synonyms.js
+│   │           │   ├── jquery.js
+│   │           │   ├── large-document.js
+│   │           │   ├── main.js
+│   │           │   ├── manipulated-mark.js
+│   │           │   ├── merge-blanks.js
+│   │           │   ├── nested-mark.js
+│   │           │   ├── no-match.js
+│   │           │   ├── no-options.js
+│   │           │   ├── same-keywords.js
+│   │           │   ├── script-style.js
+│   │           │   ├── separate-word-search-blank.js
+│   │           │   ├── separate-word-search.js
+│   │           │   ├── synonyms-diacritics.js
+│   │           │   ├── synonyms.js
+│   │           │   ├── synonyms-merge-blanks.js
+│   │           │   ├── synonyms-no-match.js
+│   │           │   ├── synonyms-not-empty.js
+│   │           │   ├── unmark-exclude.js
+│   │           │   ├── unmark-jquery.js
+│   │           │   ├── unmark.js
+│   │           │   ├── wildcards-between-words.js
+│   │           │   ├── wildcards-diacritics.js
+│   │           │   ├── wildcards-escaped.js
+│   │           │   ├── wildcards-ignore-joiners-synonyms.js
+│   │           │   ├── wildcards.js
+│   │           │   └── wildcards-synonyms.js
+│   │           ├── configuration.js
+│   │           ├── iframes
+│   │           │   ├── disabled.js
+│   │           │   ├── exclude.js
+│   │           │   ├── inaccessible.js
+│   │           │   ├── main.js
+│   │           │   ├── nested.js
+│   │           │   ├── nested-unmark.js
+│   │           │   ├── onload.js
+│   │           │   ├── order.js
+│   │           │   ├── readystate.js
+│   │           │   ├── unmark.js
+│   │           │   └── unmark-same-instance.js
+│   │           ├── nested
+│   │           │   ├── main.js
+│   │           │   └── unmark.js
+│   │           ├── ranges
+│   │           │   ├── across-elements.js
+│   │           │   ├── each.js
+│   │           │   ├── filter.js
+│   │           │   ├── iframes.js
+│   │           │   ├── main.js
+│   │           │   ├── no-match.js
+│   │           │   └── overlap.js
+│   │           └── regexp
+│   │               ├── done.js
+│   │               ├── filter.js
+│   │               ├── ignore-groups.js
+│   │               ├── infinite.js
+│   │               ├── jquery.js
+│   │               ├── main.js
+│   │               └── no-match.js
+│   ├── mdast-util-to-hast
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── lib
+│   │   │   ├── footer.d.ts
+│   │   │   ├── footer.d.ts.map
+│   │   │   ├── footer.js
+│   │   │   ├── handlers
+│   │   │   │   ├── blockquote.d.ts
+│   │   │   │   ├── blockquote.d.ts.map
+│   │   │   │   ├── blockquote.js
+│   │   │   │   ├── break.d.ts
+│   │   │   │   ├── break.d.ts.map
+│   │   │   │   ├── break.js
+│   │   │   │   ├── code.d.ts
+│   │   │   │   ├── code.d.ts.map
+│   │   │   │   ├── code.js
+│   │   │   │   ├── delete.d.ts
+│   │   │   │   ├── delete.d.ts.map
+│   │   │   │   ├── delete.js
+│   │   │   │   ├── emphasis.d.ts
+│   │   │   │   ├── emphasis.d.ts.map
+│   │   │   │   ├── emphasis.js
+│   │   │   │   ├── footnote-reference.d.ts
+│   │   │   │   ├── footnote-reference.d.ts.map
+│   │   │   │   ├── footnote-reference.js
+│   │   │   │   ├── heading.d.ts
+│   │   │   │   ├── heading.d.ts.map
+│   │   │   │   ├── heading.js
+│   │   │   │   ├── html.d.ts
+│   │   │   │   ├── html.d.ts.map
+│   │   │   │   ├── html.js
+│   │   │   │   ├── image.d.ts
+│   │   │   │   ├── image.d.ts.map
+│   │   │   │   ├── image.js
+│   │   │   │   ├── image-reference.d.ts
+│   │   │   │   ├── image-reference.d.ts.map
+│   │   │   │   ├── image-reference.js
+│   │   │   │   ├── index.d.ts
+│   │   │   │   ├── index.d.ts.map
+│   │   │   │   ├── index.js
+│   │   │   │   ├── inline-code.d.ts
+│   │   │   │   ├── inline-code.d.ts.map
+│   │   │   │   ├── inline-code.js
+│   │   │   │   ├── link.d.ts
+│   │   │   │   ├── link.d.ts.map
+│   │   │   │   ├── link.js
+│   │   │   │   ├── link-reference.d.ts
+│   │   │   │   ├── link-reference.d.ts.map
+│   │   │   │   ├── link-reference.js
+│   │   │   │   ├── list.d.ts
+│   │   │   │   ├── list.d.ts.map
+│   │   │   │   ├── list-item.d.ts
+│   │   │   │   ├── list-item.d.ts.map
+│   │   │   │   ├── list-item.js
+│   │   │   │   ├── list.js
+│   │   │   │   ├── paragraph.d.ts
+│   │   │   │   ├── paragraph.d.ts.map
+│   │   │   │   ├── paragraph.js
+│   │   │   │   ├── root.d.ts
+│   │   │   │   ├── root.d.ts.map
+│   │   │   │   ├── root.js
+│   │   │   │   ├── strong.d.ts
+│   │   │   │   ├── strong.d.ts.map
+│   │   │   │   ├── strong.js
+│   │   │   │   ├── table-cell.d.ts
+│   │   │   │   ├── table-cell.d.ts.map
+│   │   │   │   ├── table-cell.js
+│   │   │   │   ├── table.d.ts
+│   │   │   │   ├── table.d.ts.map
+│   │   │   │   ├── table.js
+│   │   │   │   ├── table-row.d.ts
+│   │   │   │   ├── table-row.d.ts.map
+│   │   │   │   ├── table-row.js
+│   │   │   │   ├── text.d.ts
+│   │   │   │   ├── text.d.ts.map
+│   │   │   │   ├── text.js
+│   │   │   │   ├── thematic-break.d.ts
+│   │   │   │   ├── thematic-break.d.ts.map
+│   │   │   │   └── thematic-break.js
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.d.ts.map
+│   │   │   ├── index.js
+│   │   │   ├── revert.d.ts
+│   │   │   ├── revert.d.ts.map
+│   │   │   ├── revert.js
+│   │   │   ├── state.d.ts
+│   │   │   ├── state.d.ts.map
+│   │   │   └── state.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── micromark-util-character
+│   │   ├── dev
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.d.ts.map
+│   │   │   └── index.js
+│   │   ├── index.d.ts
+│   │   ├── index.d.ts.map
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── micromark-util-encode
+│   │   ├── index.d.ts
+│   │   ├── index.d.ts.map
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── micromark-util-sanitize-uri
+│   │   ├── dev
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.d.ts.map
+│   │   │   └── index.js
+│   │   ├── index.d.ts
+│   │   ├── index.d.ts.map
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── micromark-util-symbol
+│   │   ├── lib
+│   │   │   ├── codes.d.ts
+│   │   │   ├── codes.d.ts.map
+│   │   │   ├── codes.js
+│   │   │   ├── constants.d.ts
+│   │   │   ├── constants.d.ts.map
+│   │   │   ├── constants.js
+│   │   │   ├── default.d.ts
+│   │   │   ├── default.d.ts.map
+│   │   │   ├── default.js
+│   │   │   ├── types.d.ts
+│   │   │   ├── types.d.ts.map
+│   │   │   ├── types.js
+│   │   │   ├── values.d.ts
+│   │   │   ├── values.d.ts.map
+│   │   │   └── values.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── micromark-util-types
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── minisearch
+│   │   ├── CHANGELOG.md
+│   │   ├── dist
+│   │   │   ├── cjs
+│   │   │   │   ├── index.cjs
+│   │   │   │   ├── index.cjs.map
+│   │   │   │   ├── index.d.cts
+│   │   │   │   ├── SearchableMap.cjs
+│   │   │   │   ├── SearchableMap.cjs.map
+│   │   │   │   └── SearchableMap.d.cts
+│   │   │   ├── es
+│   │   │   │   ├── index.d.ts
+│   │   │   │   ├── index.js
+│   │   │   │   ├── index.js.map
+│   │   │   │   ├── SearchableMap.d.ts
+│   │   │   │   ├── SearchableMap.js
+│   │   │   │   └── SearchableMap.js.map
+│   │   │   └── umd
+│   │   │       ├── index.js
+│   │   │       ├── index.js.map
+│   │   │       ├── SearchableMap.js
+│   │   │       └── SearchableMap.js.map
+│   │   ├── LICENSE.txt
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── src
+│   │       ├── index.ts
+│   │       ├── MiniSearch.test.js
+│   │       ├── MiniSearch.ts
+│   │       ├── SearchableMap
+│   │       │   ├── fuzzySearch.ts
+│   │       │   ├── SearchableMap.test.js
+│   │       │   ├── SearchableMap.ts
+│   │       │   ├── TreeIterator.ts
+│   │       │   └── types.ts
+│   │       └── testSetup
+│   │           └── jest.js
+│   ├── mitt
+│   │   ├── dist
+│   │   │   ├── mitt.js
+│   │   │   ├── mitt.js.map
+│   │   │   ├── mitt.mjs
+│   │   │   ├── mitt.mjs.map
+│   │   │   ├── mitt.umd.js
+│   │   │   └── mitt.umd.js.map
+│   │   ├── index.d.ts
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── nanoid
+│   │   ├── async
+│   │   │   ├── index.browser.cjs
+│   │   │   ├── index.browser.js
+│   │   │   ├── index.cjs
+│   │   │   ├── index.d.cts
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── index.native.js
+│   │   │   └── package.json
+│   │   ├── bin
+│   │   │   └── nanoid.cjs
+│   │   ├── index.browser.cjs
+│   │   ├── index.browser.js
+│   │   ├── index.cjs
+│   │   ├── index.d.cts
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── nanoid.js
+│   │   ├── non-secure
+│   │   │   ├── index.cjs
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   └── package.json
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── url-alphabet
+│   │       ├── index.cjs
+│   │       ├── index.js
+│   │       └── package.json
+│   ├── @napi-rs
+│   ├── oniguruma-to-es
+│   │   ├── dist
+│   │   │   ├── cjs
+│   │   │   │   ├── generate.d.ts
+│   │   │   │   ├── index.d.ts
+│   │   │   │   ├── index.js
+│   │   │   │   ├── index.js.map
+│   │   │   │   ├── options.d.ts
+│   │   │   │   ├── package.json
+│   │   │   │   ├── parse.d.ts
+│   │   │   │   ├── subclass.d.ts
+│   │   │   │   ├── tokenize.d.ts
+│   │   │   │   ├── transform.d.ts
+│   │   │   │   ├── traverse.d.ts
+│   │   │   │   ├── unicode.d.ts
+│   │   │   │   ├── utils-ast.d.ts
+│   │   │   │   └── utils.d.ts
+│   │   │   ├── esm
+│   │   │   │   ├── generate.d.ts
+│   │   │   │   ├── index.d.ts
+│   │   │   │   ├── index.js
+│   │   │   │   ├── index.js.map
+│   │   │   │   ├── options.d.ts
+│   │   │   │   ├── package.json
+│   │   │   │   ├── parse.d.ts
+│   │   │   │   ├── subclass.d.ts
+│   │   │   │   ├── tokenize.d.ts
+│   │   │   │   ├── transform.d.ts
+│   │   │   │   ├── traverse.d.ts
+│   │   │   │   ├── unicode.d.ts
+│   │   │   │   ├── utils-ast.d.ts
+│   │   │   │   └── utils.d.ts
+│   │   │   ├── index.min.js
+│   │   │   └── index.min.js.map
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── perfect-debounce
+│   │   ├── dist
+│   │   │   ├── index.cjs
+│   │   │   ├── index.d.ts
+│   │   │   └── index.mjs
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── picocolors
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── picocolors.browser.js
+│   │   ├── picocolors.d.ts
+│   │   ├── picocolors.js
+│   │   ├── README.md
+│   │   └── types.d.ts
+│   ├── postcss
+│   │   ├── lib
+│   │   │   ├── at-rule.d.ts
+│   │   │   ├── at-rule.js
+│   │   │   ├── comment.d.ts
+│   │   │   ├── comment.js
+│   │   │   ├── container.d.ts
+│   │   │   ├── container.js
+│   │   │   ├── css-syntax-error.d.ts
+│   │   │   ├── css-syntax-error.js
+│   │   │   ├── declaration.d.ts
+│   │   │   ├── declaration.js
+│   │   │   ├── document.d.ts
+│   │   │   ├── document.js
+│   │   │   ├── fromJSON.d.ts
+│   │   │   ├── fromJSON.js
+│   │   │   ├── input.d.ts
+│   │   │   ├── input.js
+│   │   │   ├── lazy-result.d.ts
+│   │   │   ├── lazy-result.js
+│   │   │   ├── list.d.ts
+│   │   │   ├── list.js
+│   │   │   ├── map-generator.js
+│   │   │   ├── node.d.ts
+│   │   │   ├── node.js
+│   │   │   ├── no-work-result.d.ts
+│   │   │   ├── no-work-result.js
+│   │   │   ├── parse.d.ts
+│   │   │   ├── parse.js
+│   │   │   ├── parser.js
+│   │   │   ├── postcss.d.mts
+│   │   │   ├── postcss.d.ts
+│   │   │   ├── postcss.js
+│   │   │   ├── postcss.mjs
+│   │   │   ├── previous-map.d.ts
+│   │   │   ├── previous-map.js
+│   │   │   ├── processor.d.ts
+│   │   │   ├── processor.js
+│   │   │   ├── result.d.ts
+│   │   │   ├── result.js
+│   │   │   ├── root.d.ts
+│   │   │   ├── root.js
+│   │   │   ├── rule.d.ts
+│   │   │   ├── rule.js
+│   │   │   ├── stringifier.d.ts
+│   │   │   ├── stringifier.js
+│   │   │   ├── stringify.d.ts
+│   │   │   ├── stringify.js
+│   │   │   ├── symbols.js
+│   │   │   ├── terminal-highlight.js
+│   │   │   ├── tokenize.js
+│   │   │   ├── warning.d.ts
+│   │   │   ├── warning.js
+│   │   │   └── warn-once.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── postcss-selector-parser
+│   │   ├── API.md
+│   │   ├── CHANGELOG.md
+│   │   ├── dist
+│   │   │   ├── index.js
+│   │   │   ├── parser.js
+│   │   │   ├── processor.js
+│   │   │   ├── selectors
+│   │   │   │   ├── attribute.js
+│   │   │   │   ├── className.js
+│   │   │   │   ├── combinator.js
+│   │   │   │   ├── comment.js
+│   │   │   │   ├── constructors.js
+│   │   │   │   ├── container.js
+│   │   │   │   ├── guards.js
+│   │   │   │   ├── id.js
+│   │   │   │   ├── index.js
+│   │   │   │   ├── namespace.js
+│   │   │   │   ├── nesting.js
+│   │   │   │   ├── node.js
+│   │   │   │   ├── pseudo.js
+│   │   │   │   ├── root.js
+│   │   │   │   ├── selector.js
+│   │   │   │   ├── string.js
+│   │   │   │   ├── tag.js
+│   │   │   │   ├── types.js
+│   │   │   │   └── universal.js
+│   │   │   ├── sortAscending.js
+│   │   │   ├── tokenize.js
+│   │   │   ├── tokenTypes.js
+│   │   │   └── util
+│   │   │       ├── ensureObject.js
+│   │   │       ├── getProp.js
+│   │   │       ├── index.js
+│   │   │       ├── stripComments.js
+│   │   │       └── unesc.js
+│   │   ├── LICENSE-MIT
+│   │   ├── package.json
+│   │   ├── postcss-selector-parser.d.ts
+│   │   └── README.md
+│   ├── preact
+│   │   ├── compat
+│   │   │   ├── client.d.ts
+│   │   │   ├── client.js
+│   │   │   ├── client.mjs
+│   │   │   ├── dist
+│   │   │   │   ├── compat.js
+│   │   │   │   ├── compat.js.map
+│   │   │   │   ├── compat.mjs
+│   │   │   │   ├── compat.module.js
+│   │   │   │   ├── compat.module.js.map
+│   │   │   │   ├── compat.umd.js
+│   │   │   │   └── compat.umd.js.map
+│   │   │   ├── jsx-dev-runtime.js
+│   │   │   ├── jsx-dev-runtime.mjs
+│   │   │   ├── jsx-runtime.js
+│   │   │   ├── jsx-runtime.mjs
+│   │   │   ├── package.json
+│   │   │   ├── scheduler.js
+│   │   │   ├── scheduler.mjs
+│   │   │   ├── server.browser.js
+│   │   │   ├── server.js
+│   │   │   ├── server.mjs
+│   │   │   ├── src
+│   │   │   │   ├── Children.js
+│   │   │   │   ├── forwardRef.js
+│   │   │   │   ├── hooks.js
+│   │   │   │   ├── index.d.ts
+│   │   │   │   ├── index.js
+│   │   │   │   ├── internal.d.ts
+│   │   │   │   ├── memo.js
+│   │   │   │   ├── portals.js
+│   │   │   │   ├── PureComponent.js
+│   │   │   │   ├── render.js
+│   │   │   │   ├── suspense.d.ts
+│   │   │   │   ├── suspense.js
+│   │   │   │   ├── suspense-list.d.ts
+│   │   │   │   ├── suspense-list.js
+│   │   │   │   └── util.js
+│   │   │   ├── test-utils.js
+│   │   │   └── test-utils.mjs
+│   │   ├── debug
+│   │   │   ├── dist
+│   │   │   │   ├── debug.js
+│   │   │   │   ├── debug.js.map
+│   │   │   │   ├── debug.mjs
+│   │   │   │   ├── debug.module.js
+│   │   │   │   ├── debug.module.js.map
+│   │   │   │   ├── debug.umd.js
+│   │   │   │   └── debug.umd.js.map
+│   │   │   ├── package.json
+│   │   │   └── src
+│   │   │       ├── check-props.js
+│   │   │       ├── component-stack.js
+│   │   │       ├── constants.js
+│   │   │       ├── debug.js
+│   │   │       ├── index.d.ts
+│   │   │       ├── index.js
+│   │   │       ├── internal.d.ts
+│   │   │       └── util.js
+│   │   ├── devtools
+│   │   │   ├── dist
+│   │   │   │   ├── devtools.js
+│   │   │   │   ├── devtools.js.map
+│   │   │   │   ├── devtools.mjs
+│   │   │   │   ├── devtools.module.js
+│   │   │   │   ├── devtools.module.js.map
+│   │   │   │   ├── devtools.umd.js
+│   │   │   │   └── devtools.umd.js.map
+│   │   │   ├── package.json
+│   │   │   └── src
+│   │   │       ├── devtools.js
+│   │   │       ├── index.d.ts
+│   │   │       └── index.js
+│   │   ├── dist
+│   │   │   ├── preact.js
+│   │   │   ├── preact.js.map
+│   │   │   ├── preact.min.js
+│   │   │   ├── preact.min.js.map
+│   │   │   ├── preact.min.module.js
+│   │   │   ├── preact.min.module.js.map
+│   │   │   ├── preact.min.umd.js
+│   │   │   ├── preact.min.umd.js.map
+│   │   │   ├── preact.mjs
+│   │   │   ├── preact.module.js
+│   │   │   ├── preact.module.js.map
+│   │   │   ├── preact.umd.js
+│   │   │   └── preact.umd.js.map
+│   │   ├── hooks
+│   │   │   ├── dist
+│   │   │   │   ├── hooks.js
+│   │   │   │   ├── hooks.js.map
+│   │   │   │   ├── hooks.mjs
+│   │   │   │   ├── hooks.module.js
+│   │   │   │   ├── hooks.module.js.map
+│   │   │   │   ├── hooks.umd.js
+│   │   │   │   └── hooks.umd.js.map
+│   │   │   ├── package.json
+│   │   │   └── src
+│   │   │       ├── index.d.ts
+│   │   │       ├── index.js
+│   │   │       └── internal.d.ts
+│   │   ├── jsx-runtime
+│   │   │   ├── dist
+│   │   │   │   ├── jsxRuntime.js
+│   │   │   │   ├── jsxRuntime.js.map
+│   │   │   │   ├── jsxRuntime.mjs
+│   │   │   │   ├── jsxRuntime.module.js
+│   │   │   │   ├── jsxRuntime.module.js.map
+│   │   │   │   ├── jsxRuntime.umd.js
+│   │   │   │   └── jsxRuntime.umd.js.map
+│   │   │   ├── package.json
+│   │   │   └── src
+│   │   │       ├── index.d.ts
+│   │   │       ├── index.js
+│   │   │       └── utils.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── src
+│   │   │   ├── cjs.js
+│   │   │   ├── clone-element.js
+│   │   │   ├── component.js
+│   │   │   ├── constants.js
+│   │   │   ├── create-context.js
+│   │   │   ├── create-element.js
+│   │   │   ├── diff
+│   │   │   │   ├── catch-error.js
+│   │   │   │   ├── children.js
+│   │   │   │   ├── index.js
+│   │   │   │   └── props.js
+│   │   │   ├── dom.d.ts
+│   │   │   ├── index-5.d.ts
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── internal.d.ts
+│   │   │   ├── jsx.d.ts
+│   │   │   ├── options.js
+│   │   │   ├── render.js
+│   │   │   └── util.js
+│   │   └── test-utils
+│   │       ├── dist
+│   │       │   ├── testUtils.js
+│   │       │   ├── testUtils.js.map
+│   │       │   ├── testUtils.mjs
+│   │       │   ├── testUtils.module.js
+│   │       │   ├── testUtils.module.js.map
+│   │       │   ├── testUtils.umd.js
+│   │       │   └── testUtils.umd.js.map
+│   │       ├── package.json
+│   │       └── src
+│   │           ├── index.d.ts
+│   │           └── index.js
+│   ├── property-information
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── lib
+│   │   │   ├── aria.d.ts
+│   │   │   ├── aria.d.ts.map
+│   │   │   ├── aria.js
+│   │   │   ├── find.d.ts
+│   │   │   ├── find.d.ts.map
+│   │   │   ├── find.js
+│   │   │   ├── hast-to-react.d.ts
+│   │   │   ├── hast-to-react.d.ts.map
+│   │   │   ├── hast-to-react.js
+│   │   │   ├── html.d.ts
+│   │   │   ├── html.d.ts.map
+│   │   │   ├── html.js
+│   │   │   ├── normalize.d.ts
+│   │   │   ├── normalize.d.ts.map
+│   │   │   ├── normalize.js
+│   │   │   ├── svg.d.ts
+│   │   │   ├── svg.d.ts.map
+│   │   │   ├── svg.js
+│   │   │   ├── util
+│   │   │   │   ├── case-insensitive-transform.d.ts
+│   │   │   │   ├── case-insensitive-transform.d.ts.map
+│   │   │   │   ├── case-insensitive-transform.js
+│   │   │   │   ├── case-sensitive-transform.d.ts
+│   │   │   │   ├── case-sensitive-transform.d.ts.map
+│   │   │   │   ├── case-sensitive-transform.js
+│   │   │   │   ├── create.d.ts
+│   │   │   │   ├── create.d.ts.map
+│   │   │   │   ├── create.js
+│   │   │   │   ├── defined-info.d.ts
+│   │   │   │   ├── defined-info.d.ts.map
+│   │   │   │   ├── defined-info.js
+│   │   │   │   ├── info.d.ts
+│   │   │   │   ├── info.d.ts.map
+│   │   │   │   ├── info.js
+│   │   │   │   ├── merge.d.ts
+│   │   │   │   ├── merge.d.ts.map
+│   │   │   │   ├── merge.js
+│   │   │   │   ├── schema.d.ts
+│   │   │   │   ├── schema.d.ts.map
+│   │   │   │   ├── schema.js
+│   │   │   │   ├── types.d.ts
+│   │   │   │   ├── types.d.ts.map
+│   │   │   │   └── types.js
+│   │   │   ├── xlink.d.ts
+│   │   │   ├── xlink.d.ts.map
+│   │   │   ├── xlink.js
+│   │   │   ├── xml.d.ts
+│   │   │   ├── xml.d.ts.map
+│   │   │   ├── xml.js
+│   │   │   ├── xmlns.d.ts
+│   │   │   ├── xmlns.d.ts.map
+│   │   │   └── xmlns.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── regex
+│   │   ├── dist
+│   │   │   ├── cjs
+│   │   │   │   ├── atomic.d.ts
+│   │   │   │   ├── backcompat.d.ts
+│   │   │   │   ├── flag-n.d.ts
+│   │   │   │   ├── flag-x.d.ts
+│   │   │   │   ├── internals.d.ts
+│   │   │   │   ├── package.json
+│   │   │   │   ├── pattern.d.ts
+│   │   │   │   ├── regex.d.ts
+│   │   │   │   ├── regex.js
+│   │   │   │   ├── regex.js.map
+│   │   │   │   ├── subclass.d.ts
+│   │   │   │   ├── subroutines.d.ts
+│   │   │   │   ├── utils.d.ts
+│   │   │   │   └── utils-internals.d.ts
+│   │   │   ├── esm
+│   │   │   │   ├── atomic.d.ts
+│   │   │   │   ├── backcompat.d.ts
+│   │   │   │   ├── flag-n.d.ts
+│   │   │   │   ├── flag-x.d.ts
+│   │   │   │   ├── internals.d.ts
+│   │   │   │   ├── package.json
+│   │   │   │   ├── pattern.d.ts
+│   │   │   │   ├── regex.d.ts
+│   │   │   │   ├── regex.js
+│   │   │   │   ├── regex.js.map
+│   │   │   │   ├── subclass.d.ts
+│   │   │   │   ├── subroutines.d.ts
+│   │   │   │   ├── utils.d.ts
+│   │   │   │   └── utils-internals.d.ts
+│   │   │   ├── regex.min.js
+│   │   │   └── regex.min.js.map
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── src
+│   │       ├── atomic.js
+│   │       ├── backcompat.js
+│   │       ├── flag-n.js
+│   │       ├── flag-x.js
+│   │       ├── internals.js
+│   │       ├── pattern.js
+│   │       ├── regex.js
+│   │       ├── subclass.js
+│   │       ├── subroutines.js
+│   │       ├── utils-internals.js
+│   │       └── utils.js
+│   ├── regex-recursion
+│   │   ├── dist
+│   │   │   ├── regex-recursion.min.js
+│   │   │   └── regex-recursion.min.js.map
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── src
+│   │   │   └── index.js
+│   │   └── types
+│   │       └── index.d.ts
+│   ├── regex-utilities
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── src
+│   │   │   └── index.js
+│   │   └── types
+│   │       └── index.d.ts
+│   ├── rfdc
+│   │   ├── default.js
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── index.test-d.ts
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── readme.md
+│   │   └── test
+│   │       └── index.js
+│   ├── @rollup
+│   │   ├── rollup-linux-x64-gnu
+│   │   │   ├── package.json
+│   │   │   ├── README.md
+│   │   │   └── rollup.linux-x64-gnu.node
+│   │   └── rollup-linux-x64-musl
+│   │       ├── package.json
+│   │       ├── README.md
+│   │       └── rollup.linux-x64-musl.node
+│   ├── rollup
+│   │   ├── dist
+│   │   │   ├── bin
+│   │   │   │   └── rollup
+│   │   │   ├── es
+│   │   │   │   ├── getLogFilter.js
+│   │   │   │   ├── package.json
+│   │   │   │   ├── parseAst.js
+│   │   │   │   ├── rollup.js
+│   │   │   │   └── shared
+│   │   │   │       ├── node-entry.js
+│   │   │   │       ├── parseAst.js
+│   │   │   │       └── watch.js
+│   │   │   ├── getLogFilter.d.ts
+│   │   │   ├── getLogFilter.js
+│   │   │   ├── loadConfigFile.d.ts
+│   │   │   ├── loadConfigFile.js
+│   │   │   ├── native.js
+│   │   │   ├── parseAst.d.ts
+│   │   │   ├── parseAst.js
+│   │   │   ├── rollup.d.ts
+│   │   │   ├── rollup.js
+│   │   │   └── shared
+│   │   │       ├── fsevents-importer.js
+│   │   │       ├── index.js
+│   │   │       ├── loadConfigFile.js
+│   │   │       ├── node-entry.js
+│   │   │       ├── parseAst.js
+│   │   │       ├── rollup.js
+│   │   │       ├── watch-cli.js
+│   │   │       └── watch.js
+│   │   ├── LICENSE.md
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── search-insights
+│   │   ├── dist
+│   │   │   ├── _addEventType.d.ts
+│   │   │   ├── _addQueryId.d.ts
+│   │   │   ├── _algoliaAgent.d.ts
+│   │   │   ├── click.d.ts
+│   │   │   ├── conversion.d.ts
+│   │   │   ├── _createInsightsClient.d.ts
+│   │   │   ├── entry-browser.d.ts
+│   │   │   ├── entry-node.d.ts
+│   │   │   ├── entry-umd.d.ts
+│   │   │   ├── _getFunctionalInterface.d.ts
+│   │   │   ├── _getVersion.d.ts
+│   │   │   ├── init.d.ts
+│   │   │   ├── insights.d.ts
+│   │   │   ├── _processQueue.d.ts
+│   │   │   ├── search-insights-browser.min.cjs
+│   │   │   ├── search-insights-browser.mjs
+│   │   │   ├── search-insights.iife.min.js
+│   │   │   ├── search-insights.min.js
+│   │   │   ├── search-insights-node.cjs
+│   │   │   ├── search-insights-node.mjs
+│   │   │   ├── _sendEvent.d.ts
+│   │   │   ├── _tokenUtils.d.ts
+│   │   │   ├── types.d.ts
+│   │   │   ├── utils
+│   │   │   │   ├── extractAdditionalParams.d.ts
+│   │   │   │   ├── featureDetection.d.ts
+│   │   │   │   ├── getRequesterForBrowser.d.ts
+│   │   │   │   ├── getRequesterForNode.d.ts
+│   │   │   │   ├── index.d.ts
+│   │   │   │   ├── localStorage.d.ts
+│   │   │   │   ├── objectQueryTracker.d.ts
+│   │   │   │   ├── request.d.ts
+│   │   │   │   └── uuid.d.ts
+│   │   │   └── view.d.ts
+│   │   ├── empty-module.cjs
+│   │   ├── empty-module.cjs.d.ts
+│   │   ├── index-browser.cjs
+│   │   ├── index-browser.d.ts
+│   │   ├── index-browser.mjs
+│   │   ├── index-node.cjs
+│   │   ├── index-node.d.ts
+│   │   ├── index-node.mjs
+│   │   ├── lib
+│   │   │   ├── _addEventType.ts
+│   │   │   ├── _addQueryId.ts
+│   │   │   ├── _algoliaAgent.ts
+│   │   │   ├── click.ts
+│   │   │   ├── conversion.ts
+│   │   │   ├── _createInsightsClient.ts
+│   │   │   ├── entry-browser.ts
+│   │   │   ├── entry-node.ts
+│   │   │   ├── entry-umd.ts
+│   │   │   ├── _getFunctionalInterface.ts
+│   │   │   ├── _getVersion.ts
+│   │   │   ├── init.ts
+│   │   │   ├── insights.ts
+│   │   │   ├── _processQueue.ts
+│   │   │   ├── _sendEvent.ts
+│   │   │   ├── _tokenUtils.ts
+│   │   │   ├── types.ts
+│   │   │   ├── typings.d.ts
+│   │   │   ├── utils
+│   │   │   │   ├── extractAdditionalParams.ts
+│   │   │   │   ├── featureDetection.ts
+│   │   │   │   ├── getRequesterForBrowser.ts
+│   │   │   │   ├── getRequesterForNode.ts
+│   │   │   │   ├── index.ts
+│   │   │   │   ├── localStorage.ts
+│   │   │   │   ├── objectQueryTracker.ts
+│   │   │   │   ├── request.ts
+│   │   │   │   └── uuid.ts
+│   │   │   └── view.ts
+│   │   ├── LICENSE.md
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── shiki
+│   │   ├── dist
+│   │   │   ├── bundle-full.d.mts
+│   │   │   ├── bundle-full.mjs
+│   │   │   ├── bundle-web.d.mts
+│   │   │   ├── bundle-web.mjs
+│   │   │   ├── core.d.mts
+│   │   │   ├── core.mjs
+│   │   │   ├── core-unwasm.d.mts
+│   │   │   ├── core-unwasm.mjs
+│   │   │   ├── engine-javascript.d.mts
+│   │   │   ├── engine-javascript.mjs
+│   │   │   ├── engine-oniguruma.d.mts
+│   │   │   ├── engine-oniguruma.mjs
+│   │   │   ├── index.d.mts
+│   │   │   ├── index.mjs
+│   │   │   ├── langs
+│   │   │   │   ├── 1c.d.mts
+│   │   │   │   ├── 1c.mjs
+│   │   │   │   ├── 1c-query.d.mts
+│   │   │   │   ├── 1c-query.mjs
+│   │   │   │   ├── abap.d.mts
+│   │   │   │   ├── abap.mjs
+│   │   │   │   ├── actionscript-3.d.mts
+│   │   │   │   ├── actionscript-3.mjs
+│   │   │   │   ├── ada.d.mts
+│   │   │   │   ├── ada.mjs
+│   │   │   │   ├── adoc.d.mts
+│   │   │   │   ├── adoc.mjs
+│   │   │   │   ├── angular-expression.d.mts
+│   │   │   │   ├── angular-expression.mjs
+│   │   │   │   ├── angular-html.d.mts
+│   │   │   │   ├── angular-html.mjs
+│   │   │   │   ├── angular-inline-style.d.mts
+│   │   │   │   ├── angular-inline-style.mjs
+│   │   │   │   ├── angular-inline-template.d.mts
+│   │   │   │   ├── angular-inline-template.mjs
+│   │   │   │   ├── angular-let-declaration.d.mts
+│   │   │   │   ├── angular-let-declaration.mjs
+│   │   │   │   ├── angular-template-blocks.d.mts
+│   │   │   │   ├── angular-template-blocks.mjs
+│   │   │   │   ├── angular-template.d.mts
+│   │   │   │   ├── angular-template.mjs
+│   │   │   │   ├── angular-ts.d.mts
+│   │   │   │   ├── angular-ts.mjs
+│   │   │   │   ├── apache.d.mts
+│   │   │   │   ├── apache.mjs
+│   │   │   │   ├── apex.d.mts
+│   │   │   │   ├── apex.mjs
+│   │   │   │   ├── apl.d.mts
+│   │   │   │   ├── apl.mjs
+│   │   │   │   ├── applescript.d.mts
+│   │   │   │   ├── applescript.mjs
+│   │   │   │   ├── ara.d.mts
+│   │   │   │   ├── ara.mjs
+│   │   │   │   ├── asciidoc.d.mts
+│   │   │   │   ├── asciidoc.mjs
+│   │   │   │   ├── asm.d.mts
+│   │   │   │   ├── asm.mjs
+│   │   │   │   ├── astro.d.mts
+│   │   │   │   ├── astro.mjs
+│   │   │   │   ├── awk.d.mts
+│   │   │   │   ├── awk.mjs
+│   │   │   │   ├── ballerina.d.mts
+│   │   │   │   ├── ballerina.mjs
+│   │   │   │   ├── bash.d.mts
+│   │   │   │   ├── bash.mjs
+│   │   │   │   ├── batch.d.mts
+│   │   │   │   ├── batch.mjs
+│   │   │   │   ├── bat.d.mts
+│   │   │   │   ├── bat.mjs
+│   │   │   │   ├── beancount.d.mts
+│   │   │   │   ├── beancount.mjs
+│   │   │   │   ├── be.d.mts
+│   │   │   │   ├── be.mjs
+│   │   │   │   ├── berry.d.mts
+│   │   │   │   ├── berry.mjs
+│   │   │   │   ├── bibtex.d.mts
+│   │   │   │   ├── bibtex.mjs
+│   │   │   │   ├── bicep.d.mts
+│   │   │   │   ├── bicep.mjs
+│   │   │   │   ├── blade.d.mts
+│   │   │   │   ├── blade.mjs
+│   │   │   │   ├── bsl.d.mts
+│   │   │   │   ├── bsl.mjs
+│   │   │   │   ├── cadence.d.mts
+│   │   │   │   ├── cadence.mjs
+│   │   │   │   ├── cairo.d.mts
+│   │   │   │   ├── cairo.mjs
+│   │   │   │   ├── cdc.d.mts
+│   │   │   │   ├── cdc.mjs
+│   │   │   │   ├── c.d.mts
+│   │   │   │   ├── clarity.d.mts
+│   │   │   │   ├── clarity.mjs
+│   │   │   │   ├── clj.d.mts
+│   │   │   │   ├── clj.mjs
+│   │   │   │   ├── clojure.d.mts
+│   │   │   │   ├── clojure.mjs
+│   │   │   │   ├── closure-templates.d.mts
+│   │   │   │   ├── closure-templates.mjs
+│   │   │   │   ├── cmake.d.mts
+│   │   │   │   ├── cmake.mjs
+│   │   │   │   ├── cmd.d.mts
+│   │   │   │   ├── cmd.mjs
+│   │   │   │   ├── c.mjs
+│   │   │   │   ├── cobol.d.mts
+│   │   │   │   ├── cobol.mjs
+│   │   │   │   ├── codeowners.d.mts
+│   │   │   │   ├── codeowners.mjs
+│   │   │   │   ├── codeql.d.mts
+│   │   │   │   ├── codeql.mjs
+│   │   │   │   ├── coffee.d.mts
+│   │   │   │   ├── coffee.mjs
+│   │   │   │   ├── coffeescript.d.mts
+│   │   │   │   ├── coffeescript.mjs
+│   │   │   │   ├── common-lisp.d.mts
+│   │   │   │   ├── common-lisp.mjs
+│   │   │   │   ├── console.d.mts
+│   │   │   │   ├── console.mjs
+│   │   │   │   ├── coq.d.mts
+│   │   │   │   ├── coq.mjs
+│   │   │   │   ├── cpp.d.mts
+│   │   │   │   ├── cpp-macro.d.mts
+│   │   │   │   ├── cpp-macro.mjs
+│   │   │   │   ├── cpp.mjs
+│   │   │   │   ├── cql.d.mts
+│   │   │   │   ├── cql.mjs
+│   │   │   │   ├── crystal.d.mts
+│   │   │   │   ├── crystal.mjs
+│   │   │   │   ├── cs.d.mts
+│   │   │   │   ├── csharp.d.mts
+│   │   │   │   ├── csharp.mjs
+│   │   │   │   ├── cs.mjs
+│   │   │   │   ├── css.d.mts
+│   │   │   │   ├── css.mjs
+│   │   │   │   ├── csv.d.mts
+│   │   │   │   ├── csv.mjs
+│   │   │   │   ├── cue.d.mts
+│   │   │   │   ├── cue.mjs
+│   │   │   │   ├── cypher.d.mts
+│   │   │   │   ├── cypher.mjs
+│   │   │   │   ├── dart.d.mts
+│   │   │   │   ├── dart.mjs
+│   │   │   │   ├── dax.d.mts
+│   │   │   │   ├── dax.mjs
+│   │   │   │   ├── d.d.mts
+│   │   │   │   ├── desktop.d.mts
+│   │   │   │   ├── desktop.mjs
+│   │   │   │   ├── diff.d.mts
+│   │   │   │   ├── diff.mjs
+│   │   │   │   ├── d.mjs
+│   │   │   │   ├── docker.d.mts
+│   │   │   │   ├── dockerfile.d.mts
+│   │   │   │   ├── dockerfile.mjs
+│   │   │   │   ├── docker.mjs
+│   │   │   │   ├── dotenv.d.mts
+│   │   │   │   ├── dotenv.mjs
+│   │   │   │   ├── dream-maker.d.mts
+│   │   │   │   ├── dream-maker.mjs
+│   │   │   │   ├── edge.d.mts
+│   │   │   │   ├── edge.mjs
+│   │   │   │   ├── elisp.d.mts
+│   │   │   │   ├── elisp.mjs
+│   │   │   │   ├── elixir.d.mts
+│   │   │   │   ├── elixir.mjs
+│   │   │   │   ├── elm.d.mts
+│   │   │   │   ├── elm.mjs
+│   │   │   │   ├── emacs-lisp.d.mts
+│   │   │   │   ├── emacs-lisp.mjs
+│   │   │   │   ├── erb.d.mts
+│   │   │   │   ├── erb.mjs
+│   │   │   │   ├── erlang.d.mts
+│   │   │   │   ├── erlang.mjs
+│   │   │   │   ├── erl.d.mts
+│   │   │   │   ├── erl.mjs
+│   │   │   │   ├── es-tag-css.d.mts
+│   │   │   │   ├── es-tag-css.mjs
+│   │   │   │   ├── es-tag-glsl.d.mts
+│   │   │   │   ├── es-tag-glsl.mjs
+│   │   │   │   ├── es-tag-html.d.mts
+│   │   │   │   ├── es-tag-html.mjs
+│   │   │   │   ├── es-tag-sql.d.mts
+│   │   │   │   ├── es-tag-sql.mjs
+│   │   │   │   ├── es-tag-xml.d.mts
+│   │   │   │   ├── es-tag-xml.mjs
+│   │   │   │   ├── f03.d.mts
+│   │   │   │   ├── f03.mjs
+│   │   │   │   ├── f08.d.mts
+│   │   │   │   ├── f08.mjs
+│   │   │   │   ├── f18.d.mts
+│   │   │   │   ├── f18.mjs
+│   │   │   │   ├── f77.d.mts
+│   │   │   │   ├── f77.mjs
+│   │   │   │   ├── f90.d.mts
+│   │   │   │   ├── f90.mjs
+│   │   │   │   ├── f95.d.mts
+│   │   │   │   ├── f95.mjs
+│   │   │   │   ├── f.d.mts
+│   │   │   │   ├── fennel.d.mts
+│   │   │   │   ├── fennel.mjs
+│   │   │   │   ├── fish.d.mts
+│   │   │   │   ├── fish.mjs
+│   │   │   │   ├── fluent.d.mts
+│   │   │   │   ├── fluent.mjs
+│   │   │   │   ├── f.mjs
+│   │   │   │   ├── for.d.mts
+│   │   │   │   ├── for.mjs
+│   │   │   │   ├── fortran-fixed-form.d.mts
+│   │   │   │   ├── fortran-fixed-form.mjs
+│   │   │   │   ├── fortran-free-form.d.mts
+│   │   │   │   ├── fortran-free-form.mjs
+│   │   │   │   ├── fs.d.mts
+│   │   │   │   ├── fsharp.d.mts
+│   │   │   │   ├── fsharp.mjs
+│   │   │   │   ├── fsl.d.mts
+│   │   │   │   ├── fsl.mjs
+│   │   │   │   ├── fs.mjs
+│   │   │   │   ├── ftl.d.mts
+│   │   │   │   ├── ftl.mjs
+│   │   │   │   ├── gdresource.d.mts
+│   │   │   │   ├── gdresource.mjs
+│   │   │   │   ├── gdscript.d.mts
+│   │   │   │   ├── gdscript.mjs
+│   │   │   │   ├── gdshader.d.mts
+│   │   │   │   ├── gdshader.mjs
+│   │   │   │   ├── genie.d.mts
+│   │   │   │   ├── genie.mjs
+│   │   │   │   ├── gherkin.d.mts
+│   │   │   │   ├── gherkin.mjs
+│   │   │   │   ├── git-commit.d.mts
+│   │   │   │   ├── git-commit.mjs
+│   │   │   │   ├── git-rebase.d.mts
+│   │   │   │   ├── git-rebase.mjs
+│   │   │   │   ├── gjs.d.mts
+│   │   │   │   ├── gjs.mjs
+│   │   │   │   ├── gleam.d.mts
+│   │   │   │   ├── gleam.mjs
+│   │   │   │   ├── glimmer-js.d.mts
+│   │   │   │   ├── glimmer-js.mjs
+│   │   │   │   ├── glimmer-ts.d.mts
+│   │   │   │   ├── glimmer-ts.mjs
+│   │   │   │   ├── glsl.d.mts
+│   │   │   │   ├── glsl.mjs
+│   │   │   │   ├── gnuplot.d.mts
+│   │   │   │   ├── gnuplot.mjs
+│   │   │   │   ├── go.d.mts
+│   │   │   │   ├── go.mjs
+│   │   │   │   ├── gql.d.mts
+│   │   │   │   ├── gql.mjs
+│   │   │   │   ├── graphql.d.mts
+│   │   │   │   ├── graphql.mjs
+│   │   │   │   ├── groovy.d.mts
+│   │   │   │   ├── groovy.mjs
+│   │   │   │   ├── gts.d.mts
+│   │   │   │   ├── gts.mjs
+│   │   │   │   ├── hack.d.mts
+│   │   │   │   ├── hack.mjs
+│   │   │   │   ├── haml.d.mts
+│   │   │   │   ├── haml.mjs
+│   │   │   │   ├── handlebars.d.mts
+│   │   │   │   ├── handlebars.mjs
+│   │   │   │   ├── haskell.d.mts
+│   │   │   │   ├── haskell.mjs
+│   │   │   │   ├── haxe.d.mts
+│   │   │   │   ├── haxe.mjs
+│   │   │   │   ├── hbs.d.mts
+│   │   │   │   ├── hbs.mjs
+│   │   │   │   ├── hcl.d.mts
+│   │   │   │   ├── hcl.mjs
+│   │   │   │   ├── hjson.d.mts
+│   │   │   │   ├── hjson.mjs
+│   │   │   │   ├── hlsl.d.mts
+│   │   │   │   ├── hlsl.mjs
+│   │   │   │   ├── hs.d.mts
+│   │   │   │   ├── hs.mjs
+│   │   │   │   ├── html-derivative.d.mts
+│   │   │   │   ├── html-derivative.mjs
+│   │   │   │   ├── html.d.mts
+│   │   │   │   ├── html.mjs
+│   │   │   │   ├── http.d.mts
+│   │   │   │   ├── http.mjs
+│   │   │   │   ├── hxml.d.mts
+│   │   │   │   ├── hxml.mjs
+│   │   │   │   ├── hy.d.mts
+│   │   │   │   ├── hy.mjs
+│   │   │   │   ├── imba.d.mts
+│   │   │   │   ├── imba.mjs
+│   │   │   │   ├── ini.d.mts
+│   │   │   │   ├── ini.mjs
+│   │   │   │   ├── jade.d.mts
+│   │   │   │   ├── jade.mjs
+│   │   │   │   ├── java.d.mts
+│   │   │   │   ├── java.mjs
+│   │   │   │   ├── javascript.d.mts
+│   │   │   │   ├── javascript.mjs
+│   │   │   │   ├── jinja.d.mts
+│   │   │   │   ├── jinja-html.d.mts
+│   │   │   │   ├── jinja-html.mjs
+│   │   │   │   ├── jinja.mjs
+│   │   │   │   ├── jison.d.mts
+│   │   │   │   ├── jison.mjs
+│   │   │   │   ├── jl.d.mts
+│   │   │   │   ├── jl.mjs
+│   │   │   │   ├── js.d.mts
+│   │   │   │   ├── js.mjs
+│   │   │   │   ├── json5.d.mts
+│   │   │   │   ├── json5.mjs
+│   │   │   │   ├── jsonc.d.mts
+│   │   │   │   ├── jsonc.mjs
+│   │   │   │   ├── json.d.mts
+│   │   │   │   ├── jsonl.d.mts
+│   │   │   │   ├── jsonl.mjs
+│   │   │   │   ├── json.mjs
+│   │   │   │   ├── jsonnet.d.mts
+│   │   │   │   ├── jsonnet.mjs
+│   │   │   │   ├── jssm.d.mts
+│   │   │   │   ├── jssm.mjs
+│   │   │   │   ├── jsx.d.mts
+│   │   │   │   ├── jsx.mjs
+│   │   │   │   ├── julia.d.mts
+│   │   │   │   ├── julia.mjs
+│   │   │   │   ├── kotlin.d.mts
+│   │   │   │   ├── kotlin.mjs
+│   │   │   │   ├── kql.d.mts
+│   │   │   │   ├── kql.mjs
+│   │   │   │   ├── kt.d.mts
+│   │   │   │   ├── kt.mjs
+│   │   │   │   ├── kts.d.mts
+│   │   │   │   ├── kts.mjs
+│   │   │   │   ├── kusto.d.mts
+│   │   │   │   ├── kusto.mjs
+│   │   │   │   ├── latex.d.mts
+│   │   │   │   ├── latex.mjs
+│   │   │   │   ├── lean4.d.mts
+│   │   │   │   ├── lean4.mjs
+│   │   │   │   ├── lean.d.mts
+│   │   │   │   ├── lean.mjs
+│   │   │   │   ├── less.d.mts
+│   │   │   │   ├── less.mjs
+│   │   │   │   ├── liquid.d.mts
+│   │   │   │   ├── liquid.mjs
+│   │   │   │   ├── lisp.d.mts
+│   │   │   │   ├── lisp.mjs
+│   │   │   │   ├── lit.d.mts
+│   │   │   │   ├── lit.mjs
+│   │   │   │   ├── log.d.mts
+│   │   │   │   ├── log.mjs
+│   │   │   │   ├── logo.d.mts
+│   │   │   │   ├── logo.mjs
+│   │   │   │   ├── lua.d.mts
+│   │   │   │   ├── lua.mjs
+│   │   │   │   ├── luau.d.mts
+│   │   │   │   ├── luau.mjs
+│   │   │   │   ├── make.d.mts
+│   │   │   │   ├── makefile.d.mts
+│   │   │   │   ├── makefile.mjs
+│   │   │   │   ├── make.mjs
+│   │   │   │   ├── markdown.d.mts
+│   │   │   │   ├── markdown.mjs
+│   │   │   │   ├── markdown-vue.d.mts
+│   │   │   │   ├── markdown-vue.mjs
+│   │   │   │   ├── marko.d.mts
+│   │   │   │   ├── marko.mjs
+│   │   │   │   ├── matlab.d.mts
+│   │   │   │   ├── matlab.mjs
+│   │   │   │   ├── mdc.d.mts
+│   │   │   │   ├── mdc.mjs
+│   │   │   │   ├── md.d.mts
+│   │   │   │   ├── md.mjs
+│   │   │   │   ├── mdx.d.mts
+│   │   │   │   ├── mdx.mjs
+│   │   │   │   ├── mediawiki.d.mts
+│   │   │   │   ├── mediawiki.mjs
+│   │   │   │   ├── mermaid.d.mts
+│   │   │   │   ├── mermaid.mjs
+│   │   │   │   ├── mipsasm.d.mts
+│   │   │   │   ├── mipsasm.mjs
+│   │   │   │   ├── mips.d.mts
+│   │   │   │   ├── mips.mjs
+│   │   │   │   ├── mmd.d.mts
+│   │   │   │   ├── mmd.mjs
+│   │   │   │   ├── mojo.d.mts
+│   │   │   │   ├── mojo.mjs
+│   │   │   │   ├── move.d.mts
+│   │   │   │   ├── move.mjs
+│   │   │   │   ├── nar.d.mts
+│   │   │   │   ├── nar.mjs
+│   │   │   │   ├── narrat.d.mts
+│   │   │   │   ├── narrat.mjs
+│   │   │   │   ├── nextflow.d.mts
+│   │   │   │   ├── nextflow.mjs
+│   │   │   │   ├── nf.d.mts
+│   │   │   │   ├── nf.mjs
+│   │   │   │   ├── nginx.d.mts
+│   │   │   │   ├── nginx.mjs
+│   │   │   │   ├── nim.d.mts
+│   │   │   │   ├── nim.mjs
+│   │   │   │   ├── nix.d.mts
+│   │   │   │   ├── nix.mjs
+│   │   │   │   ├── nu.d.mts
+│   │   │   │   ├── nu.mjs
+│   │   │   │   ├── nushell.d.mts
+│   │   │   │   ├── nushell.mjs
+│   │   │   │   ├── objc.d.mts
+│   │   │   │   ├── objc.mjs
+│   │   │   │   ├── objective-c.d.mts
+│   │   │   │   ├── objective-c.mjs
+│   │   │   │   ├── objective-cpp.d.mts
+│   │   │   │   ├── objective-cpp.mjs
+│   │   │   │   ├── ocaml.d.mts
+│   │   │   │   ├── ocaml.mjs
+│   │   │   │   ├── pascal.d.mts
+│   │   │   │   ├── pascal.mjs
+│   │   │   │   ├── perl6.d.mts
+│   │   │   │   ├── perl6.mjs
+│   │   │   │   ├── perl.d.mts
+│   │   │   │   ├── perl.mjs
+│   │   │   │   ├── php.d.mts
+│   │   │   │   ├── php.mjs
+│   │   │   │   ├── plsql.d.mts
+│   │   │   │   ├── plsql.mjs
+│   │   │   │   ├── po.d.mts
+│   │   │   │   ├── polar.d.mts
+│   │   │   │   ├── polar.mjs
+│   │   │   │   ├── po.mjs
+│   │   │   │   ├── postcss.d.mts
+│   │   │   │   ├── postcss.mjs
+│   │   │   │   ├── pot.d.mts
+│   │   │   │   ├── pot.mjs
+│   │   │   │   ├── potx.d.mts
+│   │   │   │   ├── potx.mjs
+│   │   │   │   ├── powerquery.d.mts
+│   │   │   │   ├── powerquery.mjs
+│   │   │   │   ├── powershell.d.mts
+│   │   │   │   ├── powershell.mjs
+│   │   │   │   ├── prisma.d.mts
+│   │   │   │   ├── prisma.mjs
+│   │   │   │   ├── prolog.d.mts
+│   │   │   │   ├── prolog.mjs
+│   │   │   │   ├── properties.d.mts
+│   │   │   │   ├── properties.mjs
+│   │   │   │   ├── protobuf.d.mts
+│   │   │   │   ├── protobuf.mjs
+│   │   │   │   ├── proto.d.mts
+│   │   │   │   ├── proto.mjs
+│   │   │   │   ├── ps1.d.mts
+│   │   │   │   ├── ps1.mjs
+│   │   │   │   ├── ps.d.mts
+│   │   │   │   ├── ps.mjs
+│   │   │   │   ├── pug.d.mts
+│   │   │   │   ├── pug.mjs
+│   │   │   │   ├── puppet.d.mts
+│   │   │   │   ├── puppet.mjs
+│   │   │   │   ├── purescript.d.mts
+│   │   │   │   ├── purescript.mjs
+│   │   │   │   ├── py.d.mts
+│   │   │   │   ├── py.mjs
+│   │   │   │   ├── python.d.mts
+│   │   │   │   ├── python.mjs
+│   │   │   │   ├── ql.d.mts
+│   │   │   │   ├── ql.mjs
+│   │   │   │   ├── qmldir.d.mts
+│   │   │   │   ├── qmldir.mjs
+│   │   │   │   ├── qml.d.mts
+│   │   │   │   ├── qml.mjs
+│   │   │   │   ├── qss.d.mts
+│   │   │   │   ├── qss.mjs
+│   │   │   │   ├── racket.d.mts
+│   │   │   │   ├── racket.mjs
+│   │   │   │   ├── raku.d.mts
+│   │   │   │   ├── raku.mjs
+│   │   │   │   ├── razor.d.mts
+│   │   │   │   ├── razor.mjs
+│   │   │   │   ├── rb.d.mts
+│   │   │   │   ├── rb.mjs
+│   │   │   │   ├── r.d.mts
+│   │   │   │   ├── reg.d.mts
+│   │   │   │   ├── regex.d.mts
+│   │   │   │   ├── regex.mjs
+│   │   │   │   ├── regexp.d.mts
+│   │   │   │   ├── regexp.mjs
+│   │   │   │   ├── reg.mjs
+│   │   │   │   ├── rel.d.mts
+│   │   │   │   ├── rel.mjs
+│   │   │   │   ├── riscv.d.mts
+│   │   │   │   ├── riscv.mjs
+│   │   │   │   ├── r.mjs
+│   │   │   │   ├── rs.d.mts
+│   │   │   │   ├── rs.mjs
+│   │   │   │   ├── rst.d.mts
+│   │   │   │   ├── rst.mjs
+│   │   │   │   ├── ruby.d.mts
+│   │   │   │   ├── ruby.mjs
+│   │   │   │   ├── rust.d.mts
+│   │   │   │   ├── rust.mjs
+│   │   │   │   ├── sas.d.mts
+│   │   │   │   ├── sas.mjs
+│   │   │   │   ├── sass.d.mts
+│   │   │   │   ├── sass.mjs
+│   │   │   │   ├── scala.d.mts
+│   │   │   │   ├── scala.mjs
+│   │   │   │   ├── scheme.d.mts
+│   │   │   │   ├── scheme.mjs
+│   │   │   │   ├── scss.d.mts
+│   │   │   │   ├── scss.mjs
+│   │   │   │   ├── sdbl.d.mts
+│   │   │   │   ├── sdbl.mjs
+│   │   │   │   ├── shader.d.mts
+│   │   │   │   ├── shaderlab.d.mts
+│   │   │   │   ├── shaderlab.mjs
+│   │   │   │   ├── shader.mjs
+│   │   │   │   ├── sh.d.mts
+│   │   │   │   ├── shell.d.mts
+│   │   │   │   ├── shell.mjs
+│   │   │   │   ├── shellscript.d.mts
+│   │   │   │   ├── shellscript.mjs
+│   │   │   │   ├── shellsession.d.mts
+│   │   │   │   ├── shellsession.mjs
+│   │   │   │   ├── sh.mjs
+│   │   │   │   ├── smalltalk.d.mts
+│   │   │   │   ├── smalltalk.mjs
+│   │   │   │   ├── solidity.d.mts
+│   │   │   │   ├── solidity.mjs
+│   │   │   │   ├── soy.d.mts
+│   │   │   │   ├── soy.mjs
+│   │   │   │   ├── sparql.d.mts
+│   │   │   │   ├── sparql.mjs
+│   │   │   │   ├── spl.d.mts
+│   │   │   │   ├── spl.mjs
+│   │   │   │   ├── splunk.d.mts
+│   │   │   │   ├── splunk.mjs
+│   │   │   │   ├── sql.d.mts
+│   │   │   │   ├── sql.mjs
+│   │   │   │   ├── ssh-config.d.mts
+│   │   │   │   ├── ssh-config.mjs
+│   │   │   │   ├── stata.d.mts
+│   │   │   │   ├── stata.mjs
+│   │   │   │   ├── styl.d.mts
+│   │   │   │   ├── styl.mjs
+│   │   │   │   ├── stylus.d.mts
+│   │   │   │   ├── stylus.mjs
+│   │   │   │   ├── svelte.d.mts
+│   │   │   │   ├── svelte.mjs
+│   │   │   │   ├── swift.d.mts
+│   │   │   │   ├── swift.mjs
+│   │   │   │   ├── systemd.d.mts
+│   │   │   │   ├── systemd.mjs
+│   │   │   │   ├── system-verilog.d.mts
+│   │   │   │   ├── system-verilog.mjs
+│   │   │   │   ├── talon.d.mts
+│   │   │   │   ├── talon.mjs
+│   │   │   │   ├── talonscript.d.mts
+│   │   │   │   ├── talonscript.mjs
+│   │   │   │   ├── tasl.d.mts
+│   │   │   │   ├── tasl.mjs
+│   │   │   │   ├── tcl.d.mts
+│   │   │   │   ├── tcl.mjs
+│   │   │   │   ├── templ.d.mts
+│   │   │   │   ├── templ.mjs
+│   │   │   │   ├── terraform.d.mts
+│   │   │   │   ├── terraform.mjs
+│   │   │   │   ├── tex.d.mts
+│   │   │   │   ├── tex.mjs
+│   │   │   │   ├── tf.d.mts
+│   │   │   │   ├── tf.mjs
+│   │   │   │   ├── tfvars.d.mts
+│   │   │   │   ├── tfvars.mjs
+│   │   │   │   ├── toml.d.mts
+│   │   │   │   ├── toml.mjs
+│   │   │   │   ├── ts.d.mts
+│   │   │   │   ├── ts.mjs
+│   │   │   │   ├── tsp.d.mts
+│   │   │   │   ├── tsp.mjs
+│   │   │   │   ├── ts-tags.d.mts
+│   │   │   │   ├── ts-tags.mjs
+│   │   │   │   ├── tsv.d.mts
+│   │   │   │   ├── tsv.mjs
+│   │   │   │   ├── tsx.d.mts
+│   │   │   │   ├── tsx.mjs
+│   │   │   │   ├── turtle.d.mts
+│   │   │   │   ├── turtle.mjs
+│   │   │   │   ├── twig.d.mts
+│   │   │   │   ├── twig.mjs
+│   │   │   │   ├── typ.d.mts
+│   │   │   │   ├── typescript.d.mts
+│   │   │   │   ├── typescript.mjs
+│   │   │   │   ├── typespec.d.mts
+│   │   │   │   ├── typespec.mjs
+│   │   │   │   ├── typ.mjs
+│   │   │   │   ├── typst.d.mts
+│   │   │   │   ├── typst.mjs
+│   │   │   │   ├── vala.d.mts
+│   │   │   │   ├── vala.mjs
+│   │   │   │   ├── vb.d.mts
+│   │   │   │   ├── vb.mjs
+│   │   │   │   ├── v.d.mts
+│   │   │   │   ├── verilog.d.mts
+│   │   │   │   ├── verilog.mjs
+│   │   │   │   ├── vhdl.d.mts
+│   │   │   │   ├── vhdl.mjs
+│   │   │   │   ├── vim.d.mts
+│   │   │   │   ├── viml.d.mts
+│   │   │   │   ├── viml.mjs
+│   │   │   │   ├── vim.mjs
+│   │   │   │   ├── vimscript.d.mts
+│   │   │   │   ├── vimscript.mjs
+│   │   │   │   ├── v.mjs
+│   │   │   │   ├── vue-directives.d.mts
+│   │   │   │   ├── vue-directives.mjs
+│   │   │   │   ├── vue.d.mts
+│   │   │   │   ├── vue-html.d.mts
+│   │   │   │   ├── vue-html.mjs
+│   │   │   │   ├── vue-interpolations.d.mts
+│   │   │   │   ├── vue-interpolations.mjs
+│   │   │   │   ├── vue.mjs
+│   │   │   │   ├── vue-sfc-style-variable-injection.d.mts
+│   │   │   │   ├── vue-sfc-style-variable-injection.mjs
+│   │   │   │   ├── vy.d.mts
+│   │   │   │   ├── vy.mjs
+│   │   │   │   ├── vyper.d.mts
+│   │   │   │   ├── vyper.mjs
+│   │   │   │   ├── wasm.d.mts
+│   │   │   │   ├── wasm.mjs
+│   │   │   │   ├── wenyan.d.mts
+│   │   │   │   ├── wenyan.mjs
+│   │   │   │   ├── wgsl.d.mts
+│   │   │   │   ├── wgsl.mjs
+│   │   │   │   ├── wiki.d.mts
+│   │   │   │   ├── wiki.mjs
+│   │   │   │   ├── wikitext.d.mts
+│   │   │   │   ├── wikitext.mjs
+│   │   │   │   ├── wl.d.mts
+│   │   │   │   ├── wl.mjs
+│   │   │   │   ├── wolfram.d.mts
+│   │   │   │   ├── wolfram.mjs
+│   │   │   │   ├── xml.d.mts
+│   │   │   │   ├── xml.mjs
+│   │   │   │   ├── xsl.d.mts
+│   │   │   │   ├── xsl.mjs
+│   │   │   │   ├── yaml.d.mts
+│   │   │   │   ├── yaml.mjs
+│   │   │   │   ├── yml.d.mts
+│   │   │   │   ├── yml.mjs
+│   │   │   │   ├── zenscript.d.mts
+│   │   │   │   ├── zenscript.mjs
+│   │   │   │   ├── zig.d.mts
+│   │   │   │   ├── zig.mjs
+│   │   │   │   ├── zsh.d.mts
+│   │   │   │   └── zsh.mjs
+│   │   │   ├── langs.d.mts
+│   │   │   ├── langs.mjs
+│   │   │   ├── onig.d.mts
+│   │   │   ├── onig.wasm
+│   │   │   ├── textmate.d.mts
+│   │   │   ├── textmate.mjs
+│   │   │   ├── theme-css-variables.d.mts
+│   │   │   ├── theme-css-variables.mjs
+│   │   │   ├── themes
+│   │   │   │   ├── andromeeda.d.mts
+│   │   │   │   ├── andromeeda.mjs
+│   │   │   │   ├── aurora-x.d.mts
+│   │   │   │   ├── aurora-x.mjs
+│   │   │   │   ├── ayu-dark.d.mts
+│   │   │   │   ├── ayu-dark.mjs
+│   │   │   │   ├── catppuccin-frappe.d.mts
+│   │   │   │   ├── catppuccin-frappe.mjs
+│   │   │   │   ├── catppuccin-latte.d.mts
+│   │   │   │   ├── catppuccin-latte.mjs
+│   │   │   │   ├── catppuccin-macchiato.d.mts
+│   │   │   │   ├── catppuccin-macchiato.mjs
+│   │   │   │   ├── catppuccin-mocha.d.mts
+│   │   │   │   ├── catppuccin-mocha.mjs
+│   │   │   │   ├── dark-plus.d.mts
+│   │   │   │   ├── dark-plus.mjs
+│   │   │   │   ├── dracula.d.mts
+│   │   │   │   ├── dracula.mjs
+│   │   │   │   ├── dracula-soft.d.mts
+│   │   │   │   ├── dracula-soft.mjs
+│   │   │   │   ├── everforest-dark.d.mts
+│   │   │   │   ├── everforest-dark.mjs
+│   │   │   │   ├── everforest-light.d.mts
+│   │   │   │   ├── everforest-light.mjs
+│   │   │   │   ├── github-dark-default.d.mts
+│   │   │   │   ├── github-dark-default.mjs
+│   │   │   │   ├── github-dark-dimmed.d.mts
+│   │   │   │   ├── github-dark-dimmed.mjs
+│   │   │   │   ├── github-dark.d.mts
+│   │   │   │   ├── github-dark-high-contrast.d.mts
+│   │   │   │   ├── github-dark-high-contrast.mjs
+│   │   │   │   ├── github-dark.mjs
+│   │   │   │   ├── github-light-default.d.mts
+│   │   │   │   ├── github-light-default.mjs
+│   │   │   │   ├── github-light.d.mts
+│   │   │   │   ├── github-light-high-contrast.d.mts
+│   │   │   │   ├── github-light-high-contrast.mjs
+│   │   │   │   ├── github-light.mjs
+│   │   │   │   ├── houston.d.mts
+│   │   │   │   ├── houston.mjs
+│   │   │   │   ├── kanagawa-dragon.d.mts
+│   │   │   │   ├── kanagawa-dragon.mjs
+│   │   │   │   ├── kanagawa-lotus.d.mts
+│   │   │   │   ├── kanagawa-lotus.mjs
+│   │   │   │   ├── kanagawa-wave.d.mts
+│   │   │   │   ├── kanagawa-wave.mjs
+│   │   │   │   ├── laserwave.d.mts
+│   │   │   │   ├── laserwave.mjs
+│   │   │   │   ├── light-plus.d.mts
+│   │   │   │   ├── light-plus.mjs
+│   │   │   │   ├── material-theme-darker.d.mts
+│   │   │   │   ├── material-theme-darker.mjs
+│   │   │   │   ├── material-theme.d.mts
+│   │   │   │   ├── material-theme-lighter.d.mts
+│   │   │   │   ├── material-theme-lighter.mjs
+│   │   │   │   ├── material-theme.mjs
+│   │   │   │   ├── material-theme-ocean.d.mts
+│   │   │   │   ├── material-theme-ocean.mjs
+│   │   │   │   ├── material-theme-palenight.d.mts
+│   │   │   │   ├── material-theme-palenight.mjs
+│   │   │   │   ├── min-dark.d.mts
+│   │   │   │   ├── min-dark.mjs
+│   │   │   │   ├── min-light.d.mts
+│   │   │   │   ├── min-light.mjs
+│   │   │   │   ├── monokai.d.mts
+│   │   │   │   ├── monokai.mjs
+│   │   │   │   ├── night-owl.d.mts
+│   │   │   │   ├── night-owl.mjs
+│   │   │   │   ├── nord.d.mts
+│   │   │   │   ├── nord.mjs
+│   │   │   │   ├── one-dark-pro.d.mts
+│   │   │   │   ├── one-dark-pro.mjs
+│   │   │   │   ├── one-light.d.mts
+│   │   │   │   ├── one-light.mjs
+│   │   │   │   ├── plastic.d.mts
+│   │   │   │   ├── plastic.mjs
+│   │   │   │   ├── poimandres.d.mts
+│   │   │   │   ├── poimandres.mjs
+│   │   │   │   ├── red.d.mts
+│   │   │   │   ├── red.mjs
+│   │   │   │   ├── rose-pine-dawn.d.mts
+│   │   │   │   ├── rose-pine-dawn.mjs
+│   │   │   │   ├── rose-pine.d.mts
+│   │   │   │   ├── rose-pine.mjs
+│   │   │   │   ├── rose-pine-moon.d.mts
+│   │   │   │   ├── rose-pine-moon.mjs
+│   │   │   │   ├── slack-dark.d.mts
+│   │   │   │   ├── slack-dark.mjs
+│   │   │   │   ├── slack-ochin.d.mts
+│   │   │   │   ├── slack-ochin.mjs
+│   │   │   │   ├── snazzy-light.d.mts
+│   │   │   │   ├── snazzy-light.mjs
+│   │   │   │   ├── solarized-dark.d.mts
+│   │   │   │   ├── solarized-dark.mjs
+│   │   │   │   ├── solarized-light.d.mts
+│   │   │   │   ├── solarized-light.mjs
+│   │   │   │   ├── synthwave-84.d.mts
+│   │   │   │   ├── synthwave-84.mjs
+│   │   │   │   ├── tokyo-night.d.mts
+│   │   │   │   ├── tokyo-night.mjs
+│   │   │   │   ├── vesper.d.mts
+│   │   │   │   ├── vesper.mjs
+│   │   │   │   ├── vitesse-black.d.mts
+│   │   │   │   ├── vitesse-black.mjs
+│   │   │   │   ├── vitesse-dark.d.mts
+│   │   │   │   ├── vitesse-dark.mjs
+│   │   │   │   ├── vitesse-light.d.mts
+│   │   │   │   └── vitesse-light.mjs
+│   │   │   ├── themes.d.mts
+│   │   │   ├── themes.mjs
+│   │   │   ├── types
+│   │   │   │   ├── index.d.d.mts
+│   │   │   │   └── wasm-dynamic.d.mts
+│   │   │   ├── types.d.mts
+│   │   │   ├── types.mjs
+│   │   │   ├── wasm.d.mts
+│   │   │   ├── wasm-dynamic-K7LwWlz7.js
+│   │   │   └── wasm.mjs
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── @shikijs
+│   │   ├── core
+│   │   │   ├── dist
+│   │   │   │   ├── index.d.mts
+│   │   │   │   ├── index.d.ts
+│   │   │   │   ├── index.mjs
+│   │   │   │   ├── shared
+│   │   │   │   │   └── core.5hv0Law9.mjs
+│   │   │   │   ├── textmate.d.mts
+│   │   │   │   ├── textmate.d.ts
+│   │   │   │   ├── textmate.mjs
+│   │   │   │   ├── types.d.mts
+│   │   │   │   ├── types.d.ts
+│   │   │   │   ├── types.mjs
+│   │   │   │   ├── wasm-inlined.d.mts
+│   │   │   │   ├── wasm-inlined.d.ts
+│   │   │   │   └── wasm-inlined.mjs
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── engine-javascript
+│   │   │   ├── dist
+│   │   │   │   ├── engine-compile.d.mts
+│   │   │   │   ├── engine-compile.d.ts
+│   │   │   │   ├── engine-compile.mjs
+│   │   │   │   ├── engine-raw.d.mts
+│   │   │   │   ├── engine-raw.d.ts
+│   │   │   │   ├── engine-raw.mjs
+│   │   │   │   ├── index.d.mts
+│   │   │   │   ├── index.d.ts
+│   │   │   │   ├── index.mjs
+│   │   │   │   └── shared
+│   │   │   │       ├── engine-javascript.BnuFKbIS.d.mts
+│   │   │   │       ├── engine-javascript.BnuFKbIS.d.ts
+│   │   │   │       └── engine-javascript.hzpS1_41.mjs
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── engine-oniguruma
+│   │   │   ├── dist
+│   │   │   │   ├── chunk-index.d.d.mts
+│   │   │   │   ├── index.d.mts
+│   │   │   │   ├── index.mjs
+│   │   │   │   ├── onig.d.mts
+│   │   │   │   ├── wasm-inlined.d.mts
+│   │   │   │   └── wasm-inlined.mjs
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── langs
+│   │   │   ├── dist
+│   │   │   │   ├── 1c.d.mts
+│   │   │   │   ├── 1c.mjs
+│   │   │   │   ├── 1c-query.d.mts
+│   │   │   │   ├── 1c-query.mjs
+│   │   │   │   ├── abap.d.mts
+│   │   │   │   ├── abap.mjs
+│   │   │   │   ├── actionscript-3.d.mts
+│   │   │   │   ├── actionscript-3.mjs
+│   │   │   │   ├── ada.d.mts
+│   │   │   │   ├── ada.mjs
+│   │   │   │   ├── adoc.d.mts
+│   │   │   │   ├── adoc.mjs
+│   │   │   │   ├── angular-expression.d.mts
+│   │   │   │   ├── angular-expression.mjs
+│   │   │   │   ├── angular-html.d.mts
+│   │   │   │   ├── angular-html.mjs
+│   │   │   │   ├── angular-inline-style.d.mts
+│   │   │   │   ├── angular-inline-style.mjs
+│   │   │   │   ├── angular-inline-template.d.mts
+│   │   │   │   ├── angular-inline-template.mjs
+│   │   │   │   ├── angular-let-declaration.d.mts
+│   │   │   │   ├── angular-let-declaration.mjs
+│   │   │   │   ├── angular-template-blocks.d.mts
+│   │   │   │   ├── angular-template-blocks.mjs
+│   │   │   │   ├── angular-template.d.mts
+│   │   │   │   ├── angular-template.mjs
+│   │   │   │   ├── angular-ts.d.mts
+│   │   │   │   ├── angular-ts.mjs
+│   │   │   │   ├── apache.d.mts
+│   │   │   │   ├── apache.mjs
+│   │   │   │   ├── apex.d.mts
+│   │   │   │   ├── apex.mjs
+│   │   │   │   ├── apl.d.mts
+│   │   │   │   ├── apl.mjs
+│   │   │   │   ├── applescript.d.mts
+│   │   │   │   ├── applescript.mjs
+│   │   │   │   ├── ara.d.mts
+│   │   │   │   ├── ara.mjs
+│   │   │   │   ├── asciidoc.d.mts
+│   │   │   │   ├── asciidoc.mjs
+│   │   │   │   ├── asm.d.mts
+│   │   │   │   ├── asm.mjs
+│   │   │   │   ├── astro.d.mts
+│   │   │   │   ├── astro.mjs
+│   │   │   │   ├── awk.d.mts
+│   │   │   │   ├── awk.mjs
+│   │   │   │   ├── ballerina.d.mts
+│   │   │   │   ├── ballerina.mjs
+│   │   │   │   ├── bash.d.mts
+│   │   │   │   ├── bash.mjs
+│   │   │   │   ├── batch.d.mts
+│   │   │   │   ├── batch.mjs
+│   │   │   │   ├── bat.d.mts
+│   │   │   │   ├── bat.mjs
+│   │   │   │   ├── beancount.d.mts
+│   │   │   │   ├── beancount.mjs
+│   │   │   │   ├── be.d.mts
+│   │   │   │   ├── be.mjs
+│   │   │   │   ├── berry.d.mts
+│   │   │   │   ├── berry.mjs
+│   │   │   │   ├── bibtex.d.mts
+│   │   │   │   ├── bibtex.mjs
+│   │   │   │   ├── bicep.d.mts
+│   │   │   │   ├── bicep.mjs
+│   │   │   │   ├── blade.d.mts
+│   │   │   │   ├── blade.mjs
+│   │   │   │   ├── bsl.d.mts
+│   │   │   │   ├── bsl.mjs
+│   │   │   │   ├── cadence.d.mts
+│   │   │   │   ├── cadence.mjs
+│   │   │   │   ├── cairo.d.mts
+│   │   │   │   ├── cairo.mjs
+│   │   │   │   ├── cdc.d.mts
+│   │   │   │   ├── cdc.mjs
+│   │   │   │   ├── c.d.mts
+│   │   │   │   ├── clarity.d.mts
+│   │   │   │   ├── clarity.mjs
+│   │   │   │   ├── clj.d.mts
+│   │   │   │   ├── clj.mjs
+│   │   │   │   ├── clojure.d.mts
+│   │   │   │   ├── clojure.mjs
+│   │   │   │   ├── closure-templates.d.mts
+│   │   │   │   ├── closure-templates.mjs
+│   │   │   │   ├── cmake.d.mts
+│   │   │   │   ├── cmake.mjs
+│   │   │   │   ├── cmd.d.mts
+│   │   │   │   ├── cmd.mjs
+│   │   │   │   ├── c.mjs
+│   │   │   │   ├── cobol.d.mts
+│   │   │   │   ├── cobol.mjs
+│   │   │   │   ├── codeowners.d.mts
+│   │   │   │   ├── codeowners.mjs
+│   │   │   │   ├── codeql.d.mts
+│   │   │   │   ├── codeql.mjs
+│   │   │   │   ├── coffee.d.mts
+│   │   │   │   ├── coffee.mjs
+│   │   │   │   ├── coffeescript.d.mts
+│   │   │   │   ├── coffeescript.mjs
+│   │   │   │   ├── common-lisp.d.mts
+│   │   │   │   ├── common-lisp.mjs
+│   │   │   │   ├── console.d.mts
+│   │   │   │   ├── console.mjs
+│   │   │   │   ├── coq.d.mts
+│   │   │   │   ├── coq.mjs
+│   │   │   │   ├── cpp.d.mts
+│   │   │   │   ├── cpp-macro.d.mts
+│   │   │   │   ├── cpp-macro.mjs
+│   │   │   │   ├── cpp.mjs
+│   │   │   │   ├── cql.d.mts
+│   │   │   │   ├── cql.mjs
+│   │   │   │   ├── crystal.d.mts
+│   │   │   │   ├── crystal.mjs
+│   │   │   │   ├── cs.d.mts
+│   │   │   │   ├── csharp.d.mts
+│   │   │   │   ├── csharp.mjs
+│   │   │   │   ├── cs.mjs
+│   │   │   │   ├── css.d.mts
+│   │   │   │   ├── css.mjs
+│   │   │   │   ├── csv.d.mts
+│   │   │   │   ├── csv.mjs
+│   │   │   │   ├── cue.d.mts
+│   │   │   │   ├── cue.mjs
+│   │   │   │   ├── cypher.d.mts
+│   │   │   │   ├── cypher.mjs
+│   │   │   │   ├── dart.d.mts
+│   │   │   │   ├── dart.mjs
+│   │   │   │   ├── dax.d.mts
+│   │   │   │   ├── dax.mjs
+│   │   │   │   ├── d.d.mts
+│   │   │   │   ├── desktop.d.mts
+│   │   │   │   ├── desktop.mjs
+│   │   │   │   ├── diff.d.mts
+│   │   │   │   ├── diff.mjs
+│   │   │   │   ├── d.mjs
+│   │   │   │   ├── docker.d.mts
+│   │   │   │   ├── dockerfile.d.mts
+│   │   │   │   ├── dockerfile.mjs
+│   │   │   │   ├── docker.mjs
+│   │   │   │   ├── dotenv.d.mts
+│   │   │   │   ├── dotenv.mjs
+│   │   │   │   ├── dream-maker.d.mts
+│   │   │   │   ├── dream-maker.mjs
+│   │   │   │   ├── edge.d.mts
+│   │   │   │   ├── edge.mjs
+│   │   │   │   ├── elisp.d.mts
+│   │   │   │   ├── elisp.mjs
+│   │   │   │   ├── elixir.d.mts
+│   │   │   │   ├── elixir.mjs
+│   │   │   │   ├── elm.d.mts
+│   │   │   │   ├── elm.mjs
+│   │   │   │   ├── emacs-lisp.d.mts
+│   │   │   │   ├── emacs-lisp.mjs
+│   │   │   │   ├── erb.d.mts
+│   │   │   │   ├── erb.mjs
+│   │   │   │   ├── erlang.d.mts
+│   │   │   │   ├── erlang.mjs
+│   │   │   │   ├── erl.d.mts
+│   │   │   │   ├── erl.mjs
+│   │   │   │   ├── es-tag-css.d.mts
+│   │   │   │   ├── es-tag-css.mjs
+│   │   │   │   ├── es-tag-glsl.d.mts
+│   │   │   │   ├── es-tag-glsl.mjs
+│   │   │   │   ├── es-tag-html.d.mts
+│   │   │   │   ├── es-tag-html.mjs
+│   │   │   │   ├── es-tag-sql.d.mts
+│   │   │   │   ├── es-tag-sql.mjs
+│   │   │   │   ├── es-tag-xml.d.mts
+│   │   │   │   ├── es-tag-xml.mjs
+│   │   │   │   ├── f03.d.mts
+│   │   │   │   ├── f03.mjs
+│   │   │   │   ├── f08.d.mts
+│   │   │   │   ├── f08.mjs
+│   │   │   │   ├── f18.d.mts
+│   │   │   │   ├── f18.mjs
+│   │   │   │   ├── f77.d.mts
+│   │   │   │   ├── f77.mjs
+│   │   │   │   ├── f90.d.mts
+│   │   │   │   ├── f90.mjs
+│   │   │   │   ├── f95.d.mts
+│   │   │   │   ├── f95.mjs
+│   │   │   │   ├── f.d.mts
+│   │   │   │   ├── fennel.d.mts
+│   │   │   │   ├── fennel.mjs
+│   │   │   │   ├── fish.d.mts
+│   │   │   │   ├── fish.mjs
+│   │   │   │   ├── fluent.d.mts
+│   │   │   │   ├── fluent.mjs
+│   │   │   │   ├── f.mjs
+│   │   │   │   ├── for.d.mts
+│   │   │   │   ├── for.mjs
+│   │   │   │   ├── fortran-fixed-form.d.mts
+│   │   │   │   ├── fortran-fixed-form.mjs
+│   │   │   │   ├── fortran-free-form.d.mts
+│   │   │   │   ├── fortran-free-form.mjs
+│   │   │   │   ├── fs.d.mts
+│   │   │   │   ├── fsharp.d.mts
+│   │   │   │   ├── fsharp.mjs
+│   │   │   │   ├── fsl.d.mts
+│   │   │   │   ├── fsl.mjs
+│   │   │   │   ├── fs.mjs
+│   │   │   │   ├── ftl.d.mts
+│   │   │   │   ├── ftl.mjs
+│   │   │   │   ├── gdresource.d.mts
+│   │   │   │   ├── gdresource.mjs
+│   │   │   │   ├── gdscript.d.mts
+│   │   │   │   ├── gdscript.mjs
+│   │   │   │   ├── gdshader.d.mts
+│   │   │   │   ├── gdshader.mjs
+│   │   │   │   ├── genie.d.mts
+│   │   │   │   ├── genie.mjs
+│   │   │   │   ├── gherkin.d.mts
+│   │   │   │   ├── gherkin.mjs
+│   │   │   │   ├── git-commit.d.mts
+│   │   │   │   ├── git-commit.mjs
+│   │   │   │   ├── git-rebase.d.mts
+│   │   │   │   ├── git-rebase.mjs
+│   │   │   │   ├── gjs.d.mts
+│   │   │   │   ├── gjs.mjs
+│   │   │   │   ├── gleam.d.mts
+│   │   │   │   ├── gleam.mjs
+│   │   │   │   ├── glimmer-js.d.mts
+│   │   │   │   ├── glimmer-js.mjs
+│   │   │   │   ├── glimmer-ts.d.mts
+│   │   │   │   ├── glimmer-ts.mjs
+│   │   │   │   ├── glsl.d.mts
+│   │   │   │   ├── glsl.mjs
+│   │   │   │   ├── gnuplot.d.mts
+│   │   │   │   ├── gnuplot.mjs
+│   │   │   │   ├── go.d.mts
+│   │   │   │   ├── go.mjs
+│   │   │   │   ├── gql.d.mts
+│   │   │   │   ├── gql.mjs
+│   │   │   │   ├── graphql.d.mts
+│   │   │   │   ├── graphql.mjs
+│   │   │   │   ├── groovy.d.mts
+│   │   │   │   ├── groovy.mjs
+│   │   │   │   ├── gts.d.mts
+│   │   │   │   ├── gts.mjs
+│   │   │   │   ├── hack.d.mts
+│   │   │   │   ├── hack.mjs
+│   │   │   │   ├── haml.d.mts
+│   │   │   │   ├── haml.mjs
+│   │   │   │   ├── handlebars.d.mts
+│   │   │   │   ├── handlebars.mjs
+│   │   │   │   ├── haskell.d.mts
+│   │   │   │   ├── haskell.mjs
+│   │   │   │   ├── haxe.d.mts
+│   │   │   │   ├── haxe.mjs
+│   │   │   │   ├── hbs.d.mts
+│   │   │   │   ├── hbs.mjs
+│   │   │   │   ├── hcl.d.mts
+│   │   │   │   ├── hcl.mjs
+│   │   │   │   ├── hjson.d.mts
+│   │   │   │   ├── hjson.mjs
+│   │   │   │   ├── hlsl.d.mts
+│   │   │   │   ├── hlsl.mjs
+│   │   │   │   ├── hs.d.mts
+│   │   │   │   ├── hs.mjs
+│   │   │   │   ├── html-derivative.d.mts
+│   │   │   │   ├── html-derivative.mjs
+│   │   │   │   ├── html.d.mts
+│   │   │   │   ├── html.mjs
+│   │   │   │   ├── http.d.mts
+│   │   │   │   ├── http.mjs
+│   │   │   │   ├── hxml.d.mts
+│   │   │   │   ├── hxml.mjs
+│   │   │   │   ├── hy.d.mts
+│   │   │   │   ├── hy.mjs
+│   │   │   │   ├── imba.d.mts
+│   │   │   │   ├── imba.mjs
+│   │   │   │   ├── index.d.mts
+│   │   │   │   ├── index.mjs
+│   │   │   │   ├── ini.d.mts
+│   │   │   │   ├── ini.mjs
+│   │   │   │   ├── jade.d.mts
+│   │   │   │   ├── jade.mjs
+│   │   │   │   ├── java.d.mts
+│   │   │   │   ├── java.mjs
+│   │   │   │   ├── javascript.d.mts
+│   │   │   │   ├── javascript.mjs
+│   │   │   │   ├── jinja.d.mts
+│   │   │   │   ├── jinja-html.d.mts
+│   │   │   │   ├── jinja-html.mjs
+│   │   │   │   ├── jinja.mjs
+│   │   │   │   ├── jison.d.mts
+│   │   │   │   ├── jison.mjs
+│   │   │   │   ├── jl.d.mts
+│   │   │   │   ├── jl.mjs
+│   │   │   │   ├── js.d.mts
+│   │   │   │   ├── js.mjs
+│   │   │   │   ├── json5.d.mts
+│   │   │   │   ├── json5.mjs
+│   │   │   │   ├── jsonc.d.mts
+│   │   │   │   ├── jsonc.mjs
+│   │   │   │   ├── json.d.mts
+│   │   │   │   ├── jsonl.d.mts
+│   │   │   │   ├── jsonl.mjs
+│   │   │   │   ├── json.mjs
+│   │   │   │   ├── jsonnet.d.mts
+│   │   │   │   ├── jsonnet.mjs
+│   │   │   │   ├── jssm.d.mts
+│   │   │   │   ├── jssm.mjs
+│   │   │   │   ├── jsx.d.mts
+│   │   │   │   ├── jsx.mjs
+│   │   │   │   ├── julia.d.mts
+│   │   │   │   ├── julia.mjs
+│   │   │   │   ├── kotlin.d.mts
+│   │   │   │   ├── kotlin.mjs
+│   │   │   │   ├── kql.d.mts
+│   │   │   │   ├── kql.mjs
+│   │   │   │   ├── kt.d.mts
+│   │   │   │   ├── kt.mjs
+│   │   │   │   ├── kts.d.mts
+│   │   │   │   ├── kts.mjs
+│   │   │   │   ├── kusto.d.mts
+│   │   │   │   ├── kusto.mjs
+│   │   │   │   ├── latex.d.mts
+│   │   │   │   ├── latex.mjs
+│   │   │   │   ├── lean4.d.mts
+│   │   │   │   ├── lean4.mjs
+│   │   │   │   ├── lean.d.mts
+│   │   │   │   ├── lean.mjs
+│   │   │   │   ├── less.d.mts
+│   │   │   │   ├── less.mjs
+│   │   │   │   ├── liquid.d.mts
+│   │   │   │   ├── liquid.mjs
+│   │   │   │   ├── lisp.d.mts
+│   │   │   │   ├── lisp.mjs
+│   │   │   │   ├── lit.d.mts
+│   │   │   │   ├── lit.mjs
+│   │   │   │   ├── log.d.mts
+│   │   │   │   ├── log.mjs
+│   │   │   │   ├── logo.d.mts
+│   │   │   │   ├── logo.mjs
+│   │   │   │   ├── lua.d.mts
+│   │   │   │   ├── lua.mjs
+│   │   │   │   ├── luau.d.mts
+│   │   │   │   ├── luau.mjs
+│   │   │   │   ├── make.d.mts
+│   │   │   │   ├── makefile.d.mts
+│   │   │   │   ├── makefile.mjs
+│   │   │   │   ├── make.mjs
+│   │   │   │   ├── markdown.d.mts
+│   │   │   │   ├── markdown.mjs
+│   │   │   │   ├── markdown-vue.d.mts
+│   │   │   │   ├── markdown-vue.mjs
+│   │   │   │   ├── marko.d.mts
+│   │   │   │   ├── marko.mjs
+│   │   │   │   ├── matlab.d.mts
+│   │   │   │   ├── matlab.mjs
+│   │   │   │   ├── mdc.d.mts
+│   │   │   │   ├── mdc.mjs
+│   │   │   │   ├── md.d.mts
+│   │   │   │   ├── md.mjs
+│   │   │   │   ├── mdx.d.mts
+│   │   │   │   ├── mdx.mjs
+│   │   │   │   ├── mediawiki.d.mts
+│   │   │   │   ├── mediawiki.mjs
+│   │   │   │   ├── mermaid.d.mts
+│   │   │   │   ├── mermaid.mjs
+│   │   │   │   ├── mipsasm.d.mts
+│   │   │   │   ├── mipsasm.mjs
+│   │   │   │   ├── mips.d.mts
+│   │   │   │   ├── mips.mjs
+│   │   │   │   ├── mmd.d.mts
+│   │   │   │   ├── mmd.mjs
+│   │   │   │   ├── mojo.d.mts
+│   │   │   │   ├── mojo.mjs
+│   │   │   │   ├── move.d.mts
+│   │   │   │   ├── move.mjs
+│   │   │   │   ├── nar.d.mts
+│   │   │   │   ├── nar.mjs
+│   │   │   │   ├── narrat.d.mts
+│   │   │   │   ├── narrat.mjs
+│   │   │   │   ├── nextflow.d.mts
+│   │   │   │   ├── nextflow.mjs
+│   │   │   │   ├── nf.d.mts
+│   │   │   │   ├── nf.mjs
+│   │   │   │   ├── nginx.d.mts
+│   │   │   │   ├── nginx.mjs
+│   │   │   │   ├── nim.d.mts
+│   │   │   │   ├── nim.mjs
+│   │   │   │   ├── nix.d.mts
+│   │   │   │   ├── nix.mjs
+│   │   │   │   ├── nu.d.mts
+│   │   │   │   ├── nu.mjs
+│   │   │   │   ├── nushell.d.mts
+│   │   │   │   ├── nushell.mjs
+│   │   │   │   ├── objc.d.mts
+│   │   │   │   ├── objc.mjs
+│   │   │   │   ├── objective-c.d.mts
+│   │   │   │   ├── objective-c.mjs
+│   │   │   │   ├── objective-cpp.d.mts
+│   │   │   │   ├── objective-cpp.mjs
+│   │   │   │   ├── ocaml.d.mts
+│   │   │   │   ├── ocaml.mjs
+│   │   │   │   ├── pascal.d.mts
+│   │   │   │   ├── pascal.mjs
+│   │   │   │   ├── perl6.d.mts
+│   │   │   │   ├── perl6.mjs
+│   │   │   │   ├── perl.d.mts
+│   │   │   │   ├── perl.mjs
+│   │   │   │   ├── php.d.mts
+│   │   │   │   ├── php.mjs
+│   │   │   │   ├── plsql.d.mts
+│   │   │   │   ├── plsql.mjs
+│   │   │   │   ├── po.d.mts
+│   │   │   │   ├── polar.d.mts
+│   │   │   │   ├── polar.mjs
+│   │   │   │   ├── po.mjs
+│   │   │   │   ├── postcss.d.mts
+│   │   │   │   ├── postcss.mjs
+│   │   │   │   ├── pot.d.mts
+│   │   │   │   ├── pot.mjs
+│   │   │   │   ├── potx.d.mts
+│   │   │   │   ├── potx.mjs
+│   │   │   │   ├── powerquery.d.mts
+│   │   │   │   ├── powerquery.mjs
+│   │   │   │   ├── powershell.d.mts
+│   │   │   │   ├── powershell.mjs
+│   │   │   │   ├── prisma.d.mts
+│   │   │   │   ├── prisma.mjs
+│   │   │   │   ├── prolog.d.mts
+│   │   │   │   ├── prolog.mjs
+│   │   │   │   ├── properties.d.mts
+│   │   │   │   ├── properties.mjs
+│   │   │   │   ├── protobuf.d.mts
+│   │   │   │   ├── protobuf.mjs
+│   │   │   │   ├── proto.d.mts
+│   │   │   │   ├── proto.mjs
+│   │   │   │   ├── ps1.d.mts
+│   │   │   │   ├── ps1.mjs
+│   │   │   │   ├── ps.d.mts
+│   │   │   │   ├── ps.mjs
+│   │   │   │   ├── pug.d.mts
+│   │   │   │   ├── pug.mjs
+│   │   │   │   ├── puppet.d.mts
+│   │   │   │   ├── puppet.mjs
+│   │   │   │   ├── purescript.d.mts
+│   │   │   │   ├── purescript.mjs
+│   │   │   │   ├── py.d.mts
+│   │   │   │   ├── py.mjs
+│   │   │   │   ├── python.d.mts
+│   │   │   │   ├── python.mjs
+│   │   │   │   ├── ql.d.mts
+│   │   │   │   ├── ql.mjs
+│   │   │   │   ├── qmldir.d.mts
+│   │   │   │   ├── qmldir.mjs
+│   │   │   │   ├── qml.d.mts
+│   │   │   │   ├── qml.mjs
+│   │   │   │   ├── qss.d.mts
+│   │   │   │   ├── qss.mjs
+│   │   │   │   ├── racket.d.mts
+│   │   │   │   ├── racket.mjs
+│   │   │   │   ├── raku.d.mts
+│   │   │   │   ├── raku.mjs
+│   │   │   │   ├── razor.d.mts
+│   │   │   │   ├── razor.mjs
+│   │   │   │   ├── rb.d.mts
+│   │   │   │   ├── rb.mjs
+│   │   │   │   ├── r.d.mts
+│   │   │   │   ├── reg.d.mts
+│   │   │   │   ├── regex.d.mts
+│   │   │   │   ├── regex.mjs
+│   │   │   │   ├── regexp.d.mts
+│   │   │   │   ├── regexp.mjs
+│   │   │   │   ├── reg.mjs
+│   │   │   │   ├── rel.d.mts
+│   │   │   │   ├── rel.mjs
+│   │   │   │   ├── riscv.d.mts
+│   │   │   │   ├── riscv.mjs
+│   │   │   │   ├── r.mjs
+│   │   │   │   ├── rs.d.mts
+│   │   │   │   ├── rs.mjs
+│   │   │   │   ├── rst.d.mts
+│   │   │   │   ├── rst.mjs
+│   │   │   │   ├── ruby.d.mts
+│   │   │   │   ├── ruby.mjs
+│   │   │   │   ├── rust.d.mts
+│   │   │   │   ├── rust.mjs
+│   │   │   │   ├── sas.d.mts
+│   │   │   │   ├── sas.mjs
+│   │   │   │   ├── sass.d.mts
+│   │   │   │   ├── sass.mjs
+│   │   │   │   ├── scala.d.mts
+│   │   │   │   ├── scala.mjs
+│   │   │   │   ├── scheme.d.mts
+│   │   │   │   ├── scheme.mjs
+│   │   │   │   ├── scss.d.mts
+│   │   │   │   ├── scss.mjs
+│   │   │   │   ├── sdbl.d.mts
+│   │   │   │   ├── sdbl.mjs
+│   │   │   │   ├── shader.d.mts
+│   │   │   │   ├── shaderlab.d.mts
+│   │   │   │   ├── shaderlab.mjs
+│   │   │   │   ├── shader.mjs
+│   │   │   │   ├── sh.d.mts
+│   │   │   │   ├── shell.d.mts
+│   │   │   │   ├── shell.mjs
+│   │   │   │   ├── shellscript.d.mts
+│   │   │   │   ├── shellscript.mjs
+│   │   │   │   ├── shellsession.d.mts
+│   │   │   │   ├── shellsession.mjs
+│   │   │   │   ├── sh.mjs
+│   │   │   │   ├── smalltalk.d.mts
+│   │   │   │   ├── smalltalk.mjs
+│   │   │   │   ├── solidity.d.mts
+│   │   │   │   ├── solidity.mjs
+│   │   │   │   ├── soy.d.mts
+│   │   │   │   ├── soy.mjs
+│   │   │   │   ├── sparql.d.mts
+│   │   │   │   ├── sparql.mjs
+│   │   │   │   ├── spl.d.mts
+│   │   │   │   ├── spl.mjs
+│   │   │   │   ├── splunk.d.mts
+│   │   │   │   ├── splunk.mjs
+│   │   │   │   ├── sql.d.mts
+│   │   │   │   ├── sql.mjs
+│   │   │   │   ├── ssh-config.d.mts
+│   │   │   │   ├── ssh-config.mjs
+│   │   │   │   ├── stata.d.mts
+│   │   │   │   ├── stata.mjs
+│   │   │   │   ├── styl.d.mts
+│   │   │   │   ├── styl.mjs
+│   │   │   │   ├── stylus.d.mts
+│   │   │   │   ├── stylus.mjs
+│   │   │   │   ├── svelte.d.mts
+│   │   │   │   ├── svelte.mjs
+│   │   │   │   ├── swift.d.mts
+│   │   │   │   ├── swift.mjs
+│   │   │   │   ├── systemd.d.mts
+│   │   │   │   ├── systemd.mjs
+│   │   │   │   ├── system-verilog.d.mts
+│   │   │   │   ├── system-verilog.mjs
+│   │   │   │   ├── talon.d.mts
+│   │   │   │   ├── talon.mjs
+│   │   │   │   ├── talonscript.d.mts
+│   │   │   │   ├── talonscript.mjs
+│   │   │   │   ├── tasl.d.mts
+│   │   │   │   ├── tasl.mjs
+│   │   │   │   ├── tcl.d.mts
+│   │   │   │   ├── tcl.mjs
+│   │   │   │   ├── templ.d.mts
+│   │   │   │   ├── templ.mjs
+│   │   │   │   ├── terraform.d.mts
+│   │   │   │   ├── terraform.mjs
+│   │   │   │   ├── tex.d.mts
+│   │   │   │   ├── tex.mjs
+│   │   │   │   ├── tf.d.mts
+│   │   │   │   ├── tf.mjs
+│   │   │   │   ├── tfvars.d.mts
+│   │   │   │   ├── tfvars.mjs
+│   │   │   │   ├── toml.d.mts
+│   │   │   │   ├── toml.mjs
+│   │   │   │   ├── ts.d.mts
+│   │   │   │   ├── ts.mjs
+│   │   │   │   ├── tsp.d.mts
+│   │   │   │   ├── tsp.mjs
+│   │   │   │   ├── ts-tags.d.mts
+│   │   │   │   ├── ts-tags.mjs
+│   │   │   │   ├── tsv.d.mts
+│   │   │   │   ├── tsv.mjs
+│   │   │   │   ├── tsx.d.mts
+│   │   │   │   ├── tsx.mjs
+│   │   │   │   ├── turtle.d.mts
+│   │   │   │   ├── turtle.mjs
+│   │   │   │   ├── twig.d.mts
+│   │   │   │   ├── twig.mjs
+│   │   │   │   ├── typ.d.mts
+│   │   │   │   ├── typescript.d.mts
+│   │   │   │   ├── typescript.mjs
+│   │   │   │   ├── typespec.d.mts
+│   │   │   │   ├── typespec.mjs
+│   │   │   │   ├── typ.mjs
+│   │   │   │   ├── typst.d.mts
+│   │   │   │   ├── typst.mjs
+│   │   │   │   ├── vala.d.mts
+│   │   │   │   ├── vala.mjs
+│   │   │   │   ├── vb.d.mts
+│   │   │   │   ├── vb.mjs
+│   │   │   │   ├── v.d.mts
+│   │   │   │   ├── verilog.d.mts
+│   │   │   │   ├── verilog.mjs
+│   │   │   │   ├── vhdl.d.mts
+│   │   │   │   ├── vhdl.mjs
+│   │   │   │   ├── vim.d.mts
+│   │   │   │   ├── viml.d.mts
+│   │   │   │   ├── viml.mjs
+│   │   │   │   ├── vim.mjs
+│   │   │   │   ├── vimscript.d.mts
+│   │   │   │   ├── vimscript.mjs
+│   │   │   │   ├── v.mjs
+│   │   │   │   ├── vue-directives.d.mts
+│   │   │   │   ├── vue-directives.mjs
+│   │   │   │   ├── vue.d.mts
+│   │   │   │   ├── vue-html.d.mts
+│   │   │   │   ├── vue-html.mjs
+│   │   │   │   ├── vue-interpolations.d.mts
+│   │   │   │   ├── vue-interpolations.mjs
+│   │   │   │   ├── vue.mjs
+│   │   │   │   ├── vue-sfc-style-variable-injection.d.mts
+│   │   │   │   ├── vue-sfc-style-variable-injection.mjs
+│   │   │   │   ├── vy.d.mts
+│   │   │   │   ├── vy.mjs
+│   │   │   │   ├── vyper.d.mts
+│   │   │   │   ├── vyper.mjs
+│   │   │   │   ├── wasm.d.mts
+│   │   │   │   ├── wasm.mjs
+│   │   │   │   ├── wenyan.d.mts
+│   │   │   │   ├── wenyan.mjs
+│   │   │   │   ├── wgsl.d.mts
+│   │   │   │   ├── wgsl.mjs
+│   │   │   │   ├── wiki.d.mts
+│   │   │   │   ├── wiki.mjs
+│   │   │   │   ├── wikitext.d.mts
+│   │   │   │   ├── wikitext.mjs
+│   │   │   │   ├── wl.d.mts
+│   │   │   │   ├── wl.mjs
+│   │   │   │   ├── wolfram.d.mts
+│   │   │   │   ├── wolfram.mjs
+│   │   │   │   ├── xml.d.mts
+│   │   │   │   ├── xml.mjs
+│   │   │   │   ├── xsl.d.mts
+│   │   │   │   ├── xsl.mjs
+│   │   │   │   ├── yaml.d.mts
+│   │   │   │   ├── yaml.mjs
+│   │   │   │   ├── yml.d.mts
+│   │   │   │   ├── yml.mjs
+│   │   │   │   ├── zenscript.d.mts
+│   │   │   │   ├── zenscript.mjs
+│   │   │   │   ├── zig.d.mts
+│   │   │   │   ├── zig.mjs
+│   │   │   │   ├── zsh.d.mts
+│   │   │   │   └── zsh.mjs
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── themes
+│   │   │   ├── dist
+│   │   │   │   ├── andromeeda.d.mts
+│   │   │   │   ├── andromeeda.mjs
+│   │   │   │   ├── aurora-x.d.mts
+│   │   │   │   ├── aurora-x.mjs
+│   │   │   │   ├── ayu-dark.d.mts
+│   │   │   │   ├── ayu-dark.mjs
+│   │   │   │   ├── catppuccin-frappe.d.mts
+│   │   │   │   ├── catppuccin-frappe.mjs
+│   │   │   │   ├── catppuccin-latte.d.mts
+│   │   │   │   ├── catppuccin-latte.mjs
+│   │   │   │   ├── catppuccin-macchiato.d.mts
+│   │   │   │   ├── catppuccin-macchiato.mjs
+│   │   │   │   ├── catppuccin-mocha.d.mts
+│   │   │   │   ├── catppuccin-mocha.mjs
+│   │   │   │   ├── dark-plus.d.mts
+│   │   │   │   ├── dark-plus.mjs
+│   │   │   │   ├── dracula.d.mts
+│   │   │   │   ├── dracula.mjs
+│   │   │   │   ├── dracula-soft.d.mts
+│   │   │   │   ├── dracula-soft.mjs
+│   │   │   │   ├── everforest-dark.d.mts
+│   │   │   │   ├── everforest-dark.mjs
+│   │   │   │   ├── everforest-light.d.mts
+│   │   │   │   ├── everforest-light.mjs
+│   │   │   │   ├── github-dark-default.d.mts
+│   │   │   │   ├── github-dark-default.mjs
+│   │   │   │   ├── github-dark-dimmed.d.mts
+│   │   │   │   ├── github-dark-dimmed.mjs
+│   │   │   │   ├── github-dark.d.mts
+│   │   │   │   ├── github-dark-high-contrast.d.mts
+│   │   │   │   ├── github-dark-high-contrast.mjs
+│   │   │   │   ├── github-dark.mjs
+│   │   │   │   ├── github-light-default.d.mts
+│   │   │   │   ├── github-light-default.mjs
+│   │   │   │   ├── github-light.d.mts
+│   │   │   │   ├── github-light-high-contrast.d.mts
+│   │   │   │   ├── github-light-high-contrast.mjs
+│   │   │   │   ├── github-light.mjs
+│   │   │   │   ├── houston.d.mts
+│   │   │   │   ├── houston.mjs
+│   │   │   │   ├── index.d.mts
+│   │   │   │   ├── index.mjs
+│   │   │   │   ├── kanagawa-dragon.d.mts
+│   │   │   │   ├── kanagawa-dragon.mjs
+│   │   │   │   ├── kanagawa-lotus.d.mts
+│   │   │   │   ├── kanagawa-lotus.mjs
+│   │   │   │   ├── kanagawa-wave.d.mts
+│   │   │   │   ├── kanagawa-wave.mjs
+│   │   │   │   ├── laserwave.d.mts
+│   │   │   │   ├── laserwave.mjs
+│   │   │   │   ├── light-plus.d.mts
+│   │   │   │   ├── light-plus.mjs
+│   │   │   │   ├── material-theme-darker.d.mts
+│   │   │   │   ├── material-theme-darker.mjs
+│   │   │   │   ├── material-theme.d.mts
+│   │   │   │   ├── material-theme-lighter.d.mts
+│   │   │   │   ├── material-theme-lighter.mjs
+│   │   │   │   ├── material-theme.mjs
+│   │   │   │   ├── material-theme-ocean.d.mts
+│   │   │   │   ├── material-theme-ocean.mjs
+│   │   │   │   ├── material-theme-palenight.d.mts
+│   │   │   │   ├── material-theme-palenight.mjs
+│   │   │   │   ├── min-dark.d.mts
+│   │   │   │   ├── min-dark.mjs
+│   │   │   │   ├── min-light.d.mts
+│   │   │   │   ├── min-light.mjs
+│   │   │   │   ├── monokai.d.mts
+│   │   │   │   ├── monokai.mjs
+│   │   │   │   ├── night-owl.d.mts
+│   │   │   │   ├── night-owl.mjs
+│   │   │   │   ├── nord.d.mts
+│   │   │   │   ├── nord.mjs
+│   │   │   │   ├── one-dark-pro.d.mts
+│   │   │   │   ├── one-dark-pro.mjs
+│   │   │   │   ├── one-light.d.mts
+│   │   │   │   ├── one-light.mjs
+│   │   │   │   ├── plastic.d.mts
+│   │   │   │   ├── plastic.mjs
+│   │   │   │   ├── poimandres.d.mts
+│   │   │   │   ├── poimandres.mjs
+│   │   │   │   ├── red.d.mts
+│   │   │   │   ├── red.mjs
+│   │   │   │   ├── rose-pine-dawn.d.mts
+│   │   │   │   ├── rose-pine-dawn.mjs
+│   │   │   │   ├── rose-pine.d.mts
+│   │   │   │   ├── rose-pine.mjs
+│   │   │   │   ├── rose-pine-moon.d.mts
+│   │   │   │   ├── rose-pine-moon.mjs
+│   │   │   │   ├── slack-dark.d.mts
+│   │   │   │   ├── slack-dark.mjs
+│   │   │   │   ├── slack-ochin.d.mts
+│   │   │   │   ├── slack-ochin.mjs
+│   │   │   │   ├── snazzy-light.d.mts
+│   │   │   │   ├── snazzy-light.mjs
+│   │   │   │   ├── solarized-dark.d.mts
+│   │   │   │   ├── solarized-dark.mjs
+│   │   │   │   ├── solarized-light.d.mts
+│   │   │   │   ├── solarized-light.mjs
+│   │   │   │   ├── synthwave-84.d.mts
+│   │   │   │   ├── synthwave-84.mjs
+│   │   │   │   ├── tokyo-night.d.mts
+│   │   │   │   ├── tokyo-night.mjs
+│   │   │   │   ├── vesper.d.mts
+│   │   │   │   ├── vesper.mjs
+│   │   │   │   ├── vitesse-black.d.mts
+│   │   │   │   ├── vitesse-black.mjs
+│   │   │   │   ├── vitesse-dark.d.mts
+│   │   │   │   ├── vitesse-dark.mjs
+│   │   │   │   ├── vitesse-light.d.mts
+│   │   │   │   └── vitesse-light.mjs
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── transformers
+│   │   │   ├── dist
+│   │   │   │   ├── index.d.mts
+│   │   │   │   ├── index.d.ts
+│   │   │   │   └── index.mjs
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── types
+│   │   │   ├── dist
+│   │   │   │   ├── index.d.mts
+│   │   │   │   ├── index.d.ts
+│   │   │   │   └── index.mjs
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   └── vscode-textmate
+│   │       ├── dist
+│   │       │   ├── index.d.ts
+│   │       │   └── index.js
+│   │       ├── LICENSE.md
+│   │       ├── package.json
+│   │       └── README.md
+│   ├── source-map-js
+│   │   ├── lib
+│   │   │   ├── array-set.js
+│   │   │   ├── base64.js
+│   │   │   ├── base64-vlq.js
+│   │   │   ├── binary-search.js
+│   │   │   ├── mapping-list.js
+│   │   │   ├── quick-sort.js
+│   │   │   ├── source-map-consumer.d.ts
+│   │   │   ├── source-map-consumer.js
+│   │   │   ├── source-map-generator.d.ts
+│   │   │   ├── source-map-generator.js
+│   │   │   ├── source-node.d.ts
+│   │   │   ├── source-node.js
+│   │   │   └── util.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── source-map.d.ts
+│   │   └── source-map.js
+│   ├── space-separated-tokens
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── speakingurl
+│   │   ├── bower.json
+│   │   ├── CHANGELOG.md
+│   │   ├── component.json
+│   │   ├── examples
+│   │   │   ├── browser-example.html
+│   │   │   └── node-example.js
+│   │   ├── Gulpfile.js
+│   │   ├── index.js
+│   │   ├── lib
+│   │   │   ├── speakingurl.js
+│   │   │   └── speakingurl-rails.rb
+│   │   ├── LICENSE
+│   │   ├── Makefile
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── speakingurl.min.js
+│   │   ├── speakingurl-rails.gemspec
+│   │   ├── test
+│   │   │   ├── mocha.opts
+│   │   │   ├── test-accent.js
+│   │   │   ├── test-arabic.js
+│   │   │   ├── test-burmese.js
+│   │   │   ├── test-create.js
+│   │   │   ├── test-custom.js
+│   │   │   ├── test-cyrillic.js
+│   │   │   ├── test-defaults.js
+│   │   │   ├── test-dhivehi.js
+│   │   │   ├── test-georgien.js
+│   │   │   ├── test-hungarian.js
+│   │   │   ├── test-lang.js
+│   │   │   ├── test-language.js
+│   │   │   ├── test-maintaincase.js
+│   │   │   ├── test-persian.js
+│   │   │   ├── test-rfc3986.js
+│   │   │   ├── test-separator.js
+│   │   │   ├── test-speakingurl.js
+│   │   │   ├── test-symbols.js
+│   │   │   ├── test-titlecase.js
+│   │   │   ├── test-truncate.js
+│   │   │   └── test-turkish.js
+│   │   └── typings
+│   │       └── speakingurl
+│   │           └── speakingurl.d.ts
+│   ├── stringify-entities
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── lib
+│   │   │   ├── constant
+│   │   │   │   ├── dangerous.d.ts
+│   │   │   │   └── dangerous.js
+│   │   │   ├── core.d.ts
+│   │   │   ├── core.js
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   └── util
+│   │   │       ├── format-basic.d.ts
+│   │   │       ├── format-basic.js
+│   │   │       ├── format-smart.d.ts
+│   │   │       ├── format-smart.js
+│   │   │       ├── to-decimal.d.ts
+│   │   │       ├── to-decimal.js
+│   │   │       ├── to-hexadecimal.d.ts
+│   │   │       ├── to-hexadecimal.js
+│   │   │       ├── to-named.d.ts
+│   │   │       └── to-named.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── superjson
+│   │   ├── dist
+│   │   │   ├── accessDeep.d.ts
+│   │   │   ├── accessDeep.js
+│   │   │   ├── accessDeep.js.map
+│   │   │   ├── class-registry.d.ts
+│   │   │   ├── class-registry.js
+│   │   │   ├── class-registry.js.map
+│   │   │   ├── custom-transformer-registry.d.ts
+│   │   │   ├── custom-transformer-registry.js
+│   │   │   ├── custom-transformer-registry.js.map
+│   │   │   ├── double-indexed-kv.d.ts
+│   │   │   ├── double-indexed-kv.js
+│   │   │   ├── double-indexed-kv.js.map
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── index.js.map
+│   │   │   ├── is.d.ts
+│   │   │   ├── is.js
+│   │   │   ├── is.js.map
+│   │   │   ├── pathstringifier.d.ts
+│   │   │   ├── pathstringifier.js
+│   │   │   ├── pathstringifier.js.map
+│   │   │   ├── plainer.d.ts
+│   │   │   ├── plainer.js
+│   │   │   ├── plainer.js.map
+│   │   │   ├── registry.d.ts
+│   │   │   ├── registry.js
+│   │   │   ├── registry.js.map
+│   │   │   ├── transformer.d.ts
+│   │   │   ├── transformer.js
+│   │   │   ├── transformer.js.map
+│   │   │   ├── types.d.ts
+│   │   │   ├── types.js
+│   │   │   ├── types.js.map
+│   │   │   ├── util.d.ts
+│   │   │   ├── util.js
+│   │   │   └── util.js.map
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── tabbable
+│   │   ├── CHANGELOG.md
+│   │   ├── dist
+│   │   │   ├── index.esm.js
+│   │   │   ├── index.esm.js.map
+│   │   │   ├── index.esm.min.js
+│   │   │   ├── index.esm.min.js.map
+│   │   │   ├── index.js
+│   │   │   ├── index.js.map
+│   │   │   ├── index.min.js
+│   │   │   ├── index.min.js.map
+│   │   │   ├── index.umd.js
+│   │   │   ├── index.umd.js.map
+│   │   │   ├── index.umd.min.js
+│   │   │   └── index.umd.min.js.map
+│   │   ├── index.d.ts
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── SECURITY.md
+│   │   └── src
+│   │       └── index.js
+│   ├── @tailwindcss
+│   │   ├── node
+│   │   │   ├── dist
+│   │   │   │   ├── esm-cache.loader.d.mts
+│   │   │   │   ├── esm-cache.loader.mjs
+│   │   │   │   ├── index.d.mts
+│   │   │   │   ├── index.d.ts
+│   │   │   │   ├── index.js
+│   │   │   │   ├── index.mjs
+│   │   │   │   ├── require-cache.d.ts
+│   │   │   │   └── require-cache.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── oxide
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   └── package.json
+│   │   ├── typography
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   ├── README.md
+│   │   │   └── src
+│   │   │       ├── index.d.ts
+│   │   │       ├── index.js
+│   │   │       ├── index.test.js
+│   │   │       ├── styles.js
+│   │   │       └── utils.js
+│   │   └── vite
+│   │       ├── dist
+│   │       │   ├── index.d.mts
+│   │       │   └── index.mjs
+│   │       ├── LICENSE
+│   │       ├── package.json
+│   │       └── README.md
+│   ├── tailwindcss
+│   │   ├── dist
+│   │   │   ├── chunk-5JIJA4QV.mjs
+│   │   │   ├── chunk-C2OYBFIH.mjs
+│   │   │   ├── chunk-DCG7AFIE.mjs
+│   │   │   ├── colors-C__qRT83.d.ts
+│   │   │   ├── colors.d.mts
+│   │   │   ├── colors.d.ts
+│   │   │   ├── colors.js
+│   │   │   ├── colors.mjs
+│   │   │   ├── default-theme.d.mts
+│   │   │   ├── default-theme.d.ts
+│   │   │   ├── default-theme.js
+│   │   │   ├── default-theme.mjs
+│   │   │   ├── flatten-color-palette.d.mts
+│   │   │   ├── flatten-color-palette.d.ts
+│   │   │   ├── flatten-color-palette.js
+│   │   │   ├── flatten-color-palette.mjs
+│   │   │   ├── lib.d.mts
+│   │   │   ├── lib.d.ts
+│   │   │   ├── lib.js
+│   │   │   ├── lib.mjs
+│   │   │   ├── plugin.d.mts
+│   │   │   ├── plugin.d.ts
+│   │   │   ├── plugin.js
+│   │   │   ├── plugin.mjs
+│   │   │   ├── resolve-config-B4yBzhca.d.ts
+│   │   │   ├── resolve-config-QUZ9b-Gn.d.mts
+│   │   │   └── types-DWdTiksJ.d.mts
+│   │   ├── index.css
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── preflight.css
+│   │   ├── README.md
+│   │   ├── theme.css
+│   │   └── utilities.css
+│   ├── tapable
+│   │   ├── lib
+│   │   │   ├── AsyncParallelBailHook.js
+│   │   │   ├── AsyncParallelHook.js
+│   │   │   ├── AsyncSeriesBailHook.js
+│   │   │   ├── AsyncSeriesHook.js
+│   │   │   ├── AsyncSeriesLoopHook.js
+│   │   │   ├── AsyncSeriesWaterfallHook.js
+│   │   │   ├── HookCodeFactory.js
+│   │   │   ├── Hook.js
+│   │   │   ├── HookMap.js
+│   │   │   ├── index.js
+│   │   │   ├── MultiHook.js
+│   │   │   ├── SyncBailHook.js
+│   │   │   ├── SyncHook.js
+│   │   │   ├── SyncLoopHook.js
+│   │   │   ├── SyncWaterfallHook.js
+│   │   │   └── util-browser.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── tapable.d.ts
+│   ├── trim-lines
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── @types
+│   │   ├── estree
+│   │   │   ├── flow.d.ts
+│   │   │   ├── index.d.ts
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── hast
+│   │   │   ├── index.d.ts
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── linkify-it
+│   │   │   ├── build
+│   │   │   │   └── index.cjs.d.ts
+│   │   │   ├── index.d.mts
+│   │   │   ├── index.d.ts
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── markdown-it
+│   │   │   ├── dist
+│   │   │   │   ├── index.cjs.d.ts
+│   │   │   │   ├── markdown-it.d.ts
+│   │   │   │   └── markdown-it.min.d.ts
+│   │   │   ├── index.d.mts
+│   │   │   ├── index.d.ts
+│   │   │   ├── lib
+│   │   │   │   ├── common
+│   │   │   │   │   ├── html_blocks.d.mts
+│   │   │   │   │   ├── html_re.d.mts
+│   │   │   │   │   └── utils.d.mts
+│   │   │   │   ├── helpers
+│   │   │   │   │   ├── index.d.mts
+│   │   │   │   │   ├── parse_link_destination.d.mts
+│   │   │   │   │   ├── parse_link_label.d.mts
+│   │   │   │   │   └── parse_link_title.d.mts
+│   │   │   │   ├── index.d.mts
+│   │   │   │   ├── parser_block.d.mts
+│   │   │   │   ├── parser_core.d.mts
+│   │   │   │   ├── parser_inline.d.mts
+│   │   │   │   ├── renderer.d.mts
+│   │   │   │   ├── ruler.d.mts
+│   │   │   │   ├── rules_block
+│   │   │   │   │   └── state_block.d.mts
+│   │   │   │   ├── rules_core
+│   │   │   │   │   └── state_core.d.mts
+│   │   │   │   ├── rules_inline
+│   │   │   │   │   └── state_inline.d.mts
+│   │   │   │   └── token.d.mts
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── mdast
+│   │   │   ├── index.d.ts
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── mdurl
+│   │   │   ├── build
+│   │   │   │   └── index.cjs.d.ts
+│   │   │   ├── index.d.mts
+│   │   │   ├── index.d.ts
+│   │   │   ├── lib
+│   │   │   │   ├── decode.d.mts
+│   │   │   │   ├── encode.d.mts
+│   │   │   │   ├── format.d.mts
+│   │   │   │   └── parse.d.mts
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── unist
+│   │   │   ├── index.d.ts
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   └── web-bluetooth
+│   │       ├── index.d.ts
+│   │       ├── LICENSE
+│   │       ├── package.json
+│   │       └── README.md
+│   ├── @ungap
+│   │   └── structured-clone
+│   │       ├── cjs
+│   │       │   ├── deserialize.js
+│   │       │   ├── index.js
+│   │       │   ├── json.js
+│   │       │   ├── package.json
+│   │       │   ├── serialize.js
+│   │       │   └── types.js
+│   │       ├── esm
+│   │       │   ├── deserialize.js
+│   │       │   ├── index.js
+│   │       │   ├── json.js
+│   │       │   ├── serialize.js
+│   │       │   └── types.js
+│   │       ├── LICENSE
+│   │       ├── package.json
+│   │       ├── README.md
+│   │       └── structured-json.js
+│   ├── unist-util-is
+│   │   ├── index.d.ts
+│   │   ├── index.d.ts.map
+│   │   ├── index.js
+│   │   ├── lib
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.d.ts.map
+│   │   │   └── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── unist-util-position
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── lib
+│   │   │   ├── index.d.ts
+│   │   │   └── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── unist-util-stringify-position
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── lib
+│   │   │   ├── index.d.ts
+│   │   │   └── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── unist-util-visit
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── lib
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.d.ts.map
+│   │   │   └── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── unist-util-visit-parents
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── lib
+│   │   │   ├── color.d.ts
+│   │   │   ├── color.d.ts.map
+│   │   │   ├── color.js
+│   │   │   ├── color.node.d.ts
+│   │   │   ├── color.node.d.ts.map
+│   │   │   ├── color.node.js
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.d.ts.map
+│   │   │   └── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── util-deprecate
+│   │   ├── browser.js
+│   │   ├── History.md
+│   │   ├── LICENSE
+│   │   ├── node.js
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── vfile
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── lib
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.d.ts.map
+│   │   │   ├── index.js
+│   │   │   ├── minpath.browser.d.ts
+│   │   │   ├── minpath.browser.d.ts.map
+│   │   │   ├── minpath.browser.js
+│   │   │   ├── minpath.d.ts
+│   │   │   ├── minpath.d.ts.map
+│   │   │   ├── minpath.js
+│   │   │   ├── minproc.browser.d.ts
+│   │   │   ├── minproc.browser.d.ts.map
+│   │   │   ├── minproc.browser.js
+│   │   │   ├── minproc.d.ts
+│   │   │   ├── minproc.d.ts.map
+│   │   │   ├── minproc.js
+│   │   │   ├── minurl.browser.d.ts
+│   │   │   ├── minurl.browser.d.ts.map
+│   │   │   ├── minurl.browser.js
+│   │   │   ├── minurl.d.ts
+│   │   │   ├── minurl.d.ts.map
+│   │   │   ├── minurl.js
+│   │   │   ├── minurl.shared.d.ts
+│   │   │   ├── minurl.shared.d.ts.map
+│   │   │   └── minurl.shared.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── vfile-message
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── lib
+│   │   │   ├── index.d.ts
+│   │   │   └── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── vite
+│   │   ├── bin
+│   │   │   ├── openChrome.applescript
+│   │   │   └── vite.js
+│   │   ├── client.d.ts
+│   │   ├── dist
+│   │   │   ├── client
+│   │   │   │   ├── client.mjs
+│   │   │   │   └── env.mjs
+│   │   │   ├── node
+│   │   │   │   ├── chunks
+│   │   │   │   │   ├── dep-BB45zftN.js
+│   │   │   │   │   ├── dep-BK3b2jBa.js
+│   │   │   │   │   ├── dep-D-7KCb9p.js
+│   │   │   │   │   ├── dep-Dnp7gl8U.js
+│   │   │   │   │   └── dep-IQS-Za7F.js
+│   │   │   │   ├── cli.js
+│   │   │   │   ├── constants.js
+│   │   │   │   ├── index.d.ts
+│   │   │   │   ├── index.js
+│   │   │   │   ├── runtime.d.ts
+│   │   │   │   ├── runtime.js
+│   │   │   │   └── types.d-aGj9QkWt.d.ts
+│   │   │   └── node-cjs
+│   │   │       └── publicUtils.cjs
+│   │   ├── index.cjs
+│   │   ├── index.d.cts
+│   │   ├── LICENSE.md
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── types
+│   │       ├── customEvent.d.ts
+│   │       ├── hmrPayload.d.ts
+│   │       ├── hot.d.ts
+│   │       ├── importGlob.d.ts
+│   │       ├── import-meta.d.ts
+│   │       ├── importMeta.d.ts
+│   │       ├── metadata.d.ts
+│   │       └── package.json
+│   ├── @vitejs
+│   │   └── plugin-vue
+│   │       ├── dist
+│   │       │   ├── index.cjs
+│   │       │   ├── index.d.cts
+│   │       │   ├── index.d.mts
+│   │       │   ├── index.d.ts
+│   │       │   └── index.mjs
+│   │       ├── LICENSE
+│   │       ├── package.json
+│   │       └── README.md
+│   ├── vitepress
+│   │   ├── bin
+│   │   │   └── vitepress.js
+│   │   ├── client.d.ts
+│   │   ├── dist
+│   │   │   ├── client
+│   │   │   │   ├── app
+│   │   │   │   │   ├── components
+│   │   │   │   │   │   ├── ClientOnly.js
+│   │   │   │   │   │   └── Content.js
+│   │   │   │   │   ├── composables
+│   │   │   │   │   │   ├── codeGroups.js
+│   │   │   │   │   │   ├── copyCode.js
+│   │   │   │   │   │   ├── head.js
+│   │   │   │   │   │   └── preFetch.js
+│   │   │   │   │   ├── data.js
+│   │   │   │   │   ├── devtools.js
+│   │   │   │   │   ├── index.js
+│   │   │   │   │   ├── router.js
+│   │   │   │   │   ├── ssr.js
+│   │   │   │   │   ├── theme.js
+│   │   │   │   │   └── utils.js
+│   │   │   │   ├── index.d.ts
+│   │   │   │   ├── index.js
+│   │   │   │   ├── shared.js
+│   │   │   │   └── theme-default
+│   │   │   │       ├── components
+│   │   │   │       │   ├── icons
+│   │   │   │       │   │   ├── VPIconAlignJustify.vue
+│   │   │   │       │   │   ├── VPIconAlignLeft.vue
+│   │   │   │       │   │   ├── VPIconAlignRight.vue
+│   │   │   │       │   │   ├── VPIconArrowLeft.vue
+│   │   │   │       │   │   ├── VPIconArrowRight.vue
+│   │   │   │       │   │   ├── VPIconChevronDown.vue
+│   │   │   │       │   │   ├── VPIconChevronLeft.vue
+│   │   │   │       │   │   ├── VPIconChevronRight.vue
+│   │   │   │       │   │   ├── VPIconChevronUp.vue
+│   │   │   │       │   │   ├── VPIconEdit.vue
+│   │   │   │       │   │   ├── VPIconHeart.vue
+│   │   │   │       │   │   ├── VPIconLanguages.vue
+│   │   │   │       │   │   ├── VPIconMinusSquare.vue
+│   │   │   │       │   │   ├── VPIconMinus.vue
+│   │   │   │       │   │   ├── VPIconMoon.vue
+│   │   │   │       │   │   ├── VPIconMoreHorizontal.vue
+│   │   │   │       │   │   ├── VPIconPlusSquare.vue
+│   │   │   │       │   │   ├── VPIconPlus.vue
+│   │   │   │       │   │   └── VPIconSun.vue
+│   │   │   │       │   ├── VPAlgoliaSearchBox.vue
+│   │   │   │       │   ├── VPBackdrop.vue
+│   │   │   │       │   ├── VPBadge.vue
+│   │   │   │       │   ├── VPButton.vue
+│   │   │   │       │   ├── VPCarbonAds.vue
+│   │   │   │       │   ├── VPContent.vue
+│   │   │   │       │   ├── VPDocAsideCarbonAds.vue
+│   │   │   │       │   ├── VPDocAsideOutline.vue
+│   │   │   │       │   ├── VPDocAsideSponsors.vue
+│   │   │   │       │   ├── VPDocAside.vue
+│   │   │   │       │   ├── VPDocFooterLastUpdated.vue
+│   │   │   │       │   ├── VPDocFooter.vue
+│   │   │   │       │   ├── VPDocOutlineItem.vue
+│   │   │   │       │   ├── VPDoc.vue
+│   │   │   │       │   ├── VPFeatures.vue
+│   │   │   │       │   ├── VPFeature.vue
+│   │   │   │       │   ├── VPFlyout.vue
+│   │   │   │       │   ├── VPFooter.vue
+│   │   │   │       │   ├── VPHero.vue
+│   │   │   │       │   ├── VPHomeContent.vue
+│   │   │   │       │   ├── VPHomeFeatures.vue
+│   │   │   │       │   ├── VPHomeHero.vue
+│   │   │   │       │   ├── VPHomeSponsors.vue
+│   │   │   │       │   ├── VPHome.vue
+│   │   │   │       │   ├── VPImage.vue
+│   │   │   │       │   ├── VPLink.vue
+│   │   │   │       │   ├── VPLocalNavOutlineDropdown.vue
+│   │   │   │       │   ├── VPLocalNav.vue
+│   │   │   │       │   ├── VPLocalSearchBox.vue
+│   │   │   │       │   ├── VPMenuGroup.vue
+│   │   │   │       │   ├── VPMenuLink.vue
+│   │   │   │       │   ├── VPMenu.vue
+│   │   │   │       │   ├── VPNavBarAppearance.vue
+│   │   │   │       │   ├── VPNavBarExtra.vue
+│   │   │   │       │   ├── VPNavBarHamburger.vue
+│   │   │   │       │   ├── VPNavBarMenuGroup.vue
+│   │   │   │       │   ├── VPNavBarMenuLink.vue
+│   │   │   │       │   ├── VPNavBarMenu.vue
+│   │   │   │       │   ├── VPNavBarSearchButton.vue
+│   │   │   │       │   ├── VPNavBarSearch.vue
+│   │   │   │       │   ├── VPNavBarSocialLinks.vue
+│   │   │   │       │   ├── VPNavBarTitle.vue
+│   │   │   │       │   ├── VPNavBarTranslations.vue
+│   │   │   │       │   ├── VPNavBar.vue
+│   │   │   │       │   ├── VPNavScreenAppearance.vue
+│   │   │   │       │   ├── VPNavScreenMenuGroupLink.vue
+│   │   │   │       │   ├── VPNavScreenMenuGroupSection.vue
+│   │   │   │       │   ├── VPNavScreenMenuGroup.vue
+│   │   │   │       │   ├── VPNavScreenMenuLink.vue
+│   │   │   │       │   ├── VPNavScreenMenu.vue
+│   │   │   │       │   ├── VPNavScreenSocialLinks.vue
+│   │   │   │       │   ├── VPNavScreenTranslations.vue
+│   │   │   │       │   ├── VPNavScreen.vue
+│   │   │   │       │   ├── VPNav.vue
+│   │   │   │       │   ├── VPPage.vue
+│   │   │   │       │   ├── VPSidebarGroup.vue
+│   │   │   │       │   ├── VPSidebarItem.vue
+│   │   │   │       │   ├── VPSidebar.vue
+│   │   │   │       │   ├── VPSkipLink.vue
+│   │   │   │       │   ├── VPSocialLinks.vue
+│   │   │   │       │   ├── VPSocialLink.vue
+│   │   │   │       │   ├── VPSponsorsGrid.vue
+│   │   │   │       │   ├── VPSponsors.vue
+│   │   │   │       │   ├── VPSwitchAppearance.vue
+│   │   │   │       │   ├── VPSwitch.vue
+│   │   │   │       │   ├── VPTeamMembersItem.vue
+│   │   │   │       │   ├── VPTeamMembers.vue
+│   │   │   │       │   ├── VPTeamPageSection.vue
+│   │   │   │       │   ├── VPTeamPageTitle.vue
+│   │   │   │       │   └── VPTeamPage.vue
+│   │   │   │       ├── composables
+│   │   │   │       │   ├── aside.js
+│   │   │   │       │   ├── data.js
+│   │   │   │       │   ├── edit-link.js
+│   │   │   │       │   ├── flyout.js
+│   │   │   │       │   ├── langs.js
+│   │   │   │       │   ├── local-nav.js
+│   │   │   │       │   ├── nav.js
+│   │   │   │       │   ├── outline.js
+│   │   │   │       │   ├── prev-next.js
+│   │   │   │       │   ├── sidebar.js
+│   │   │   │       │   └── sponsor-grid.js
+│   │   │   │       ├── fonts
+│   │   │   │       │   ├── inter-italic-cyrillic-ext.woff2
+│   │   │   │       │   ├── inter-italic-cyrillic.woff2
+│   │   │   │       │   ├── inter-italic-greek-ext.woff2
+│   │   │   │       │   ├── inter-italic-greek.woff2
+│   │   │   │       │   ├── inter-italic-latin-ext.woff2
+│   │   │   │       │   ├── inter-italic-latin.woff2
+│   │   │   │       │   ├── inter-italic-vietnamese.woff2
+│   │   │   │       │   ├── inter-roman-cyrillic-ext.woff2
+│   │   │   │       │   ├── inter-roman-cyrillic.woff2
+│   │   │   │       │   ├── inter-roman-greek-ext.woff2
+│   │   │   │       │   ├── inter-roman-greek.woff2
+│   │   │   │       │   ├── inter-roman-latin-ext.woff2
+│   │   │   │       │   ├── inter-roman-latin.woff2
+│   │   │   │       │   └── inter-roman-vietnamese.woff2
+│   │   │   │       ├── index.js
+│   │   │   │       ├── Layout.vue
+│   │   │   │       ├── NotFound.vue
+│   │   │   │       ├── styles
+│   │   │   │       │   ├── base.css
+│   │   │   │       │   ├── components
+│   │   │   │       │   │   ├── custom-block.css
+│   │   │   │       │   │   ├── vp-code.css
+│   │   │   │       │   │   ├── vp-code-group.css
+│   │   │   │       │   │   ├── vp-doc.css
+│   │   │   │       │   │   └── vp-sponsor.css
+│   │   │   │       │   ├── fonts.css
+│   │   │   │       │   ├── icons.css
+│   │   │   │       │   ├── utils.css
+│   │   │   │       │   └── vars.css
+│   │   │   │       ├── support
+│   │   │   │       │   ├── lru.js
+│   │   │   │       │   ├── sidebar.js
+│   │   │   │       │   ├── translation.js
+│   │   │   │       │   └── utils.js
+│   │   │   │       └── without-fonts.js
+│   │   │   └── node
+│   │   │       ├── chunk-C-d2RJOW.js
+│   │   │       ├── chunk-D3CUZ4fa.js
+│   │   │       ├── cli.js
+│   │   │       ├── index.d.ts
+│   │   │       ├── index.js
+│   │   │       └── worker_shikiResolveLang.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── template
+│   │   │   ├── api-examples.md
+│   │   │   ├── index.md
+│   │   │   └── markdown-examples.md
+│   │   ├── theme.d.ts
+│   │   ├── theme-without-fonts.d.ts
+│   │   └── types
+│   │       ├── default-theme.d.ts
+│   │       ├── docsearch.d.ts
+│   │       ├── index.d.ts
+│   │       ├── local-search.d.ts
+│   │       └── shared.d.ts
+│   ├── @vue
+│   │   ├── compiler-core
+│   │   │   ├── dist
+│   │   │   │   ├── compiler-core.cjs.js
+│   │   │   │   ├── compiler-core.cjs.prod.js
+│   │   │   │   ├── compiler-core.d.ts
+│   │   │   │   └── compiler-core.esm-bundler.js
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── compiler-dom
+│   │   │   ├── dist
+│   │   │   │   ├── compiler-dom.cjs.js
+│   │   │   │   ├── compiler-dom.cjs.prod.js
+│   │   │   │   ├── compiler-dom.d.ts
+│   │   │   │   ├── compiler-dom.esm-browser.js
+│   │   │   │   ├── compiler-dom.esm-browser.prod.js
+│   │   │   │   ├── compiler-dom.esm-bundler.js
+│   │   │   │   ├── compiler-dom.global.js
+│   │   │   │   └── compiler-dom.global.prod.js
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── compiler-sfc
+│   │   │   ├── dist
+│   │   │   │   ├── compiler-sfc.cjs.js
+│   │   │   │   ├── compiler-sfc.d.ts
+│   │   │   │   └── compiler-sfc.esm-browser.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── compiler-ssr
+│   │   │   ├── dist
+│   │   │   │   ├── compiler-ssr.cjs.js
+│   │   │   │   └── compiler-ssr.d.ts
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── devtools-api
+│   │   │   ├── dist
+│   │   │   │   ├── index.cjs
+│   │   │   │   ├── index.d.cts
+│   │   │   │   ├── index.d.ts
+│   │   │   │   └── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── devtools-kit
+│   │   │   ├── dist
+│   │   │   │   ├── index.cjs
+│   │   │   │   ├── index.d.cts
+│   │   │   │   ├── index.d.ts
+│   │   │   │   └── index.js
+│   │   │   ├── global.d.ts
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   ├── README.md
+│   │   │   └── types.d.ts
+│   │   ├── devtools-shared
+│   │   │   ├── dist
+│   │   │   │   ├── index.cjs
+│   │   │   │   ├── index.d.cts
+│   │   │   │   ├── index.d.ts
+│   │   │   │   └── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── reactivity
+│   │   │   ├── dist
+│   │   │   │   ├── reactivity.cjs.js
+│   │   │   │   ├── reactivity.cjs.prod.js
+│   │   │   │   ├── reactivity.d.ts
+│   │   │   │   ├── reactivity.esm-browser.js
+│   │   │   │   ├── reactivity.esm-browser.prod.js
+│   │   │   │   ├── reactivity.esm-bundler.js
+│   │   │   │   ├── reactivity.global.js
+│   │   │   │   └── reactivity.global.prod.js
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── runtime-core
+│   │   │   ├── dist
+│   │   │   │   ├── runtime-core.cjs.js
+│   │   │   │   ├── runtime-core.cjs.prod.js
+│   │   │   │   ├── runtime-core.d.ts
+│   │   │   │   └── runtime-core.esm-bundler.js
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── runtime-dom
+│   │   │   ├── dist
+│   │   │   │   ├── runtime-dom.cjs.js
+│   │   │   │   ├── runtime-dom.cjs.prod.js
+│   │   │   │   ├── runtime-dom.d.ts
+│   │   │   │   ├── runtime-dom.esm-browser.js
+│   │   │   │   ├── runtime-dom.esm-browser.prod.js
+│   │   │   │   ├── runtime-dom.esm-bundler.js
+│   │   │   │   ├── runtime-dom.global.js
+│   │   │   │   └── runtime-dom.global.prod.js
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── server-renderer
+│   │   │   ├── dist
+│   │   │   │   ├── server-renderer.cjs.js
+│   │   │   │   ├── server-renderer.cjs.prod.js
+│   │   │   │   ├── server-renderer.d.ts
+│   │   │   │   ├── server-renderer.esm-browser.js
+│   │   │   │   ├── server-renderer.esm-browser.prod.js
+│   │   │   │   └── server-renderer.esm-bundler.js
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   └── shared
+│   │       ├── dist
+│   │       │   ├── shared.cjs.js
+│   │       │   ├── shared.cjs.prod.js
+│   │       │   ├── shared.d.ts
+│   │       │   └── shared.esm-bundler.js
+│   │       ├── index.js
+│   │       ├── LICENSE
+│   │       ├── package.json
+│   │       └── README.md
+│   ├── vue
+│   │   ├── compiler-sfc
+│   │   │   ├── index.browser.js
+│   │   │   ├── index.browser.mjs
+│   │   │   ├── index.d.mts
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── index.mjs
+│   │   │   ├── package.json
+│   │   │   └── register-ts.js
+│   │   ├── dist
+│   │   │   ├── vue.cjs.js
+│   │   │   ├── vue.cjs.prod.js
+│   │   │   ├── vue.d.mts
+│   │   │   ├── vue.d.ts
+│   │   │   ├── vue.esm-browser.js
+│   │   │   ├── vue.esm-browser.prod.js
+│   │   │   ├── vue.esm-bundler.js
+│   │   │   ├── vue.global.js
+│   │   │   ├── vue.global.prod.js
+│   │   │   ├── vue.runtime.esm-browser.js
+│   │   │   ├── vue.runtime.esm-browser.prod.js
+│   │   │   ├── vue.runtime.esm-bundler.js
+│   │   │   ├── vue.runtime.global.js
+│   │   │   └── vue.runtime.global.prod.js
+│   │   ├── index.js
+│   │   ├── index.mjs
+│   │   ├── jsx.d.ts
+│   │   ├── jsx-runtime
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.js
+│   │   │   ├── index.mjs
+│   │   │   └── package.json
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── server-renderer
+│   │       ├── index.d.mts
+│   │       ├── index.d.ts
+│   │       ├── index.js
+│   │       ├── index.mjs
+│   │       └── package.json
+│   ├── @vueuse
+│   │   ├── core
+│   │   │   ├── index.cjs
+│   │   │   ├── index.d.cts
+│   │   │   ├── index.d.mts
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.iife.js
+│   │   │   ├── index.iife.min.js
+│   │   │   ├── index.mjs
+│   │   │   ├── LICENSE
+│   │   │   ├── metadata.cjs
+│   │   │   ├── metadata.d.cts
+│   │   │   ├── metadata.d.mts
+│   │   │   ├── metadata.d.ts
+│   │   │   ├── metadata.mjs
+│   │   │   └── package.json
+│   │   ├── integrations
+│   │   │   ├── index.cjs
+│   │   │   ├── index.d.cts
+│   │   │   ├── index.d.mts
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.iife.js
+│   │   │   ├── index.iife.min.js
+│   │   │   ├── index.mjs
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   ├── README.md
+│   │   │   ├── useAsyncValidator
+│   │   │   │   ├── component.cjs
+│   │   │   │   ├── component.d.cts
+│   │   │   │   ├── component.d.mts
+│   │   │   │   ├── component.d.ts
+│   │   │   │   └── component.mjs
+│   │   │   ├── useAsyncValidator.cjs
+│   │   │   ├── useAsyncValidator.d.cts
+│   │   │   ├── useAsyncValidator.d.mts
+│   │   │   ├── useAsyncValidator.d.ts
+│   │   │   ├── useAsyncValidator.iife.js
+│   │   │   ├── useAsyncValidator.iife.min.js
+│   │   │   ├── useAsyncValidator.mjs
+│   │   │   ├── useAxios.cjs
+│   │   │   ├── useAxios.d.cts
+│   │   │   ├── useAxios.d.mts
+│   │   │   ├── useAxios.d.ts
+│   │   │   ├── useAxios.iife.js
+│   │   │   ├── useAxios.iife.min.js
+│   │   │   ├── useAxios.mjs
+│   │   │   ├── useChangeCase.cjs
+│   │   │   ├── useChangeCase.d.cts
+│   │   │   ├── useChangeCase.d.mts
+│   │   │   ├── useChangeCase.d.ts
+│   │   │   ├── useChangeCase.iife.js
+│   │   │   ├── useChangeCase.iife.min.js
+│   │   │   ├── useChangeCase.mjs
+│   │   │   ├── useCookies.cjs
+│   │   │   ├── useCookies.d.cts
+│   │   │   ├── useCookies.d.mts
+│   │   │   ├── useCookies.d.ts
+│   │   │   ├── useCookies.iife.js
+│   │   │   ├── useCookies.iife.min.js
+│   │   │   ├── useCookies.mjs
+│   │   │   ├── useDrauu.cjs
+│   │   │   ├── useDrauu.d.cts
+│   │   │   ├── useDrauu.d.mts
+│   │   │   ├── useDrauu.d.ts
+│   │   │   ├── useDrauu.iife.js
+│   │   │   ├── useDrauu.iife.min.js
+│   │   │   ├── useDrauu.mjs
+│   │   │   ├── useFocusTrap
+│   │   │   │   ├── component.cjs
+│   │   │   │   ├── component.d.cts
+│   │   │   │   ├── component.d.mts
+│   │   │   │   ├── component.d.ts
+│   │   │   │   └── component.mjs
+│   │   │   ├── useFocusTrap.cjs
+│   │   │   ├── useFocusTrap.d.cts
+│   │   │   ├── useFocusTrap.d.mts
+│   │   │   ├── useFocusTrap.d.ts
+│   │   │   ├── useFocusTrap.iife.js
+│   │   │   ├── useFocusTrap.iife.min.js
+│   │   │   ├── useFocusTrap.mjs
+│   │   │   ├── useFuse.cjs
+│   │   │   ├── useFuse.d.cts
+│   │   │   ├── useFuse.d.mts
+│   │   │   ├── useFuse.d.ts
+│   │   │   ├── useFuse.iife.js
+│   │   │   ├── useFuse.iife.min.js
+│   │   │   ├── useFuse.mjs
+│   │   │   ├── useIDBKeyval.cjs
+│   │   │   ├── useIDBKeyval.d.cts
+│   │   │   ├── useIDBKeyval.d.mts
+│   │   │   ├── useIDBKeyval.d.ts
+│   │   │   ├── useIDBKeyval.iife.js
+│   │   │   ├── useIDBKeyval.iife.min.js
+│   │   │   ├── useIDBKeyval.mjs
+│   │   │   ├── useJwt.cjs
+│   │   │   ├── useJwt.d.cts
+│   │   │   ├── useJwt.d.mts
+│   │   │   ├── useJwt.d.ts
+│   │   │   ├── useJwt.iife.js
+│   │   │   ├── useJwt.iife.min.js
+│   │   │   ├── useJwt.mjs
+│   │   │   ├── useNProgress.cjs
+│   │   │   ├── useNProgress.d.cts
+│   │   │   ├── useNProgress.d.mts
+│   │   │   ├── useNProgress.d.ts
+│   │   │   ├── useNProgress.iife.js
+│   │   │   ├── useNProgress.iife.min.js
+│   │   │   ├── useNProgress.mjs
+│   │   │   ├── useQRCode.cjs
+│   │   │   ├── useQRCode.d.cts
+│   │   │   ├── useQRCode.d.mts
+│   │   │   ├── useQRCode.d.ts
+│   │   │   ├── useQRCode.iife.js
+│   │   │   ├── useQRCode.iife.min.js
+│   │   │   ├── useQRCode.mjs
+│   │   │   ├── useSortable
+│   │   │   │   ├── component.cjs
+│   │   │   │   ├── component.d.cts
+│   │   │   │   ├── component.d.mts
+│   │   │   │   ├── component.d.ts
+│   │   │   │   └── component.mjs
+│   │   │   ├── useSortable.cjs
+│   │   │   ├── useSortable.d.cts
+│   │   │   ├── useSortable.d.mts
+│   │   │   ├── useSortable.d.ts
+│   │   │   ├── useSortable.iife.js
+│   │   │   ├── useSortable.iife.min.js
+│   │   │   └── useSortable.mjs
+│   │   ├── metadata
+│   │   │   ├── index.cjs
+│   │   │   ├── index.d.cts
+│   │   │   ├── index.d.mts
+│   │   │   ├── index.d.ts
+│   │   │   ├── index.json
+│   │   │   ├── index.mjs
+│   │   │   ├── LICENSE
+│   │   │   └── package.json
+│   │   └── shared
+│   │       ├── index.cjs
+│   │       ├── index.d.cts
+│   │       ├── index.d.mts
+│   │       ├── index.d.ts
+│   │       ├── index.iife.js
+│   │       ├── index.iife.min.js
+│   │       ├── index.mjs
+│   │       ├── LICENSE
+│   │       └── package.json
+│   └── zwitch
+│       ├── index.d.ts
+│       ├── index.js
+│       ├── license
+│       ├── package.json
+│       └── readme.md
+├── package.json
+├── package-lock.json
+├── README.md
+└── struct-teacher.txt
+
+577 directories, 5023 files
