@@ -9,6 +9,9 @@ export default defineConfig({
   // ⚠️ Это должно совпадать с названием GitHub-репозитория.
   // Если репозиторий называется "teacher", оставьте '/teacher/'.
   base: '/teacher/',
+  ignoreDeadLinks: [
+    /^\/files\//, // Игнорировать любые ссылки, начинающиеся с /files/
+  ],
 
   // Чистые URL: /about/index.html -> /about/
   cleanUrls: true,
