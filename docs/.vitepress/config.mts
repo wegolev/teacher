@@ -15,7 +15,7 @@ export default defineConfig({
   },
 
   head: [
-    ['link', { rel: 'icon', href: '/teacher/01_home/teacher.jpg' }],
+    ['link', { rel: 'icon', href: '/teacher/images/teacher.jpg' }],
     ['meta', { name: 'theme-color', content: '#2c3e50' }],
   ],
 
@@ -29,8 +29,8 @@ export default defineConfig({
   ],
   
   themeConfig: {
-    logo: '/01_home/teacher.jpg',
-    siteTitle: 'Е. В. Катович',
+    logo: '/images/teacher.jpg',
+    siteTitle: 'Е.В. Катович',
 
     nav: [
       { text: 'Главная', link: '/' },
