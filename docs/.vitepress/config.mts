@@ -9,15 +9,14 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
 
+  rewrites: {
+    '01_home/index.md': 'index.md',
+  },
+
   head: [
     ['link', { rel: 'icon', href: '/teacher/01_home/teacher.jpg' }],
     ['meta', { name: 'theme-color', content: '#2c3e50' }],
   ],
-
-  // Превращаем 01_home/content.md в главную страницу (корень сайта)
-  rewrites: {
-    '01_home/content.md': 'index.md',
-  },
 
   themeConfig: {
     logo: '/01_home/teacher.jpg',

@@ -75,3 +75,44 @@ html.large-text-theme button:hover {
   background: #ffee00 !important;
   color: #000 !important;
 }
+
+/* === Hero-блок на странице «Обо мне» === */
+.about-hero {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 1.5rem;
+  align-items: center;
+  margin: 1.5rem 0;
+  padding: 1.5rem;
+  background: var(--vp-c-bg-soft);
+  border-radius: 12px;
+}
+
+.about-hero__school {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.about-hero__text h1 {
+  margin: 0 0 0.5rem;
+  font-size: 1.6rem;
+}
+
+.about-hero__role {
+  font-weight: 600;
+  color: var(--vp-c-brand-1);
+  margin-bottom: 0.25rem;
+}
+
+@media (max-width: 640px) {
+  .about-hero {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+  .about-hero__school {
+    max-width: 180px;
+    margin: 0 auto;
+  }
+}

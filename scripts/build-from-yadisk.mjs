@@ -88,9 +88,13 @@ async function syncDir(srcRel) {
            console.log(`🖼  Галерея: ${entry} -> public/images/album/`)
         } else {
            // Обычные файлы (md, картинки для контента) копируем в папку страницы
-           const dstEntryFull = join(dstPath, entry)
-           await cp(srcEntryFull, dstEntryFull)
-           console.log(`✔ ${srcEntryRel} -> ${dstRel}/${entry}`)
+           // Если это content.md, переименовываем в index.md для VitePress
+            let finalEntry = entry
+            if (entry === 'content.md') finalEntry = 'index.md'
+
+            const dstEntryFull = join(dstPath, finalEntry)
+            await cp(srcEntryFull, dstEntryFull)
+            console.log(`✔ ${srcEntryRel} -> ${dstRel}/${finalEntry}`)
         }
       }
     }
