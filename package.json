@@ -5,7 +5,7 @@
   "scripts": {
     "build:sync": "node scripts/build-from-yadisk.mjs",
     "docs:dev": "npm run build:sync && vitepress dev docs",
-    "docs:build": "npm run build:sync && vitepress build docs",
+    "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
