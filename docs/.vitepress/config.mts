@@ -9,6 +9,7 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
 
+  // fix(home): главная страница через rewrites (01_home/index.md → index.md)
   rewrites: {
     '01_home/index.md': 'index.md',
   },
