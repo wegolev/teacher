@@ -1,24 +1,13 @@
 {
   "name": "teacher",
   "version": "1.0.0",
-  "description": "Elena Vladimirovna",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
+    "build:sync": "node scripts/build-from-yadisk.mjs",
+    "docs:dev": "npm run build:sync && vitepress dev docs",
+    "docs:build": "npm run build:sync && vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wegolev/teacher.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/wegolev/teacher/issues"
-  },
-  "homepage": "https://github.com/wegolev/teacher#readme",
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.20",
     "@tailwindcss/vite": "^4.3.3",

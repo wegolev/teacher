@@ -1,20 +1,43 @@
 .
 ├── docs
 │   ├── about
+│   │   └── index.md
 │   ├── colleagues
+│   │   ├── index.md
+│   │   ├── links.md
 │   │   ├── method
+│   │   ├── method.md
 │   │   ├── mo
+│   │   ├── mo.md
 │   │   ├── museum
+│   │   ├── museum.md
+│   │   ├── publications.md
 │   │   └── publishing
 │   ├── contact
+│   │   └── index.md
 │   ├── gallery
-│   │   └── album
+│   │   ├── album
+│   │   ├── index.md
+│   │   └── projects.md
 │   ├── historical
+│   │   ├── contest.md
+│   │   ├── lessons.md
+│   │   └── tests.md
+│   ├── index.md
 │   ├── news
+│   │   ├── 2026-11-04.md
+│   │   ├── calendar.md
+│   │   ├── index.md
+│   │   └── media
+│   │       └── image1.png
 │   ├── parents
+│   │   ├── index.md
 │   │   ├── meetings
+│   │   ├── meetings.md
 │   │   ├── memos
-│   │   └── normative
+│   │   ├── memos.md
+│   │   ├── normative
+│   │   └── normative.md
 │   ├── public
 │   │   ├── files
 │   │   │   ├── about
@@ -235,9 +258,15 @@
 │   │       └── teacher.jpg
 │   └── students
 │       ├── homework
+│       ├── homework.md
+│       ├── index.md
+│       ├── links.md
 │       ├── oge-ege
+│       ├── oge-ege.md
 │       ├── olympiads
-│       └── projects
+│       ├── olympiads.md
+│       ├── projects
+│       └── projects.md
 ├── LICENSE
 ├── node_modules
 │   ├── @algolia
@@ -2407,6 +2436,10 @@
 │   │       ├── index.js
 │   │       └── package.json
 │   ├── @napi-rs
+│   │   └── lzma-linux-x64-gnu
+│   │       ├── lzma.linux-x64-gnu.node
+│   │       ├── package.json
+│   │       └── README.md
 │   ├── oniguruma-to-es
 │   │   ├── dist
 │   │   │   ├── cjs
@@ -2452,6 +2485,106 @@
 │   │   ├── LICENSE
 │   │   ├── package.json
 │   │   └── README.md
+│   ├── photoswipe
+│   │   ├── dist
+│   │   │   ├── photoswipe.css
+│   │   │   ├── photoswipe.esm.js
+│   │   │   ├── photoswipe.esm.js.map
+│   │   │   ├── photoswipe.esm.min.js
+│   │   │   ├── photoswipe-lightbox.esm.js
+│   │   │   ├── photoswipe-lightbox.esm.js.map
+│   │   │   ├── photoswipe-lightbox.esm.min.js
+│   │   │   ├── types
+│   │   │   │   ├── core
+│   │   │   │   │   ├── base.d.ts
+│   │   │   │   │   └── eventable.d.ts
+│   │   │   │   ├── gestures
+│   │   │   │   │   ├── drag-handler.d.ts
+│   │   │   │   │   ├── gestures.d.ts
+│   │   │   │   │   ├── tap-handler.d.ts
+│   │   │   │   │   └── zoom-handler.d.ts
+│   │   │   │   ├── keyboard.d.ts
+│   │   │   │   ├── lightbox
+│   │   │   │   │   └── lightbox.d.ts
+│   │   │   │   ├── main-scroll.d.ts
+│   │   │   │   ├── opener.d.ts
+│   │   │   │   ├── photoswipe.d.ts
+│   │   │   │   ├── scroll-wheel.d.ts
+│   │   │   │   ├── slide
+│   │   │   │   │   ├── content.d.ts
+│   │   │   │   │   ├── get-thumb-bounds.d.ts
+│   │   │   │   │   ├── loader.d.ts
+│   │   │   │   │   ├── pan-bounds.d.ts
+│   │   │   │   │   ├── placeholder.d.ts
+│   │   │   │   │   ├── slide.d.ts
+│   │   │   │   │   └── zoom-level.d.ts
+│   │   │   │   ├── types.d.ts
+│   │   │   │   ├── ui
+│   │   │   │   │   ├── button-arrow.d.ts
+│   │   │   │   │   ├── button-close.d.ts
+│   │   │   │   │   ├── button-zoom.d.ts
+│   │   │   │   │   ├── counter-indicator.d.ts
+│   │   │   │   │   ├── loading-indicator.d.ts
+│   │   │   │   │   ├── ui.d.ts
+│   │   │   │   │   └── ui-element.d.ts
+│   │   │   │   └── util
+│   │   │   │       ├── animations.d.ts
+│   │   │   │       ├── css-animation.d.ts
+│   │   │   │       ├── dom-events.d.ts
+│   │   │   │       ├── spring-animation.d.ts
+│   │   │   │       ├── spring-easer.d.ts
+│   │   │   │       ├── util.d.ts
+│   │   │   │       └── viewport-size.d.ts
+│   │   │   └── umd
+│   │   │       ├── photoswipe-lightbox.umd.min.js
+│   │   │       ├── photoswipe.umd.min.js
+│   │   │       └── README.md
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── src
+│   │       ├── js
+│   │       │   ├── core
+│   │       │   │   ├── base.js
+│   │       │   │   └── eventable.js
+│   │       │   ├── gestures
+│   │       │   │   ├── drag-handler.js
+│   │       │   │   ├── gestures.js
+│   │       │   │   ├── tap-handler.js
+│   │       │   │   └── zoom-handler.js
+│   │       │   ├── keyboard.js
+│   │       │   ├── lightbox
+│   │       │   │   └── lightbox.js
+│   │       │   ├── main-scroll.js
+│   │       │   ├── opener.js
+│   │       │   ├── photoswipe.js
+│   │       │   ├── scroll-wheel.js
+│   │       │   ├── slide
+│   │       │   │   ├── content.js
+│   │       │   │   ├── get-thumb-bounds.js
+│   │       │   │   ├── loader.js
+│   │       │   │   ├── pan-bounds.js
+│   │       │   │   ├── placeholder.js
+│   │       │   │   ├── slide.js
+│   │       │   │   └── zoom-level.js
+│   │       │   ├── types.ts
+│   │       │   ├── ui
+│   │       │   │   ├── button-arrow.js
+│   │       │   │   ├── button-close.js
+│   │       │   │   ├── button-zoom.js
+│   │       │   │   ├── counter-indicator.js
+│   │       │   │   ├── loading-indicator.js
+│   │       │   │   ├── ui-element.js
+│   │       │   │   └── ui.js
+│   │       │   └── util
+│   │       │       ├── animations.js
+│   │       │       ├── css-animation.js
+│   │       │       ├── dom-events.js
+│   │       │       ├── spring-animation.js
+│   │       │       ├── spring-easer.js
+│   │       │       ├── util.js
+│   │       │       └── viewport-size.js
+│   │       └── photoswipe.css
 │   ├── picocolors
 │   │   ├── LICENSE
 │   │   ├── package.json
@@ -4749,6 +4882,16 @@
 │   │   │   ├── index.js
 │   │   │   ├── LICENSE
 │   │   │   └── package.json
+│   │   ├── oxide-linux-x64-gnu
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   ├── README.md
+│   │   │   └── tailwindcss-oxide.linux-x64-gnu.node
+│   │   ├── oxide-linux-x64-musl
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   ├── README.md
+│   │   │   └── tailwindcss-oxide.linux-x64-musl.node
 │   │   ├── typography
 │   │   │   ├── LICENSE
 │   │   │   ├── package.json
@@ -5597,6 +5740,9 @@
 ├── package.json
 ├── package-lock.json
 ├── README.md
+├── scripts
+│   ├── gen-file-lists.mjs
+│   └── gen-gallery.mjs
 └── struct-teacher.txt
 
-577 directories, 5023 files
+600 directories, 5146 files

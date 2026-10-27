@@ -5,103 +5,92 @@ export default defineConfig({
   title: 'Катович Елена Владимировна',
   description: 'Личный сайт учителя истории и обществознания',
   lang: 'ru-RU',
-
-  // ⚠️ Это должно совпадать с названием GitHub-репозитория.
-  // Если репозиторий называется "teacher", оставьте '/teacher/'.
   base: '/teacher/',
-  ignoreDeadLinks: [
-    /^\/files\//, // Игнорировать любые ссылки, начинающиеся с /files/
-  ],
-
-  // Чистые URL: /about/index.html -> /about/
   cleanUrls: true,
   lastUpdated: true,
 
   head: [
-    ['link', { rel: 'icon', href: '/teacher/images/teacher.jpg' }],
+    ['link', { rel: 'icon', href: '/teacher/01_home/teacher.jpg' }],
     ['meta', { name: 'theme-color', content: '#2c3e50' }],
   ],
 
+  // Превращаем 01_home/content.md в главную страницу (корень сайта)
+  rewrites: {
+    '01_home/content.md': 'index.md',
+  },
+
   themeConfig: {
-    logo: '/images/teacher.jpg',
+    logo: '/01_home/teacher.jpg',
     siteTitle: 'Е. В. Катович',
 
     nav: [
       { text: 'Главная', link: '/' },
-      { text: 'Обо мне', link: '/about/' },
-      { text: 'Историческое краеведение', link: '/historical/' },
-      { text: 'Ученикам', link: '/students/' },
-      { text: 'Родителям', link: '/parents/' },
-      { text: 'Коллегам', link: '/colleagues/' },
-      { text: 'Новости', link: '/news/' },
-      { text: 'Галерея', link: '/gallery/' },
-      { text: 'Обратная связь', link: '/contact/' },
+      { text: 'Обо мне', link: '/02_about/' },
+      { text: 'Историческое краеведение', link: '/03_historical/0301_overview/' },
+      { text: 'Ученикам', link: '/04_students/' },
+      { text: 'Родителям', link: '/05_parents/' },
+      { text: 'Коллегам', link: '/06_colleagues/' },
+      { text: 'Новости', link: '/07_news/' },
+      { text: 'Галерея', link: '/08_gallery/' },
     ],
 
     sidebar: {
-      '/about/': [
-        {
-          text: 'Обо мне',
-          items: [
-            { text: 'Визитная карточка', link: '/about/' },
-          ],
-        },
-      ],
-      '/students/': [
-        {
-          text: 'Ученикам',
-          items: [
-            { text: 'Обзор', link: '/students/' },
-            { text: 'Домашние задания', link: '/students/homework' },
-            { text: 'Подготовка к ОГЭ/ЕГЭ', link: '/students/oge-ege' },
-            { text: 'Олимпиады и конкурсы', link: '/students/olympiads' },
-            { text: 'Проектная деятельность', link: '/students/projects' },
-            { text: 'Полезные ссылки', link: '/students/links' },
-          ],
-        },
-      ],
-      '/parents/': [
-        {
-          text: 'Родителям',
-          items: [
-            { text: 'Обзор', link: '/parents/' },
-            { text: 'Памятки и рекомендации', link: '/parents/memos' },
-            { text: 'Родительские собрания', link: '/parents/meetings' },
-            { text: 'Нормативные документы', link: '/parents/normative' },
-          ],
-        },
-      ],
-      '/colleagues/': [
-        {
-          text: 'Коллегам',
-          items: [
-            { text: 'Обзор', link: '/colleagues/' },
-            { text: 'Методические разработки', link: '/colleagues/method' },
-            { text: 'Материалы МО', link: '/colleagues/mo' },
-            { text: 'Музей села Орловки', link: '/colleagues/museum' },
-            { text: 'Публикации и статьи', link: '/colleagues/publications' },
-            { text: 'Полезные ссылки', link: '/colleagues/links' },
-          ],
-        },
-      ],
-      '/historical/': [
+      '/03_historical/': [
         {
           text: 'Историческое краеведение',
           items: [
-            { text: 'Обзор', link: '/historical/' },
-            { text: 'Банк тестовых заданий', link: '/historical/tests' },
-            { text: 'Конспекты уроков', link: '/historical/lessons' },
-            { text: 'Конкурс «Учитель истории Ставрополья»', link: '/historical/contest' },
+            { text: 'Обзор', link: '/03_historical/0301_overview/' },
+            { text: 'Банк тестовых заданий', link: '/03_historical/0302_tests/' },
+            { text: 'Конспекты уроков', link: '/03_historical/0303_lessons/' },
+            { text: 'Рабочие программы', link: '/03_historical/0304_programs/' },
+            { text: 'Творческие работы учащихся', link: '/03_historical/0305_creative/' },
+            { text: 'Публикации', link: '/03_historical/0306_publications/' },
+            { text: 'Методические разработки', link: '/03_historical/0307_method/' },
           ],
         },
       ],
-      '/news/': [
+      '/04_students/': [
+        {
+          text: 'Ученикам',
+          items: [
+            { text: 'Обзор', link: '/04_students/0401_overview/' },
+            { text: 'Домашнее задание', link: '/04_students/0402_homework/' },
+            { text: 'Олимпиады и конкурсы', link: '/04_students/0403_olympiads/' },
+            { text: 'Подготовка к ОГЭ, ЕГЭ', link: '/04_students/0404_exams/' },
+            { text: 'Проектная деятельность', link: '/04_students/0405_projects/' },
+            { text: 'Полезные ссылки', link: '/04_students/0406_links/' },
+          ],
+        },
+      ],
+      '/05_parents/': [
+        {
+          text: 'Родителям',
+          items: [
+            { text: 'Памятки', link: '/05_parents/0501_memos/' },
+            { text: 'Родительские собрания', link: '/05_parents/0502_meetings/' },
+            { text: 'Нормативные документы', link: '/05_parents/0503_normative/' },
+          ],
+        },
+      ],
+      '/06_colleagues/': [
+        {
+          text: 'Коллегам',
+          items: [
+            { text: 'Методические разработки', link: '/06_colleagues/0601_method/' },
+            { text: 'Материалы МО', link: '/06_colleagues/0602_mo/' },
+            { text: 'Музей', link: '/06_colleagues/0603_museum/' },
+            { text: 'Публикации', link: '/06_colleagues/0604_publications/' },
+            { text: 'Ссылки', link: '/06_colleagues/0605_links/' },
+          ],
+        },
+      ],
+      '/07_news/': [
         {
           text: 'Новости',
           items: [
-            { text: 'Лента новостей', link: '/news/' },
-            { text: '4 ноября', link: '/news/2026-11-04' },
-            { text: 'Календарь дат', link: '/news/calendar' },
+            { text: 'Обзор', link: '/07_news/' },
+            { text: '4 ноября', link: '/07_news/this_day_in_history/2026-11-04' },
+            { text: 'Календарь дат', link: '/07_news/this_day_in_history/calendar' },
           ],
         },
       ],
@@ -114,11 +103,6 @@ export default defineConfig({
     sidebarMenuLabel: 'Меню',
     darkModeSwitchLabel: 'Тема',
     langMenuLabel: 'Язык',
-
-    socialLinks: [
-      // замените на свой профиль при желании
-      // { icon: 'github', link: 'https://github.com/username' },
-    ],
 
     footer: {
       message: 'Личный сайт учителя истории и обществознания',
