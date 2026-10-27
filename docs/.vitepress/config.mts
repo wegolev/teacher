@@ -98,8 +98,9 @@ export default defineConfig({
           text: 'Новости',
           items: [
             { text: 'Обзор', link: '/07_news/' },
-            { text: '4 ноября', link: '/07_news/this_day_in_history/2026-11-04' },
+            { text: 'Этот день в истории', link: '/07_news/this_day_in_history/' },
             { text: 'Календарь дат', link: '/07_news/this_day_in_history/calendar' },
+            { text: '4 ноября', link: '/07_news/this_day_in_history/2026-11-04' },
           ],
         },
       ],
