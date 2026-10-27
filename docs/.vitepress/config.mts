@@ -19,6 +19,15 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#2c3e50' }],
   ],
 
+  // Разрешить мёртвые ссылки 
+  ignoreDeadLinks: [
+    /^\/news\//,
+    /^\/files\//,
+    /^\/images\//,
+    /^\.\//,
+    /^\/2026-/,
+  ],
+  
   themeConfig: {
     logo: '/01_home/teacher.jpg',
     siteTitle: 'Е. В. Катович',
