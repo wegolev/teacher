@@ -54,7 +54,13 @@ export default defineConfig({
             { text: 'Рабочие программы', link: '/03_historical/0304_programs/' },
             { text: 'Творческие работы учащихся', link: '/03_historical/0305_creative/' },
             { text: 'Публикации', link: '/03_historical/0306_publications/' },
-            { text: 'Методические разработки', link: '/03_historical/0307_method/' },
+            { 
+              text: 'Методические разработки', 
+              link: '/03_historical/0307_method/',
+              items: [
+                { text: 'Конкурс "Учитель истории Ставрополья - 2026"', link: '/03_historical/0307_method/konkurs_2026/' }
+              ]
+            },
           ],
         },
       ],

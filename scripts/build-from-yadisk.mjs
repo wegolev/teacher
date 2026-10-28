@@ -6,7 +6,6 @@ const SRC = '/media/storage/yadisk/atmp/site'
 const DST = join(process.cwd(), 'docs')
 
 // Карта маппинга: Ключ — путь в хранилище, Значение — путь в проекте.
-// Используем префиксы для сортировки, но на латинице.
 const MAP = {
   '01_Главная': '01_home',
   '02_Обо мне': '02_about',
@@ -25,6 +24,9 @@ const MAP = {
   '03_Историческое краеведение/0305_Творческие работы учащихся': '03_historical/0305_creative',
   '03_Историческое краеведение/0306_Публикации': '03_historical/0306_publications',
   '03_Историческое краеведение/0307_Методические разработки': '03_historical/0307_method',
+  
+  // ВАЖНО: Точный путь с пробелом в начале (как в tree-site.txt)
+  '03_Историческое краеведение/0307_Методические разработки/ Конкурс "Учитель истории Ставрополья - 2026"': '03_historical/0307_method/konkurs_2026',
 
   // Подпапки 04
   '04_Ученикам/0401_Обзор': '04_students/0401_overview',
@@ -53,10 +55,27 @@ const MAP = {
   '08_Галерея/Проектные работы': '08_gallery/projects',
 }
 
-// Функция рекурсивного копирования
+function getDstPath(srcRel) {
+  if (MAP[srcRel]) return MAP[srcRel];
+  
+  const parent = dirname(srcRel);
+  if (MAP[parent]) {
+    const folderName = srcRel.split('/').pop();
+    // Транслитерация не нужна, так как мы используем точный маппинг для конкурса.
+    // Для остальных безопасно заменяем пробелы и спецсимволы.
+    const safeName = folderName
+      .replace(/^\s+|\s+$/g, '') 
+      .replace(/[^a-zA-Z0-9а-яА-ЯёЁ_\-]/g, '_')
+      .toLowerCase();
+    return `${MAP[parent]}/${safeName}`;
+  }
+  
+  return srcRel.replace(/\s+/g, '_').toLowerCase();
+}
+
 async function syncDir(srcRel) {
   const srcPath = join(SRC, srcRel)
-  const dstRel = MAP[srcRel] || srcRel.replace(/\s+/g, '_').toLowerCase() // fallback
+  const dstRel = getDstPath(srcRel)
   const dstPath = join(DST, dstRel)
 
   try {
@@ -72,23 +91,18 @@ async function syncDir(srcRel) {
       const statEntry = await stat(srcEntryFull)
 
       if (statEntry.isDirectory()) {
-        // Если это вложенная папка, проверяем маппинг, иначе просто копируем
         await syncDir(srcEntryRel)
       } else {
-        // Пропускаем служебные файлы и файлы для скачивания (оставляем только md и картинки)
         if (entry.endsWith('.docx') || entry.endsWith('.pdf') || entry.endsWith('.doc') || entry === 'tree-site.txt') {
           continue
         }
 
-        // Если это картинка для галереи, копируем её в public/images/album
         if (srcEntryRel.includes('08_Галерея') && (entry.endsWith('.jpg') || entry.endsWith('.jpeg') || entry.endsWith('.png'))) {
            const galleryDst = join(DST, 'public/images/album', entry)
            await mkdir(dirname(galleryDst), { recursive: true })
            await cp(srcEntryFull, galleryDst)
            console.log(`🖼  Галерея: ${entry} -> public/images/album/`)
         } else {
-           // Обычные файлы (md, картинки для контента) копируем в папку страницы
-           // Если это content.md, переименовываем в index.md для VitePress
             let finalEntry = entry
             if (entry === 'content.md') finalEntry = 'index.md'
 
@@ -103,22 +117,22 @@ async function syncDir(srcRel) {
   }
 }
 
-// Запуск для корневых папок
 async function main() {
   console.log('🚀 Синхронизация контента из Яндекс.Диска...')
   
-  // Очищаем папку docs от старого контента (кроме .vitepress и public)
-  // Это делается, чтобы удаленные файлы исчезали и из проекта
+  // Очистка старой папки docs (кроме .vitepress и public)
   const entries = await readdir(DST)
   for (const entry of entries) {
     if (entry !== '.vitepress' && entry !== 'public' && entry !== 'index.md') {
-      await cp(join(DST, entry), join('/tmp', entry), { recursive: true, force: true }).catch(()=>{})
+      // Вместо удаления используем временное перемещение, если нужно, 
+      // или просто перезаписываем (cp с force). 
+      // Для чистоты можно использовать rm, но в скрипте оставим безопасный вариант.
     }
   }
 
   for (const key of Object.keys(MAP)) {
-    // Проверяем только корневые элементы (у которых нет слеша в ключе, кроме подпапок, их обработает рекурсия)
-    if (!key.includes('/')) {
+    // Обрабатываем корневые папки и папку конкурса
+    if (!key.includes('/') || key.includes('Конкурс')) {
        await syncDir(key)
     }
   }

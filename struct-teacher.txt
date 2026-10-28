@@ -1,226 +1,90 @@
 .
+├── adoc
+│   ├── doc00.md
+│   ├── doc01.md
+│   ├── doc02.md
+│   ├── doc03.md
+│   ├── doc04.md
+│   ├── doc05.md
+│   ├── doc06.md
+│   ├── doc07.md
+│   ├── doc07+.md
+│   └── doc08.md
 ├── docs
-│   ├── about
+│   ├── 01_home
+│   │   ├── index.md
+│   │   └── teacher.jpg
+│   ├── 02_about
+│   │   ├── index.md
+│   │   └── school.jpg
+│   ├── 03_historical
+│   │   ├── 0301_overview
+│   │   │   └── index.md
+│   │   ├── 0302_tests
+│   │   │   └── index.md
+│   │   ├── 0303_lessons
+│   │   │   └── index.md
+│   │   ├── 0304_programs
+│   │   │   └── index.md
+│   │   ├── 0305_creative
+│   │   │   └── index.md
+│   │   ├── 0306_publications
+│   │   │   └── index.md
+│   │   └── 0307_method
+│   │       ├── index.md
+│   │       └── _конкурс_"учитель_истории_ставрополья_-_2026"
+│   │           └── index.md
+│   ├── 03_историческое_краеведение
+│   │   └── 0307_методические_разработки
+│   │       └── _конкурс_"учитель_истории_ставрополья_-_2026"
+│   ├── 04_students
+│   │   ├── 0401_overview
+│   │   │   └── index.md
+│   │   ├── 0402_homework
+│   │   │   └── index.md
+│   │   ├── 0403_olympiads
+│   │   │   └── index.md
+│   │   ├── 0404_exams
+│   │   │   └── index.md
+│   │   ├── 0405_projects
+│   │   │   └── index.md
+│   │   ├── 0406_links
+│   │   │   └── index.md
 │   │   └── index.md
-│   ├── colleagues
-│   │   ├── index.md
-│   │   ├── links.md
-│   │   ├── method
-│   │   ├── method.md
-│   │   ├── mo
-│   │   ├── mo.md
-│   │   ├── museum
-│   │   ├── museum.md
-│   │   ├── publications.md
-│   │   └── publishing
-│   ├── contact
+│   ├── 05_parents
+│   │   ├── 0501_memos
+│   │   │   └── index.md
+│   │   ├── 0502_meetings
+│   │   │   └── index.md
+│   │   ├── 0503_normative
+│   │   │   ├── content.md
+│   │   │   └── index.md
 │   │   └── index.md
-│   ├── gallery
-│   │   ├── album
+│   ├── 06_colleagues
+│   │   ├── 0601_method
+│   │   │   └── index.md
+│   │   ├── 0602_mo
+│   │   │   └── index.md
+│   │   ├── 0603_museum
+│   │   │   └── index.md
+│   │   ├── 0604_publications
+│   │   │   └── index.md
+│   │   ├── 0605_links
+│   │   │   └── index.md
+│   │   └── index.md
+│   ├── 07_news
 │   │   ├── index.md
-│   │   └── projects.md
-│   ├── historical
-│   │   ├── contest.md
-│   │   ├── lessons.md
-│   │   └── tests.md
-│   ├── index.md
-│   ├── news
-│   │   ├── 2026-11-04.md
-│   │   ├── calendar.md
+│   │   └── this_day_in_history
+│   │       ├── 2026-11-04.md
+│   │       ├── calendar.md
+│   │       ├── index.md
+│   │       └── _template.md
+│   ├── 08_gallery
 │   │   ├── index.md
-│   │   └── media
-│   │       └── image1.png
-│   ├── parents
-│   │   ├── index.md
-│   │   ├── meetings
-│   │   ├── meetings.md
-│   │   ├── memos
-│   │   ├── memos.md
-│   │   ├── normative
-│   │   └── normative.md
+│   │   └── projects
+│   │       ├── content.md
+│   │       └── index.md
 │   ├── public
-│   │   ├── files
-│   │   │   ├── about
-│   │   │   │   ├── Визитная карточка.docx
-│   │   │   │   └── Образование и повышение квалификации.docx
-│   │   │   ├── colleagues
-│   │   │   │   ├── links
-│   │   │   │   │   ├── Материалы методических обьединений
-│   │   │   │   │   │   ├── Дополнительные материалы
-│   │   │   │   │   │   │   ├── Вклад российской школы в формирование технологического суверенитета страны.pdf
-│   │   │   │   │   │   │   └── Нормативно-правовое обеспечение преподования предмета Обществознание.pdf
-│   │   │   │   │   │   └── Протоколы заседаний МО учителей истории и обществознания
-│   │   │   │   │   │       └── Выписки из протоколов.docx
-│   │   │   │   │   ├── Ссылки на профессиональные сообщества
-│   │   │   │   │   │   └── Ссылки на профессиональные сообщество.docx
-│   │   │   │   │   └── Ссылки на профессиональные сообщество.docx
-│   │   │   │   ├── method
-│   │   │   │   │   ├── История Ставропольского края
-│   │   │   │   │   │   ├── Конспект урока «Ставрополье в годы Великой российской революции и Гражданской войны».docx
-│   │   │   │   │   │   ├── Конспект урока «Ставропольский край на карте Северного Кавказа».docx
-│   │   │   │   │   │   ├── Конспект урока «Южный форпост России. Строительство Азово-Моздокской оборонительной линии».docx
-│   │   │   │   │   │   ├── Рабочий лист 5 кл История СК.docx
-│   │   │   │   │   │   ├── Рабочий лист 5 кл История СК.pdf
-│   │   │   │   │   │   ├── Рабочий лист к уроку «Ставрополье в годы Великой Отечественной войны», 7 класс.docx
-│   │   │   │   │   │   ├── Рабочий лист к уроку «Ставрополье в годы Великой российской революции и Гражданской войны», 7 класс.docx
-│   │   │   │   │   │   ├── Рабочий лист к уроку «Ставрополье — наша малая родина», 5 класс.docx
-│   │   │   │   │   │   ├── Рабочий лист к уроку «Территория Ставропольского края в составе Золотой Орды. Город Маджар».docx
-│   │   │   │   │   │   ├── Рабочий лист к уроку «Южный форпост России. Строительство Азово-Моздокской оборонительной линии», 6 класс.docx
-│   │   │   │   │   │   ├── Сценарий урока «Ставрополье в годы Великой Отечественной войны».docx
-│   │   │   │   │   │   ├── Сценарий урока «Ставрополье — наша малая родина».docx
-│   │   │   │   │   │   ├── Тема  «Развитие курортных поселений у минеральных источников Кавказа», 6 класс.docx
-│   │   │   │   │   │   └── Технологическая карта урока «Территория Ставропольского края в составе Золотой Орды. Город Маджар».docx
-│   │   │   │   │   ├── Мастер-класс Система тренинговых заданий с высокомотивированнными учащимися.docx
-│   │   │   │   │   ├── Методика выполнения заданий повышенной сложности егэ обществознание 2027 г.docx
-│   │   │   │   │   ├── Методика выполнения заданий части 2 по истории в формате ЕГЭ.docx
-│   │   │   │   │   ├── Методика подготовки заданий 17-20 в формате ОГЭ по обществознанию.docx
-│   │   │   │   │   ├── Методика преподования сложных тем по праву.docx
-│   │   │   │   │   ├── Методическая разработка урока,рабочий лист Юридическая отвтественность.pdf
-│   │   │   │   │   ├── Методические рекомендации работы с заданием № 6 ф в формате ОГЭ по обществознанию.docx
-│   │   │   │   │   ├── Методические рекомендации работы со сложными заданиями.docx
-│   │   │   │   │   ├── Метод рекомендации по работе с исторической  картой.docx
-│   │   │   │   │   ├── Общие рекомендации по подготовке к ГИА  9 класс,обществознание.docx
-│   │   │   │   │   ├── Общие рекомендации по подготовке к ОГЭ по истории.docx
-│   │   │   │   │   └── пятиминутки по антитеррору.doc
-│   │   │   │   ├── mo
-│   │   │   │   │   ├── Дополнительные материалы
-│   │   │   │   │   │   ├── Вклад российской школы в формирование технологического суверенитета страны.pdf
-│   │   │   │   │   │   └── Нормативно-правовое обеспечение преподования предмета Обществознание.pdf
-│   │   │   │   │   └── Протоколы заседаний МО учителей истории и обществознания
-│   │   │   │   │       └── Выписки из протоколов.docx
-│   │   │   │   ├── museum
-│   │   │   │   │   ├── Очерк о музее История села Орловки.pdf
-│   │   │   │   │   ├── программа развития музея.docx
-│   │   │   │   │   └── Справка о внедрении программы развития музея.docx
-│   │   │   │   └── publications
-│   │   │   │       ├── Историческая память и уроки XX века как говорить с подростками о.pdf
-│   │   │   │       ├── Исторический контент в соцсетях.pdf
-│   │   │   │       ├── Как говорить с подростками о войнах.pdf
-│   │   │   │       ├── «Каменная летопись памяти Воинские захоронения села Орловка и хутора Пегушин»..pdf
-│   │   │   │       ├── Монография Александр Второй.pdf
-│   │   │   │       ├── МР Глобальные компетенции на уроках обществознания.pdf
-│   │   │   │       ├── Научно-иследовательская работа.pdf
-│   │   │   │       ├── Очерк о музее История села Орловки.pdf
-│   │   │   │       ├── Статья Между мифом и фактом.Границы школьного исторического образования.pdf
-│   │   │   │       └── Цифровая трансформация исторического образования от ИИ-помощников до.pdf
-│   │   │   ├── contact
-│   │   │   │   ├── Контакты.docx
-│   │   │   │   └── Памятка по правилам общения.docx
-│   │   │   ├── gallery
-│   │   │   │   └── projects
-│   │   │   │       ├── Геннадий Гурин увековечение памяти в проекте «Парта героя.docx
-│   │   │   │       ├── Исследование  Герой моей семьи. Без права забвения.pdf
-│   │   │   │       ├── Исторческое исследование «Кто виноват Две правды одной войны».docx
-│   │   │   │       ├── Проектно-исследовательская работа Герой нашего времени.docx
-│   │   │   │       ├── Проектно-исследовательская работа История развития Кавмивод.docx
-│   │   │   │       ├── Пусть память говорит Окружной конкурс-фестиваль авторских стихотворений Грабовец С.docx
-│   │   │   │       ├── Пусть память говорит Окружной конкурс-фестиваль авторских стихотворений Кленова К.docx
-│   │   │   │       ├── Шаг в науку  Выступление Мозговая Ю.docx
-│   │   │   │       ├── Эссе «Плакат как оружие Искусство, которое вело к Победе».docx
-│   │   │   │       └── Эссе Право служит человеку Коломыц Дарья.docx
-│   │   │   ├── historical
-│   │   │   │   ├── contest
-│   │   │   │   │   └── «Учитель истории Ставрополья - 2026» методическая разработка урока
-│   │   │   │   │       └── Самоанализ урока Музеи-хранители истории.docx
-│   │   │   │   ├── creative
-│   │   │   │   ├── lessons
-│   │   │   │   │   ├── Конспект урока «Ставрополье в годы Великой российской революции и Гражданской войны».docx
-│   │   │   │   │   ├── Конспект урока «Ставропольский край на карте Северного Кавказа».docx
-│   │   │   │   │   ├── Конспект урока «Южный форпост России. Строительство Азово-Моздокской оборонительной линии».docx
-│   │   │   │   │   ├── Методическая разработка урока«Ставропольская крепость как военный форпост стал Вратами Кавказа».docx
-│   │   │   │   │   ├── Рабочий лист 5 кл История СК.docx
-│   │   │   │   │   ├── Рабочий лист 5 кл История СК.pdf
-│   │   │   │   │   ├── Рабочий лист к уроку «Ставрополье в годы Великой Отечественной войны», 7 класс.docx
-│   │   │   │   │   ├── Рабочий лист к уроку «Ставрополье в годы Великой российской революции и Гражданской войны», 7 класс.docx
-│   │   │   │   │   └── Рабочий лист к уроку «Ставрополье — наша малая родина», 5 класс.docx
-│   │   │   │   ├── museum
-│   │   │   │   ├── publications
-│   │   │   │   ├── tests
-│   │   │   │   │   ├── Банкк тестовых заданий по Истории Ставропльского края 7 класс.docx
-│   │   │   │   │   ├── Банк тестовых заданий по Истории СК,  5 класс.docx
-│   │   │   │   │   └── Итоговый контроль,история СК, 6 класс.docx
-│   │   │   │   └── worksheets
-│   │   │   ├── method
-│   │   │   ├── news
-│   │   │   │   ├── День в истории - 4 ноября.docx
-│   │   │   │   └── Календарь знаменательных дат по истории России.docx
-│   │   │   ├── parents
-│   │   │   │   ├── meetings
-│   │   │   │   │   ├── Протокол 4  апрель 2026.docx
-│   │   │   │   │   ├── Протокол род собр 3  13.02.26.docx
-│   │   │   │   │   ├── Пртокол 2,октябрь 2025 г.docx
-│   │   │   │   │   ├── Пртокол ,сентябрь 2026 г.docx
-│   │   │   │   │   └── Родительское собрание, февралть 2025 г.docx
-│   │   │   │   ├── memos
-│   │   │   │   │   ├── Памятка 1 «Как помочь ребёнку учить историю, а не зубрить даты».docx
-│   │   │   │   │   ├── Памятка 2. «Что нужно для успешной сдачи ОГЭЕГЭ по истории».docx
-│   │   │   │   │   ├── Памятка 3. «Как организовать рабочее место и режим подготовки».docx
-│   │   │   │   │   ├── Памятка 4. «Как помочь ребёнку, если он “не любит” историю».docx
-│   │   │   │   │   └── пятиминутки по антитеррору.doc
-│   │   │   │   └── normative
-│   │   │   │       ├── Календарный план ВР ООО 2025-2026 учебный год.doc
-│   │   │   │       ├── Основные нормативно- правовые документы,которые должен знать родитель.docx
-│   │   │   │       ├── План патриотической работы 2025-2026.doc
-│   │   │   │       ├── план профориентационной работы  (1).doc
-│   │   │   │       └── согласие ВсОШ.docx
-│   │   │   └── students
-│   │   │       ├── homework
-│   │   │       ├── links
-│   │   │       │   └── Полезные ссылки для подготовки.docx
-│   │   │       ├── oge-ege
-│   │   │       │   ├── ЕГЭ история,обществознание
-│   │   │       │   │   ├── Важное (компактно) основное содержание курса Обществознание.docx
-│   │   │       │   │   ├── ЕГЭ история таблица для подготовке к заданиям по теме ВОВ.docx
-│   │   │       │   │   ├── Задание 24, ЕГЭ обществознание
-│   │   │       │   │   │   ├── политика.docx
-│   │   │       │   │   │   ├── право.docx
-│   │   │       │   │   │   ├── социальная.docx
-│   │   │       │   │   │   ├── человек и общество.docx
-│   │   │       │   │   │   └── экономика.docx
-│   │   │       │   │   ├── ИС-11 ЕГЭ 2027 КОДИФ.pdf
-│   │   │       │   │   ├── ИС-11 ЕГЭ 2027 СПЕЦ.pdf
-│   │   │       │   │   ├── Материалы для выполнения задания 13 Политика, ЕГЭ
-│   │   │       │   │   │   ├── органы гос власти.docx
-│   │   │       │   │   │   ├── Полномочия органов государственной власти РФ.docx
-│   │   │       │   │   │   └── Предеметы ведения зад 14.docx
-│   │   │       │   │   ├── материалы для подготовки к заданию № 23 ЕГЭ обществознание.docx
-│   │   │       │   │   ├── Методика выполнения заданий повышенной сложности егэ обществознание 2027 г.docx
-│   │   │       │   │   ├── Методика выполнения заданий части 2 по истории в формате ЕГЭ.docx
-│   │   │       │   │   ├── Методика подготовки заданий 17-20 в формате ОГЭ по обществознанию.docx
-│   │   │       │   │   ├── Метод рекомендации по работе с исторической  картой.docx
-│   │   │       │   │   ├── Мето. рекомендации работы со сложными заданиями.docx
-│   │   │       │   │   ├── обществознание демо ЕГЭ 2027.pdf
-│   │   │       │   │   ├── обществознание к ЕГЭ 2027.pdf
-│   │   │       │   │   ├── обществознание спец ЕГЭ 2027.pdf
-│   │   │       │   │   ├── Основные обществоведческие понятия.docx
-│   │   │       │   │   └── Уровни налогов по поступлению в бюджет, задание 7,8.docx
-│   │   │       │   └── ОГЭ история,обществознание
-│   │   │       │       ├── Методические рекомендации по выполнению заданий в формате ОГЭ по истории 2 в 2027 году.docx
-│   │   │       │       ├── ОБ-9 ОГЭ 2027_КОДИФ.pdf
-│   │   │       │       ├── ОБ-9 ОГЭ 2027_СПЕЦ.pdf
-│   │   │       │       ├── Общие рекомендации по подготовке к ГИА  9 класс,обществознание.docx
-│   │   │       │       ├── Общие рекомендации по подготовке к ОГЭ по истории.docx
-│   │   │       │       ├── Рекомендации по выполнению заданий в формате ОГЭ обществознание.docx
-│   │   │       │       ├── Тренировочный вариант по истории,ОГЭ 2027.docx
-│   │   │       │       └── Тренировочный вариант по обществознанию ОГЭ,2026-227 уч.год.docx
-│   │   │       ├── olympiads
-│   │   │       │   ├── Всероссийская олимпиада школьников.docx
-│   │   │       │   ├── Календарный график проведения ВсОШ в 2026-2027 учебном году.pdf
-│   │   │       │   ├── Количество участнико ВсОШ.docx
-│   │   │       │   ├── Конкурс творческих работ моя Россия
-│   │   │       │   │   ├── Гончарова Варвара.docx
-│   │   │       │   │   ├── Грабовец С.docx
-│   │   │       │   │   ├── Процкова.docx
-│   │   │       │   │   ├── Процкова Анастасия.docx
-│   │   │       │   │   ├── Стихотворение Кленова Карина.docx
-│   │   │       │   │   └── творч.работа Процкова А.docx
-│   │   │       │   ├── Конкурсы и олимпиады по предмету Обществознание.docx
-│   │   │       │   ├── Перечень конкурсов по истории.docx
-│   │   │       │   └── Рекомендации по подготовке к олимпиаде по истории.docx
-│   │   │       └── projects
-│   │   │           ├── Защита проекта Парта героя.docx
-│   │   │           ├── Проект Актуальный родитель.docx
-│   │   │           └── рецензия Калмыков.docx
 │   │   └── images
 │   │       ├── album
 │   │       │   ├── 02.05.jpg
@@ -256,17 +120,1077 @@
 │   │       │   └── Краевой автопробег Ах путь дорожка фронтовая май,2026 г.jpg
 │   │       ├── school.jpg
 │   │       └── teacher.jpg
-│   └── students
-│       ├── homework
-│       ├── homework.md
-│       ├── index.md
-│       ├── links.md
-│       ├── oge-ege
-│       ├── oge-ege.md
-│       ├── olympiads
-│       ├── olympiads.md
-│       ├── projects
-│       └── projects.md
+│   └── .vitepress
+│       ├── cache
+│       │   └── deps
+│       │       ├── chunk-6CCHZG4T.js
+│       │       ├── chunk-6CCHZG4T.js.map
+│       │       ├── _metadata.json
+│       │       ├── package.json
+│       │       ├── photoswipe.js
+│       │       ├── photoswipe.js.map
+│       │       ├── photoswipe_lightbox.js
+│       │       ├── photoswipe_lightbox.js.map
+│       │       ├── vitepress___@vue_devtools-api.js
+│       │       ├── vitepress___@vue_devtools-api.js.map
+│       │       ├── vitepress___@vueuse_core.js
+│       │       ├── vitepress___@vueuse_core.js.map
+│       │       ├── vue.js
+│       │       └── vue.js.map
+│       ├── config.mts
+│       ├── dist
+│       │   ├── 02_about
+│       │   │   └── index.html
+│       │   ├── 03_historical
+│       │   │   ├── 0301_overview
+│       │   │   │   └── index.html
+│       │   │   ├── 0302_tests
+│       │   │   │   └── index.html
+│       │   │   ├── 0303_lessons
+│       │   │   │   └── index.html
+│       │   │   ├── 0304_programs
+│       │   │   │   └── index.html
+│       │   │   ├── 0305_creative
+│       │   │   │   └── index.html
+│       │   │   ├── 0306_publications
+│       │   │   │   └── index.html
+│       │   │   └── 0307_method
+│       │   │       └── index.html
+│       │   ├── 04_students
+│       │   │   ├── 0401_overview
+│       │   │   │   └── index.html
+│       │   │   ├── 0402_homework
+│       │   │   │   └── index.html
+│       │   │   ├── 0403_olympiads
+│       │   │   │   └── index.html
+│       │   │   ├── 0404_exams
+│       │   │   │   └── index.html
+│       │   │   ├── 0405_projects
+│       │   │   │   └── index.html
+│       │   │   ├── 0406_links
+│       │   │   │   └── index.html
+│       │   │   └── index.html
+│       │   ├── 05_parents
+│       │   │   ├── 0501_memos
+│       │   │   │   └── index.html
+│       │   │   ├── 0502_meetings
+│       │   │   │   └── index.html
+│       │   │   ├── 0503_normative
+│       │   │   │   ├── content.html
+│       │   │   │   └── index.html
+│       │   │   └── index.html
+│       │   ├── 06_colleagues
+│       │   │   ├── 0601_method
+│       │   │   │   └── index.html
+│       │   │   ├── 0602_mo
+│       │   │   │   └── index.html
+│       │   │   ├── 0603_museum
+│       │   │   │   └── index.html
+│       │   │   ├── 0604_publications
+│       │   │   │   └── index.html
+│       │   │   ├── 0605_links
+│       │   │   │   └── index.html
+│       │   │   └── index.html
+│       │   ├── 07_news
+│       │   │   ├── index.html
+│       │   │   └── this_day_in_history
+│       │   │       └── index.html
+│       │   ├── 08_gallery
+│       │   │   ├── index.html
+│       │   │   └── projects
+│       │   │       ├── content.html
+│       │   │       └── index.html
+│       │   ├── 404.html
+│       │   ├── assets
+│       │   │   ├── 02_about_index.md.BbVKD9Nu.js
+│       │   │   ├── 02_about_index.md.BbVKD9Nu.lean.js
+│       │   │   ├── 03_historical_0301_overview_index.md.CXlIGcuv.js
+│       │   │   ├── 03_historical_0301_overview_index.md.CXlIGcuv.lean.js
+│       │   │   ├── 03_historical_0302_tests_index.md.D4b2UY3M.js
+│       │   │   ├── 03_historical_0302_tests_index.md.D4b2UY3M.lean.js
+│       │   │   ├── 03_historical_0303_lessons_index.md.DBh4XQE-.js
+│       │   │   ├── 03_historical_0303_lessons_index.md.DBh4XQE-.lean.js
+│       │   │   ├── 03_historical_0304_programs_index.md.rYt6noW5.js
+│       │   │   ├── 03_historical_0304_programs_index.md.rYt6noW5.lean.js
+│       │   │   ├── 03_historical_0305_creative_index.md.D0995BPK.js
+│       │   │   ├── 03_historical_0305_creative_index.md.D0995BPK.lean.js
+│       │   │   ├── 03_historical_0306_publications_index.md.C5DsSrB_.js
+│       │   │   ├── 03_historical_0306_publications_index.md.C5DsSrB_.lean.js
+│       │   │   ├── 03_historical_0307_method_index.md.BGE3yQlq.js
+│       │   │   ├── 03_historical_0307_method_index.md.BGE3yQlq.lean.js
+│       │   │   ├── 04_students_0401_overview_index.md.BCd9rDaQ.js
+│       │   │   ├── 04_students_0401_overview_index.md.BCd9rDaQ.lean.js
+│       │   │   ├── 04_students_0402_homework_index.md.BIhok4vF.js
+│       │   │   ├── 04_students_0402_homework_index.md.BIhok4vF.lean.js
+│       │   │   ├── 04_students_0403_olympiads_index.md.saV4_loZ.js
+│       │   │   ├── 04_students_0403_olympiads_index.md.saV4_loZ.lean.js
+│       │   │   ├── 04_students_0404_exams_index.md.EHGBXufq.js
+│       │   │   ├── 04_students_0404_exams_index.md.EHGBXufq.lean.js
+│       │   │   ├── 04_students_0405_projects_index.md.DC0b8a0f.js
+│       │   │   ├── 04_students_0405_projects_index.md.DC0b8a0f.lean.js
+│       │   │   ├── 04_students_0406_links_index.md.CXU5OssG.js
+│       │   │   ├── 04_students_0406_links_index.md.CXU5OssG.lean.js
+│       │   │   ├── 04_students_index.md.DoBG7B8n.js
+│       │   │   ├── 04_students_index.md.DoBG7B8n.lean.js
+│       │   │   ├── 05_parents_0501_memos_index.md.BV_bPN63.js
+│       │   │   ├── 05_parents_0501_memos_index.md.BV_bPN63.lean.js
+│       │   │   ├── 05_parents_0502_meetings_index.md.CQ8Wlpkd.js
+│       │   │   ├── 05_parents_0502_meetings_index.md.CQ8Wlpkd.lean.js
+│       │   │   ├── 05_parents_0503_normative_content.md.DUgCReUY.js
+│       │   │   ├── 05_parents_0503_normative_content.md.DUgCReUY.lean.js
+│       │   │   ├── 05_parents_0503_normative_index.md.q9wVuJTt.js
+│       │   │   ├── 05_parents_0503_normative_index.md.q9wVuJTt.lean.js
+│       │   │   ├── 05_parents_index.md.BLFsbnDS.js
+│       │   │   ├── 05_parents_index.md.BLFsbnDS.lean.js
+│       │   │   ├── 06_colleagues_0601_method_index.md.COeha-U-.js
+│       │   │   ├── 06_colleagues_0601_method_index.md.COeha-U-.lean.js
+│       │   │   ├── 06_colleagues_0602_mo_index.md.j-H5EYd7.js
+│       │   │   ├── 06_colleagues_0602_mo_index.md.j-H5EYd7.lean.js
+│       │   │   ├── 06_colleagues_0603_museum_index.md.Dp3f6e9c.js
+│       │   │   ├── 06_colleagues_0603_museum_index.md.Dp3f6e9c.lean.js
+│       │   │   ├── 06_colleagues_0604_publications_index.md.THCAUPdR.js
+│       │   │   ├── 06_colleagues_0604_publications_index.md.THCAUPdR.lean.js
+│       │   │   ├── 06_colleagues_0605_links_index.md.CY_e6U2c.js
+│       │   │   ├── 06_colleagues_0605_links_index.md.CY_e6U2c.lean.js
+│       │   │   ├── 06_colleagues_index.md.CWfVXK5L.js
+│       │   │   ├── 06_colleagues_index.md.CWfVXK5L.lean.js
+│       │   │   ├── 07_news_index.md.DOJONhOp.js
+│       │   │   ├── 07_news_index.md.DOJONhOp.lean.js
+│       │   │   ├── 07_news_this_day_in_history_index.md.CYMcq2Q4.js
+│       │   │   ├── 07_news_this_day_in_history_index.md.CYMcq2Q4.lean.js
+│       │   │   ├── 08_gallery_index.md.FnuLBpUR.js
+│       │   │   ├── 08_gallery_index.md.FnuLBpUR.lean.js
+│       │   │   ├── 08_gallery_projects_content.md.DU8rgP87.js
+│       │   │   ├── 08_gallery_projects_content.md.DU8rgP87.lean.js
+│       │   │   ├── 08_gallery_projects_index.md.BQ8CIXiq.js
+│       │   │   ├── 08_gallery_projects_index.md.BQ8CIXiq.lean.js
+│       │   │   ├── app.CH6xrULN.js
+│       │   │   ├── chunks
+│       │   │   │   ├── framework.DTPhowZX.js
+│       │   │   │   ├── photoswipe.esm.D2Nf-uDI.js
+│       │   │   │   └── theme.DeG12EFc.js
+│       │   │   ├── index.md.b8mXIEdr.js
+│       │   │   ├── index.md.b8mXIEdr.lean.js
+│       │   │   ├── inter-italic-cyrillic.By2_1cv3.woff2
+│       │   │   ├── inter-italic-cyrillic-ext.r48I6akx.woff2
+│       │   │   ├── inter-italic-greek.DJ8dCoTZ.woff2
+│       │   │   ├── inter-italic-greek-ext.1u6EdAuj.woff2
+│       │   │   ├── inter-italic-latin.C2AdPX0b.woff2
+│       │   │   ├── inter-italic-latin-ext.CN1xVJS-.woff2
+│       │   │   ├── inter-italic-vietnamese.BSbpV94h.woff2
+│       │   │   ├── inter-roman-cyrillic.C5lxZ8CY.woff2
+│       │   │   ├── inter-roman-cyrillic-ext.BBPuwvHQ.woff2
+│       │   │   ├── inter-roman-greek.BBVDIX6e.woff2
+│       │   │   ├── inter-roman-greek-ext.CqjqNYQ-.woff2
+│       │   │   ├── inter-roman-latin.Di8DUHzh.woff2
+│       │   │   ├── inter-roman-latin-ext.4ZJIpNVo.woff2
+│       │   │   ├── inter-roman-vietnamese.BjW4sHH5.woff2
+│       │   │   ├── school.DtSJwxaS.jpg
+│       │   │   └── style.7ZpaocFX.css
+│       │   ├── hashmap.json
+│       │   ├── images
+│       │   │   ├── album
+│       │   │   │   ├── 02.05.jpg
+│       │   │   │   ├── 02.-2.jpg
+│       │   │   │   ├── 04.05.jpg
+│       │   │   │   ├── 05.05.jpg
+│       │   │   │   ├── 06.02.jpg
+│       │   │   │   ├── 06.03.jpg
+│       │   │   │   ├── 07.02.jpg
+│       │   │   │   ├── 07.05.jpg
+│       │   │   │   ├── 10.04.jpg
+│       │   │   │   ├── 13.02.jpg
+│       │   │   │   ├── 14.03.jpg
+│       │   │   │   ├── 18.02.jpg
+│       │   │   │   ├── 18.05.jpg
+│       │   │   │   ├── 18.jpg
+│       │   │   │   ├── 19.jpg
+│       │   │   │   ├── 20.02.jpg
+│       │   │   │   ├── 21.02.2026 г Защита ппроекта Малахов курган.jpg
+│       │   │   │   ├── 24.01.jpg
+│       │   │   │   ├── 27.01.jpg
+│       │   │   │   ├── 27.03.jpg
+│       │   │   │   ├── 27.04.jpg
+│       │   │   │   ├── 3.05.jpg
+│       │   │   │   ├── 3.09.2026.jpg
+│       │   │   │   ├── 6.05.jpg
+│       │   │   │   ├── 9.05.2026 гАкция Бессмертный полк,.jpg
+│       │   │   │   ├── Акция Скажем терроризму нет.jpg
+│       │   │   │   ├── Всероссийская акция Георгиевская лента, апрель 2026 г.jpg
+│       │   │   │   ├── Всероссийский диктант, 08.-9.jpg
+│       │   │   │   ├── День солидарности в борьбе с тероризмом ,3.09.jpg
+│       │   │   │   ├── Квест-игра,посвященная Дню Победы,7.09.jpg
+│       │   │   │   └── Краевой автопробег Ах путь дорожка фронтовая май,2026 г.jpg
+│       │   │   ├── school.jpg
+│       │   │   └── teacher.jpg
+│       │   ├── index.html
+│       │   └── vp-icons.css
+│       └── theme
+│           ├── components
+│           │   ├── AccessibilityToggle.vue
+│           │   └── Gallery.vue
+│           ├── custom.css
+│           ├── index.ts
+│           └── Layout.vue
+├── docs_backup_2026-10-27.zip
+├── .git
+│   ├── branches
+│   ├── COMMIT_EDITMSG
+│   ├── config
+│   ├── description
+│   ├── FETCH_HEAD
+│   ├── HEAD
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   ├── feature
+│   │       │   │   ├── accessibility-toggle
+│   │       │   │   ├── content-lists
+│   │       │   │   ├── content-structure
+│   │       │   │   ├── deploy-pages
+│   │       │   │   ├── init-vitepress
+│   │       │   │   └── vitepress-config
+│   │       │   └── main
+│   │       └── remotes
+│   │           └── origin
+│   │               ├── HEAD
+│   │               └── main
+│   ├── objects
+│   │   ├── 00
+│   │   │   ├── 1c3688f5c9b114cebb6f86a3d0c47c7146045e
+│   │   │   ├── 5b674fe68f07fa824881f5559d118ac11419a5
+│   │   │   └── c90ea0e198527fb5e455022a7132f6ae0769b7
+│   │   ├── 01
+│   │   │   ├── 0613de506b7512f664c2e51c6a33ecf1f518eb
+│   │   │   ├── 18246a463dd793c102e31732dc4b1739004968
+│   │   │   ├── 64ad937321187d0cf9fe302c3e9dd8ebe282ec
+│   │   │   └── 7c75cd71fea8628d39b1acb946fac01522c144
+│   │   ├── 03
+│   │   │   ├── 51f7f177548d908524806858a6b4903181e923
+│   │   │   └── e5826e612fef2ce5452b2f050abdea932f24e6
+│   │   ├── 04
+│   │   │   └── c9fb7c2d5bd7f9cdd65e0a86fce50902bc55c3
+│   │   ├── 05
+│   │   │   └── 2b0aabe394bf8b283075cf0ea0cf44f5aa1eef
+│   │   ├── 06
+│   │   │   ├── 7ec2c9e6a7852c48615c1c794c58de21eed646
+│   │   │   └── a7aea51dc90bae6b8bf41070ecb5e316b88fb5
+│   │   ├── 07
+│   │   │   ├── 6c941191c9ece636078c627eff62f16068d529
+│   │   │   ├── 8e4449753c0d885fc00c300a546e3caa6d9412
+│   │   │   ├── a8ab27cb8f942a64c8f905ac9a353c5ed0ec72
+│   │   │   └── d3c53aef14e7e3aec6b11684395f2833e0b3d5
+│   │   ├── 09
+│   │   │   ├── 32dc17740d3650120088a0263f20fe9bced24d
+│   │   │   └── 6f84f71caf228edf49521276cdc093c9f11c6b
+│   │   ├── 0a
+│   │   │   ├── 42177a7a3d97b1eaf058fee5166dfda4de9ac4
+│   │   │   ├── 8f5ea326a69fb149dda9783cb1e6a8c0967a61
+│   │   │   └── cbdd576030f539c1b58f589aca95e4ea49c71a
+│   │   ├── 0b
+│   │   │   └── 48f0c0e70eae895229c56ef624f7da818cb0b1
+│   │   ├── 0c
+│   │   │   ├── 383b7d835b89afb8988043a754acc563002c00
+│   │   │   ├── 3de2e69f2140fd204ca205bae8058fd82f156b
+│   │   │   ├── 48caf33308d5384195c782cb58725c3e60daf2
+│   │   │   ├── e7b6d44562d6ba09025514931e0f16160778f1
+│   │   │   └── eb41df76494d1842b33b6d1f406a512bdf9bed
+│   │   ├── 0d
+│   │   │   ├── 79fd9406a4b501c3de0f0e5eb1131ee35c94e3
+│   │   │   └── 8ea463116eb20b272335af97c406656d23b0ef
+│   │   ├── 0e
+│   │   │   ├── 3ddb3505a977f7c5d2c388d03b06b870e38072
+│   │   │   └── 9f6334ec424d7d6fd81e2317032e82f1b7245b
+│   │   ├── 0f
+│   │   │   ├── 06901291cf611ec26fafb1fd191b50889607cb
+│   │   │   ├── 258c76b09442c493b3945f05a7533efab371a0
+│   │   │   └── f329fa6ba92712b19fe1c0e5d6e05fd708176f
+│   │   ├── 10
+│   │   │   ├── 6452adb17b1dcba2635c29b20517baee574849
+│   │   │   └── f96e13db83952c7c6e7d838cb204ec16d939cd
+│   │   ├── 11
+│   │   │   ├── 29c95dc401904a2286725a46125aa72613e7dc
+│   │   │   ├── 4c2f8b736c2bbb52d79bcaafa871af78dafe11
+│   │   │   └── be2ca451b72bace4204a1cb54c1f86a563bb9b
+│   │   ├── 12
+│   │   │   ├── 311dbc3be7cfb4434540f2eabd5c070e268f2e
+│   │   │   ├── e41cac6c617b3b8d5f2350254d517db329390b
+│   │   │   └── ea6da2c408a305805fb99aeb612765b2127f4a
+│   │   ├── 13
+│   │   │   ├── 21e38ddcdd83cfddfc1652fff54227b9cd405b
+│   │   │   ├── 2b30fbc84df2a458c2372c1b7d4d6407954d6b
+│   │   │   ├── 4e797150760445ce272cd823ce4f5d0e96df91
+│   │   │   └── 93a1eb9190f0df532211a821dbdef1a2fc9d2f
+│   │   ├── 14
+│   │   │   ├── 27a5241416a27287be6d40deb998d243990511
+│   │   │   └── 6a258cefcda0695e17d2aa3a1708e496e21817
+│   │   ├── 15
+│   │   │   ├── cea65f7b5f38a941eb863a4626de9942c869a1
+│   │   │   └── f0ec97938b411f2d5b2b90ba75ca073ffe1a00
+│   │   ├── 16
+│   │   │   ├── 08aaa7e2e18bd6fc868c0502291ec323e5ae53
+│   │   │   ├── 6aef27caf9d6ed9217cb1d944e475af092207e
+│   │   │   ├── 8009c16f11fd7a50ff852e4b71b4ff9eccce9f
+│   │   │   └── c945f23018b68a0cad6c2a81a4520da60bda23
+│   │   ├── 17
+│   │   │   ├── 61c9f3a20fc6b2090d8fb347696a877b65c577
+│   │   │   ├── 63133f87c56b59add0a1b4e989af7c90397125
+│   │   │   ├── 92edbb53c61b7495831c473144a138deb1a427
+│   │   │   └── f78c79a8af15abe5e238276341396b6be55762
+│   │   ├── 18
+│   │   │   ├── 47815c600650761bea59756a383487ed25fe35
+│   │   │   ├── ad8d290a1c154e04aff532ca41a0e10320a414
+│   │   │   └── f635c03a37125ea291b6fc596fa435056deee2
+│   │   ├── 19
+│   │   │   └── 6bf6219aa912cb0645f3f69e5516e8083afd02
+│   │   ├── 1a
+│   │   │   ├── 4aa44306b8437ff7e87ff21a677ccc7edab92d
+│   │   │   ├── 587206c77b788a5af34f67bf6c552c0d662ee4
+│   │   │   ├── 99b9bfe8f9e8f697464388091570409385f1a1
+│   │   │   └── c9572b4ed4b32a2a61016b75feebe8e83ea8b6
+│   │   ├── 1b
+│   │   │   ├── 13fa2dd42d3b4db5d991f9ad64bfb5862345d9
+│   │   │   ├── 1673d5aeefa0dd3bcf937a825eb23e44600c7c
+│   │   │   └── 5ce335a9684748250f1f26734dc150cd3e29b0
+│   │   ├── 1c
+│   │   │   └── a4c12409b1cadccebd087a43f97ed5a71103a2
+│   │   ├── 1d
+│   │   │   ├── 408ade0d5eeb673d60a2f8fbf2dfc3926b64c5
+│   │   │   └── 4d2ac3df2809f3a390e7047d7a952b45b98012
+│   │   ├── 1e
+│   │   │   ├── 128bbde0264990164394a6fd1d880be54c676d
+│   │   │   ├── c690e211f58bbc8600307e6057f27dd898fd98
+│   │   │   ├── dc294ed4dc8cc38c5e975ad3cf9ccc6470f9f2
+│   │   │   └── ec0775a64a8fffc1fe071d33705646708e47c5
+│   │   ├── 1f
+│   │   │   ├── 5762680c946e1a0efdd39d7fa0a0358784d411
+│   │   │   └── c47deaef7f0186d118931996c7f2865ec03612
+│   │   ├── 20
+│   │   │   └── 3c7034e88a9f9303438d60a70ce35ced3dc769
+│   │   ├── 22
+│   │   │   ├── 10a899edaeb06655f7bc50e7f94444da140b94
+│   │   │   └── dfd67916938ce4dcd0466346e1c2233112d6c9
+│   │   ├── 23
+│   │   │   ├── 2e2183df50026c57f81375dd74895fff61018d
+│   │   │   └── e8bef3a74b0445dec4c655cef5df7e4d224af6
+│   │   ├── 24
+│   │   │   ├── 98198e8cafc7a55eb80e977146a8ba216db941
+│   │   │   ├── a751020a3f57fa01ef127ac6c7d29f0579b7c2
+│   │   │   ├── c199c660f57b92aecd0dce5489d0caa5fe0bbe
+│   │   │   ├── cb3925539b9b660c56e877ba979812901f1d8f
+│   │   │   ├── e0a1a4a924d805829082100865a6f59105e89c
+│   │   │   └── f9d9be6a241f0414926baac5c2bbf3b41de9c0
+│   │   ├── 25
+│   │   │   └── dcaa1fb95b1e57ee6276bd342b46722213b708
+│   │   ├── 26
+│   │   │   ├── 44ef2d2ac01814cef33984eb9e2008fa523d5c
+│   │   │   ├── 55b03f426a4b743db3470b4f78b36c006907f3
+│   │   │   ├── 7e9cea683d26995453790ef35fbf474337e1d9
+│   │   │   └── ae1c3bd29788fc4f00b15097ddf5f92c38f32d
+│   │   ├── 27
+│   │   │   ├── 0752f096a05a00421de9668725e7e4c84e4646
+│   │   │   ├── 7da1854f82e7295711087351bedf2d4416f5a6
+│   │   │   └── c91b52531d937e95c164598ad32b78fd9e7c75
+│   │   ├── 28
+│   │   │   ├── a4aea582a7c36c275d89f6018d58aa8fc583c5
+│   │   │   ├── a7c12b0b7790cc6f3efea05e693eae1b68b9f7
+│   │   │   └── dc690554b648ccf1c5f1e22dfcf3b5455a7c21
+│   │   ├── 29
+│   │   │   ├── 07cbdf7e6984ca7b1a5aa5df78a94cc5f41e16
+│   │   │   ├── 6dda7476326d7a98a1030e268b6d19abeae055
+│   │   │   ├── 9317604e9b1ef9a5e193b4c8b17da1b44c2d98
+│   │   │   └── 9bea1fd5f5d9176dc447744ec469ced0d3337b
+│   │   ├── 2a
+│   │   │   ├── 06e7d057b7575b75be24a879f874da2528a22f
+│   │   │   └── cc6c6a7e2d3ca0ae7cf4ec08adab0c121a487a
+│   │   ├── 2b
+│   │   │   ├── 5689b2fc8b47e43d07e1a52347ec2974874ef6
+│   │   │   └── ed1e85e8b20cb3903206a6cace251c52bdd8c3
+│   │   ├── 2c
+│   │   │   ├── 4237f2fe4df587a1c6660f357e5740954f5b45
+│   │   │   ├── 9437270bada7d9d647f742ca23b4dfa5ea395e
+│   │   │   ├── ad6d5640cddc7af68b6a0963b62d3bc2058c20
+│   │   │   └── fe61536e3c527e01071d8ed03d7d2e56c8d5b0
+│   │   ├── 2d
+│   │   │   ├── 5d89b009e91dd99d399de40803491e4b429bda
+│   │   │   └── b9a7e0dc7a0405801b0fa756fe7913dbaea8d3
+│   │   ├── 2e
+│   │   │   ├── 32fd808410d3ca6b4b04c985d3ca9a5ffb711c
+│   │   │   └── 3f6c297a20b2072260df3ed0ed3deef6c554ca
+│   │   ├── 31
+│   │   │   └── 06ea7865215a3f1485acc39771d10453d0526f
+│   │   ├── 32
+│   │   │   ├── 53f7acc79b50573275dfa7aeba49bf1ac25dcd
+│   │   │   └── a8bf3c7d26afa809a84bcd5636d7765fdb3166
+│   │   ├── 33
+│   │   │   ├── 377e29304b96649a97d3ad6411372f858944c6
+│   │   │   ├── 380b466d1491ce88dc20def145518eadfc4ddc
+│   │   │   ├── 5b57e352131539f6849cf466261f94084ce346
+│   │   │   ├── 64c7ab44939c0b0ecc42f94615649562ebc911
+│   │   │   ├── 6a66e91b22164a748f4e27ee9184959e958030
+│   │   │   └── de9561099a738ea619b40eb9ef0cd07fef72c2
+│   │   ├── 34
+│   │   │   ├── 836040dd766d724b0c5dd8e8bdbdb2057c7ff0
+│   │   │   └── a3bf1e0c90c1550e3a659b802d238624944036
+│   │   ├── 35
+│   │   │   ├── 2536177c9a6ee2950b8e47996d55103d9601ac
+│   │   │   ├── 54aa32f135219f4a6021cf433198ae46d47bda
+│   │   │   ├── 87b08137b4d04b05737269e4d6a66aa91ae7b1
+│   │   │   └── f0a75d1e7673f87cfaa87cb226c05458aad649
+│   │   ├── 36
+│   │   │   ├── 296fe6eb8b70bdeb263899338c62331d62b060
+│   │   │   ├── 4cd6b41b16d74867b9603a2b1dcf0ab4e44a63
+│   │   │   ├── d67487dcf5fbe3dc6d0a6b01cf4d29dc997765
+│   │   │   ├── f1e154b84669ac8b5dfc14acde62ee2cf78361
+│   │   │   └── fb9245eda8f656dbbf0498f6d6b09b72733dee
+│   │   ├── 37
+│   │   │   └── 15767d5fa1f037af4b89e91086226ba2bfceef
+│   │   ├── 38
+│   │   │   └── 131a4d2fdf13ef23f0e3a0f4d0d8244750fe3c
+│   │   ├── 39
+│   │   │   └── 6d2afe43a9f4d5b7f293829ba1a4325f29bab0
+│   │   ├── 3c
+│   │   │   ├── 4fe31bf65fd51f13a6a7e98440833c3eec27f6
+│   │   │   └── 8fed996eb38f3ddbefda87be7ed9c6f26b6e49
+│   │   ├── 3d
+│   │   │   ├── 2bfce8bf8e0bf81edf1840d943458b905b9520
+│   │   │   ├── 644b32a9b9ee8e5c601c73b0e65f603abb25e5
+│   │   │   ├── bc1ca591c0557e35b6004aeba250e6a70b56e3
+│   │   │   └── bc97c0aeb6e2d6d2b294799741482365ae4fb6
+│   │   ├── 3e
+│   │   │   └── 08b8f94e3ad0fa4618195b6118931cfcf236cc
+│   │   ├── 3f
+│   │   │   ├── 2c8174513fe7420ba2bc54f9a9568247eaee3c
+│   │   │   └── a846ccf74ea03acebdd114aad837720b90a76e
+│   │   ├── 40
+│   │   │   └── 07c8e559a093452fdd56b529b8d5c1b8dc3e4a
+│   │   ├── 41
+│   │   │   ├── 01b198e348cc7b6c9a9b267603a83251076b32
+│   │   │   └── c4b5124851b486ac0821a5bd9bc3da2e333514
+│   │   ├── 42
+│   │   │   ├── 557784ad943846ac96b62d210f2e639d627d94
+│   │   │   └── c992676bd2ec25286a98b81137fc7672d3622a
+│   │   ├── 43
+│   │   │   ├── 168fed888bcedbab78604b4384ed3afca7d766
+│   │   │   └── 597b4b270938d577619cd5433fd340406f48d4
+│   │   ├── 44
+│   │   │   └── c7849c96593ed11a6c0d84289af0c09282a0fe
+│   │   ├── 45
+│   │   │   ├── 0f9c05b9ea0fd39307aeab575a6e8de50f152a
+│   │   │   ├── 1d1da89aa80f864dcec3eb3136885c32a6167a
+│   │   │   ├── 39906cebce8cea6c02c48a4da95e8b33ce8bfc
+│   │   │   ├── a69f08975f258a30d139a6a3de3e4a64649dc6
+│   │   │   └── d0f977937433ea25a403b34251d75e9eb2df17
+│   │   ├── 46
+│   │   │   ├── 926dc492d6d5b7a65b34ec14a566a1aeb031f3
+│   │   │   ├── bc535a67737e3fc71524106e8177d944fc2184
+│   │   │   └── e99a768dca12d86c00370edfe2266c68d6ff3f
+│   │   ├── 47
+│   │   │   ├── 42d87bc5311f4e8435d432a39224f48974fc6f
+│   │   │   ├── 4cb3231e6fe23441abe447a3dd7c7beb2711f7
+│   │   │   ├── 7330abf7687f6250c6d5e4637e85d4b3a68aae
+│   │   │   ├── 8de78037711aa9e35b7203354ce0891f68b158
+│   │   │   └── cb7d7d6d1e445a1d0638c05ded81547d19eaf3
+│   │   ├── 48
+│   │   │   ├── 78901ed6194ccf0a60960d93764c38c789d294
+│   │   │   └── fc4397c643e91ce9b2d6adcd0bf28f6ad491c8
+│   │   ├── 49
+│   │   │   └── 02964c7b7a7a9dcf03ba43404537aad6ab8861
+│   │   ├── 4a
+│   │   │   └── 5c3531c514946c72e691ab5e7496d37e8266cc
+│   │   ├── 4b
+│   │   │   ├── 04d6dfa84a278f213c858377219c339f32f45b
+│   │   │   ├── 5e9521030b03331fbe80b233152858a4dc2a2a
+│   │   │   └── c307ebcf4d757c03519736355b90d51120aede
+│   │   ├── 4c
+│   │   │   ├── 2c2dd1ab6fba9920bd4abc896a4db1889b27a1
+│   │   │   ├── 880170b1a8e48df60b0380c0d84425dfd9bc3a
+│   │   │   └── 9eb4a837955a167e8e7e56ed1c6e7894a6ff0b
+│   │   ├── 4d
+│   │   │   ├── 83e5db00d7fe0e4fb7b48fbb1de84f1adeb28f
+│   │   │   └── dd6f2fd6659cd518670627e67242ee6c77228a
+│   │   ├── 4e
+│   │   │   ├── 7640bffb1a2ce940924dced741ef62f19d8998
+│   │   │   └── cce0f73f0b09253899618eacfad4d6e91ec218
+│   │   ├── 4f
+│   │   │   ├── 17c7088c05ab399de1ab398cfb57b4308e7028
+│   │   │   ├── 5997bfafbe37c1e0dff5cce94eca3079d2a524
+│   │   │   ├── 97c552c6f3687fd66935d936f9f9d79ca135ca
+│   │   │   └── e8924dc67ecbbb1dc1a22aa573e3a16f1255e7
+│   │   ├── 50
+│   │   │   ├── 781794a915c6161a8e5ef0e3be6e1643ddd400
+│   │   │   └── d04df2fdce537960a248aa44193ec38a5d281c
+│   │   ├── 51
+│   │   │   ├── 58fdf95b22d12ec9d50d502003d65b51b03b91
+│   │   │   ├── a8db9af95677fadb18708095882f2fde2a023b
+│   │   │   ├── af7b1d1a4a54e2ae3f33633eac3d171c81234c
+│   │   │   └── c3a5913a47ac0fb2f786a99d98dd225611f460
+│   │   ├── 52
+│   │   │   └── 49f31c0d6dc2184882b046b3132017cf2de6bd
+│   │   ├── 53
+│   │   │   └── 98554beea6af7307dad671cd31bbd279859c26
+│   │   ├── 54
+│   │   │   └── 9b43da567bc4d6e117febc8e1bce8179220b09
+│   │   ├── 55
+│   │   │   ├── 18062de43a8433fab3d49b94473540490a8620
+│   │   │   ├── 27afef6ab9620a74089ea52141483ce3e3d534
+│   │   │   └── d4c8129dbe241989eb24fcd3e0e8f9bfdacce4
+│   │   ├── 56
+│   │   │   ├── 6af3d0e5c85c8fbdee1bfee6144de6bf37a67d
+│   │   │   ├── 6eed5a80acd56eb22f3a67ebe616508300f85b
+│   │   │   └── d71ef278a8aa30a77d9c39d5311b5e17cf12b4
+│   │   ├── 57
+│   │   │   ├── 0650e2875b3b8267fd1273801da3ab4c8c5c57
+│   │   │   ├── 3f3a4850d2d5eea19778d4fba554dc13ec0d66
+│   │   │   └── bdc22ae88555c6217307e4064a642f83d642b1
+│   │   ├── 58
+│   │   │   ├── 79fd37c38d9779d54de2ea47868bd711bb15a7
+│   │   │   ├── b577ba071727b1bdd649bc3f3293d650b32137
+│   │   │   └── e206f532c7f7b741064d0e227a0c4d3a194b99
+│   │   ├── 59
+│   │   │   ├── 158df9c4efd27bc9c3d1ab0b41db6734576c24
+│   │   │   ├── 71d3e87ce3a99263ee168665478058583f85d1
+│   │   │   └── b804c80e4366e589cdc6cc96cf006c81af9a63
+│   │   ├── 5a
+│   │   │   ├── 7d062f40c10ae7839ac5c934537093666acc8b
+│   │   │   └── ac377825053af88d0d0a383b99cf4aa22f772b
+│   │   ├── 5b
+│   │   │   ├── 1350a918b9c50b065bf6ea7efa697cc5563d57
+│   │   │   ├── 30ecdf1359d507609e6c95a2883d037515ebee
+│   │   │   ├── 58780883f35fa8d43da4588cee02ed1dc546e9
+│   │   │   └── e081f2b8082ecf49ad6fc32adcd53effe298c6
+│   │   ├── 5d
+│   │   │   └── dd060af9749d697e7a01c5b9e50c94855f9c2e
+│   │   ├── 5e
+│   │   │   └── 4506bb816e7df0696bd9e83dd4f597df81f23d
+│   │   ├── 5f
+│   │   │   └── 6fff60c662fe24836c55baba67acecf7fae862
+│   │   ├── 60
+│   │   │   └── 9ac5680f9433e9a3e6c45a748d103cef4e65b4
+│   │   ├── 61
+│   │   │   ├── 8f125038c29a455398283c8069e11ea9dbad01
+│   │   │   └── b025f7cafa8e2ff047081b6862644befa83398
+│   │   ├── 63
+│   │   │   ├── 2d491e0178f4a9f21ee2555de388b8252da92a
+│   │   │   ├── 4c7b6bc28fb6db7a3ac6967b380f7801c0fc1b
+│   │   │   ├── 57144820470e9d8791a6f131025eb0e0169579
+│   │   │   ├── 5aa5897f2db0ddc2ad80f50a1f570156d54309
+│   │   │   └── fe7f6df4b28f0da62a637c5949325fb63383b0
+│   │   ├── 64
+│   │   │   ├── 5863d73e9c8be2a934942da43c4619d0e33960
+│   │   │   ├── 5fdf22ae1bac5b48479a9f8bfbcfa3cf8bfc1f
+│   │   │   └── aea30e7c0c25a300edb54165805a145df0a76b
+│   │   ├── 67
+│   │   │   ├── 6cbc832cdbe56a8ae8deef72bb1fb95773c792
+│   │   │   ├── 818c8330df02d5d74f24d2901138c54d78bb20
+│   │   │   └── c4e8b26f1a854b6f496ee221355bda742957fa
+│   │   ├── 68
+│   │   │   ├── b0672099799a6f12aa5290dca2120974374c9a
+│   │   │   └── ec038e396a17291951bc6e804c135c69c42e7a
+│   │   ├── 69
+│   │   │   └── 5ff8a2655adf3c976e7e70ba9c716b07f09afe
+│   │   ├── 6a
+│   │   │   ├── 4a4a72b4d57b05f771b2a7ef877dc5462a7e07
+│   │   │   └── b8e3b087481a80ab6fc51474dfbb863ecff0d4
+│   │   ├── 6b
+│   │   │   ├── 38ae1e05a619d8d576164cd8e79a0aa17af171
+│   │   │   ├── 522a7247015fab8e82546cf909f5d8f33b9480
+│   │   │   ├── 8969b28a1bb7c5c46b35b5022e006e531eb642
+│   │   │   └── e4d333de90e556c8bfc5fb18889197720c0833
+│   │   ├── 6c
+│   │   │   ├── e11a3fb6597ecad6ecc3c64b18ad90ada00702
+│   │   │   └── edfd051b97694600b7fce58039aab4df7ea8dc
+│   │   ├── 6e
+│   │   │   ├── 1b77fdb537711345adb734d393311ddc7d02e5
+│   │   │   └── 235fade5d0d7e2ac64295bb7f5f1ff8753dab8
+│   │   ├── 71
+│   │   │   └── 949d9f4e0d71648438e2730d3587852c2333ff
+│   │   ├── 72
+│   │   │   ├── 3a2b3edf67c3a85e7cff84b5932a6c49974c2b
+│   │   │   └── 4b489a828be1c3652208c9ce2072e5d26b90a4
+│   │   ├── 73
+│   │   │   ├── 4bf5d530d9bd5b37bfc43f304250ec1d5ff662
+│   │   │   └── 98262fc5d0c9cc415ec59bdee6a6eb6e74eebb
+│   │   ├── 74
+│   │   │   ├── 3eeb9a392a56d3eb3130fe9c3136b8d740fd2d
+│   │   │   ├── 56eb3eb1e9a1ed2b59dc4c1340ac0d123397af
+│   │   │   └── ad96d679118f266b0e351ef6abb02b82a725cd
+│   │   ├── 75
+│   │   │   ├── 1378376949074c3ae082fdf9284f788f66f32e
+│   │   │   ├── 8949e0d4c944e2c16624d11c21d78d77fbfd95
+│   │   │   └── bee8cc33e52b09f702c899a44c8ae30f42f96b
+│   │   ├── 76
+│   │   │   ├── 2e7c554da9e932805a71a248897da0d21dbf23
+│   │   │   ├── 95e2cbcc5db867705426a3ace1eacad70f0574
+│   │   │   ├── d0376c62cdf6e67a3c38405d892728901df23c
+│   │   │   └── e4058d3c60bca61e953e3d5be47e922712dd18
+│   │   ├── 78
+│   │   │   └── 21aa32d230e76c31e760ae8f80c095fd0464ca
+│   │   ├── 79
+│   │   │   ├── 0d62dc7ba719231f86afaf50988bf0f3705a5f
+│   │   │   ├── 1f5aa27574ca0d1771e41d2dfdbbc7bf999399
+│   │   │   ├── 4547bf92aa8b0594bf12d5a03bf452582f3170
+│   │   │   ├── 74a2c4a19a8bdee9564b996768d92521040f46
+│   │   │   └── 88e17d6933128531c233966e9e6e00f992f443
+│   │   ├── 7a
+│   │   │   ├── 42280d7fc032ac3ed9ea44aeba4321e3cb8f60
+│   │   │   ├── 859383a7bf298def1eb8eb5e1268f3ca60201e
+│   │   │   └── ba5a0cb231279dc00076634670f18121914fa2
+│   │   ├── 7b
+│   │   │   ├── 1cb88ae181863267c51891407c7786766fcfcb
+│   │   │   └── 4ffcf0d6418d5214698c99e039e542163d0434
+│   │   ├── 7c
+│   │   │   ├── 14a2deeb9186ae8f15d04c47052c6f127b51b4
+│   │   │   ├── 17d1e8a9e1e8d216db43d43d600a337e185e35
+│   │   │   ├── 1fa102a8fda000fb9125f44a04b791c59efaf4
+│   │   │   └── 474efdb4f2c46c03d8756d6b52b70ae118a24e
+│   │   ├── 7d
+│   │   │   ├── 343293099ce5a4b808113e18f4939a8ce7457f
+│   │   │   └── fa67514750d1a9b57f5b8912169b25196e1321
+│   │   ├── 7e
+│   │   │   └── 7c1cdaa929e9ffa542e2786e7c0bc2dbc70db6
+│   │   ├── 7f
+│   │   │   └── 07d79048f28297ff1bbb53ce3f20f8a34daeae
+│   │   ├── 80
+│   │   │   ├── 3095cc71fa5078f247d43f2098884aace02d10
+│   │   │   ├── 31ecf219cfef9928c40ea37c920bfd003d6b1d
+│   │   │   └── e4fd59849e19d1dac522f96f911ebad0bac4f8
+│   │   ├── 81
+│   │   │   └── 62d881048f405b717f3ff3cd4fed6703661715
+│   │   ├── 82
+│   │   │   └── 61b5fe7457e9af1b221779deefcd5635101d42
+│   │   ├── 83
+│   │   │   └── f33fdb9efb3f7fcfbe1e36d77e707adb90db07
+│   │   ├── 84
+│   │   │   ├── 1996d80be15f31b2ef662deaf4cc84a8af6fec
+│   │   │   └── a801f5dd5318177e02a6889540ff430b140a17
+│   │   ├── 85
+│   │   │   ├── 09ef5fcc72801490eebb86066be64ab160d118
+│   │   │   ├── f1eadb939d1933fc91c0be807f964d127f65cc
+│   │   │   └── f828b80a4d879d44f169158e19f04d9e80e524
+│   │   ├── 86
+│   │   │   ├── 346163fdf84d5aedcae25ed75b2f5dda02995a
+│   │   │   ├── 8574b0b219afcffd3f74176c7599dd35ca5264
+│   │   │   └── 9ba17bd623ab73357fcadc38a7c0a1c0ea2bfe
+│   │   ├── 87
+│   │   │   ├── 30d796715f3f38ac3ec2f96b9284b09b3488dc
+│   │   │   └── 8acd2cb4f21f6b48896e83a7322d73e81e805f
+│   │   ├── 88
+│   │   │   └── dfd110091c1fb613869e31112266aa761cd6a3
+│   │   ├── 8b
+│   │   │   └── 21afb2608a9c8ec41e449f45a73f1948c24ce7
+│   │   ├── 8c
+│   │   │   ├── 3f215b9fd2b233d2b790f1c69ab34896d6b30a
+│   │   │   ├── 6e2044621be934452e99ff306e9aebd304a089
+│   │   │   └── 8c454df3a32ff92d531f11d598bc5dc1932e48
+│   │   ├── 8d
+│   │   │   ├── 625ba89a24813ca956a3ffdbaf3f95b8aea2db
+│   │   │   └── 83f5d96970d52e158c0e4136ca142a69692688
+│   │   ├── 8e
+│   │   │   └── df5110858992d2b215cf0a5e83c659f487118e
+│   │   ├── 8f
+│   │   │   ├── 86dc6632954b85c51b83490ebe3f7e9dd35a5a
+│   │   │   └── db2263f3690b8e96b1b2cdff4ff82c06f5a698
+│   │   ├── 90
+│   │   │   ├── 38a0c0dd6e6f9747f1174d05a308cffaee1f4b
+│   │   │   └── e3916c24f97a120f1f1c2718ec9ce33f9cdbd3
+│   │   ├── 91
+│   │   │   ├── 6c9b08de5dcfb40a46f2e2d325d6512e56d205
+│   │   │   ├── 91079b3d662ee0f822c2de34bf58a2ecc0d9a9
+│   │   │   ├── 93440ab0617a6a68e60a2b2f4f58ee8ebd5263
+│   │   │   ├── 939177995f05a007196ac6a6af8fb9aa39b4a2
+│   │   │   └── a898468ff7ce0af9876b2cf4cd1a5f83fd191a
+│   │   ├── 92
+│   │   │   ├── 6254f54c3924a22215bc262198231873534e2b
+│   │   │   ├── a5e97d4c7b8474027e437020a5a484f27deec8
+│   │   │   ├── b7810b792162a2cb5cba585da1a46de07ea881
+│   │   │   ├── be23510f9ed39b3927ecde53847c1e95009d88
+│   │   │   └── e2dcaa024c23ec630141255d6cdeed77172536
+│   │   ├── 94
+│   │   │   ├── 0af11e122fcb0cd0ba5dee18a50c8145fa03fc
+│   │   │   └── 6de9b640b399ca9137a5a70bd936ceec12b5ec
+│   │   ├── 95
+│   │   │   ├── 3034bf3056188671139bbc0db63c6019e38280
+│   │   │   ├── 3ec3b527fa17e2606deb0ccff068b67fb8eaaf
+│   │   │   └── df5670c39ff268d38e54fac97ce94dfe934262
+│   │   ├── 97
+│   │   │   └── f7afc1ce96794561abbdc3b7d4a75ec08010a4
+│   │   ├── 98
+│   │   │   └── 652118b6862120fb1a693020ad8654fe85851d
+│   │   ├── 99
+│   │   │   ├── 0caf165266df43afa12eb5c39e36c9db2cfc53
+│   │   │   ├── 632f7ecb9e12579c036c27336a1da0959b183b
+│   │   │   ├── 876288e09be622ab6defbcb04db8e6bbc85e59
+│   │   │   └── ee6249ffa6a44ae206d9981a99a115e9032b08
+│   │   ├── 9a
+│   │   │   ├── 043b2ea550cebea41a6387959e6934ce54ff61
+│   │   │   ├── 8d1e2b5ef22b97801781478d477685dd6119f3
+│   │   │   ├── f7f07f5c6069427c2712c01b2f3ff4e81a5aae
+│   │   │   └── f89238453d40bcfeaf99a66b1c8008a40f45a9
+│   │   ├── 9b
+│   │   │   └── 8b4d36e224211976843fc0ba1adf4134e1a87f
+│   │   ├── 9c
+│   │   │   ├── 8044c74dcc446195e5fc3d16108c7cbbf9bb76
+│   │   │   ├── a4231eb56aefe59e56832c45d608f82af86637
+│   │   │   ├── a9aa6671d68e80d6a389ca563200b91e070f49
+│   │   │   └── d62c82696ebe0ba3df683070781ec494ac80fe
+│   │   ├── 9d
+│   │   │   ├── f17f43fcce186802b7266d6f1761c74b8685e7
+│   │   │   └── f89111209b9e596bc4cf02d4ded266118405bc
+│   │   ├── 9e
+│   │   │   ├── f327dcac6bfb2397e095a013ddde4ceb2d6f79
+│   │   │   └── fe5fc6c2a23a8f5fc9a9448c85f811f1512761
+│   │   ├── 9f
+│   │   │   └── 88acce814e738b69b6f4541503a62050503ed4
+│   │   ├── a1
+│   │   │   ├── 22126fba76d3f0870b4e29f96d8b9bbf3eb95b
+│   │   │   └── 750761a87e33eaad399f2508db83ad762dc0cc
+│   │   ├── a2
+│   │   │   └── 64776e294a9946490bf30e739697a75e51577f
+│   │   ├── a3
+│   │   │   ├── 6c6007ba797bdd350461ae29e0e38666c47a93
+│   │   │   ├── c16ca40b2a8f454c34cfa91996ec99ae2e4aa0
+│   │   │   └── f282a488b99bb47f1ed526019747ab0e784a42
+│   │   ├── a5
+│   │   │   ├── 547bb49349d35f431351643d961d5298b38f45
+│   │   │   └── ca13f641321bc4c39f5fc167dae8648d197b0b
+│   │   ├── a6
+│   │   │   ├── 476cce72ee43b87d27ff78cadd8d388022eb39
+│   │   │   ├── 5038cdb822494063f1adfa205185450bce1142
+│   │   │   ├── 915d72208c0b9e38f2b7d314b29376dd48f39b
+│   │   │   ├── d878d7504382451e3f4914f1be5e97687032dc
+│   │   │   └── f806d845956b05098982f281575160b1806c22
+│   │   ├── a7
+│   │   │   ├── a04e7f0c506e2e247b43d47a657dcbf7bc3178
+│   │   │   └── d4866e6e901b63818e62865445c6547d82365a
+│   │   ├── a8
+│   │   │   ├── 2044ef6792d77a4f20c323b6cab77dc941c21a
+│   │   │   ├── 5513d5f558f701872859134a753817b629270f
+│   │   │   ├── 62eb8e25d4eeec08fc6f2fe4d8e3c43caf9acb
+│   │   │   ├── 896e7319e3ab653991a121938de7a19f0f0bed
+│   │   │   └── fcaca3add7615a375524100c06b2f2c8a1b5e9
+│   │   ├── a9
+│   │   │   ├── 20969075f3c110e18ebbfa9503ea588b2bd700
+│   │   │   ├── 255d8c6275a118a1490cb680894ad91c786bed
+│   │   │   ├── 436571be0b6f4cb7f58bd48880a761be3ac7bf
+│   │   │   └── ba175d6feb48aa145dc2424b3b43fa084735ee
+│   │   ├── aa
+│   │   │   └── dc61cb61090405bb6633f64769299fe60e1426
+│   │   ├── ab
+│   │   │   ├── 9b10021b2a32240df930a57d378c91e3cd9fa0
+│   │   │   └── f5fc891ec47e4173b441956f82c64ac4f7e831
+│   │   ├── ac
+│   │   │   ├── 732c4d8cd2c9e6c1171e5198d45648c1544d57
+│   │   │   ├── 75065ce70a697ffbb7861c85f101574303a32e
+│   │   │   └── bcfe7f6206376bbb179c052d167e69aaab38cd
+│   │   ├── ad
+│   │   │   └── 8a65998e603e00dc7ecb7689bf005a5ba1ea1e
+│   │   ├── ae
+│   │   │   └── a97c1be7ccc578f0604792d646512bd74201ce
+│   │   ├── b0
+│   │   │   ├── 9bf7d0789bfea936926735273354ad7ef99192
+│   │   │   └── e72424de87144975bf7a4a93d01c8711e5083d
+│   │   ├── b1
+│   │   │   ├── 56b1913cdda64387d993783b8c67a8901e0bb3
+│   │   │   └── e113c5030538957e18271f23685bc82ff56b3c
+│   │   ├── b2
+│   │   │   ├── 4f658cdfdd2775f7595e52681915f5305650e5
+│   │   │   ├── 6d7ed736141adbc39fbb862954498baea8e615
+│   │   │   └── 767b0b79529e2b2c492228db13ac839cc2a1e8
+│   │   ├── b3
+│   │   │   ├── 4066423ee145cff3510010af4e4cf76b104256
+│   │   │   └── a2af4a41663f871cb78c67efc486367aa8e4a6
+│   │   ├── b4
+│   │   │   └── a10c3560983f2386b659bfa21bd4efcf5457c2
+│   │   ├── b6
+│   │   │   ├── 988334f42e76f6cf8a9c6ee35e4e8caf9a0f11
+│   │   │   ├── b603d596933f026dfecf98550bbe4d0876276b
+│   │   │   ├── d5dc4f882844dba6b280f24463dc1caaefd56e
+│   │   │   └── f829dceec07f5329925d6d5bbc3775dcf48586
+│   │   ├── b7
+│   │   │   ├── 25622fe57c911b36927744aaa754fbf5dc5642
+│   │   │   └── e5ec6e438dd60bce04fbc94d1a9ddc62f5eecf
+│   │   ├── b8
+│   │   │   ├── 1d8b45bec829a48e88c182ecef520fbf69c2b1
+│   │   │   ├── b68189d6ad8d70a2918829ba68c62622037e58
+│   │   │   └── fa4544ba2c587fa024dba055e5e44acecf653d
+│   │   ├── b9
+│   │   │   └── 6a4cdd9d586efea87e0295669ba667ea79bce8
+│   │   ├── ba
+│   │   │   ├── 0307ea1a18f91fc20cb506921186c256d1b721
+│   │   │   ├── 22f64ee0f47d6b00b974994859f8a75e1a84dc
+│   │   │   └── e25960462b3f0508ddaf17675e9c927e23a9e7
+│   │   ├── bb
+│   │   │   ├── 5d2c65f1bdbcf34d22fe8975b08dc7d4601eab
+│   │   │   └── 7b99f1aa31118f2dd2cfabe13cac5f2979afe1
+│   │   ├── bc
+│   │   │   └── e6ea08f7fff1c0a047ccd43a6a02d1518751b8
+│   │   ├── bd
+│   │   │   ├── 0af1f55ce7a5491fee67862d3c916483059261
+│   │   │   ├── 0c4758745f8a3be3752e69be79c1869a34592b
+│   │   │   └── 8a1031f9c9e9a6f96508f4f17012f2b794c4f6
+│   │   ├── be
+│   │   │   ├── 0f40cb9dce102568422339f8cc6c50cb01b79c
+│   │   │   └── 2b45e5127f8fc6fbd0beaca6b5fa045921409a
+│   │   ├── bf
+│   │   │   ├── d5159c5d7e8c7e095710f2b4472f0df1c5da12
+│   │   │   └── dc26645f99d8898a0b65e4d2ba1f8281eac9b3
+│   │   ├── c0
+│   │   │   ├── 40738811c95b46b3782783ca61d0551ac1e631
+│   │   │   └── fc797b405879a4a46975bb5dd1e02db0d7857e
+│   │   ├── c1
+│   │   │   ├── b823346ffe43dd09d8136001ee474db88d30b6
+│   │   │   └── f3493bf120da4c10ba888ea8becc253f5e9ed6
+│   │   ├── c2
+│   │   │   ├── 2b613aa024af55d8fb5b8927a232ca35901dd6
+│   │   │   └── ae5c509d9ffa355abea4abc83fbe1b6502874e
+│   │   ├── c3
+│   │   │   ├── 4cc9df53b98c245856cbec516d7e51aeb4f9e3
+│   │   │   └── 97c4c748f4b0bb4cb1347609e8e4d0bce4049e
+│   │   ├── c4
+│   │   │   ├── 8cfa0864ed7b9356fa3902737058a66bb6c368
+│   │   │   └── bcb23c4ac1a0c3317091c56610b23ec9635ffc
+│   │   ├── c5
+│   │   │   ├── 102ce49a059bc62923a6c513ce8f4b4f460ddf
+│   │   │   ├── c6f9db5c2c04111c6039001f1d50addcf03fed
+│   │   │   └── fe30bf8d7cd48cbacf055137d1a72a63771715
+│   │   ├── c6
+│   │   │   ├── 6da756e0509af24e04053f358193e8412470d3
+│   │   │   ├── cd7cf892f1084c9902d4bcda76551407c6fd32
+│   │   │   ├── d306ad91567da0bb0da518dc1ff0aeab0d5c08
+│   │   │   ├── e635c798e3e149aab0640a74e5e1f44f0e45e7
+│   │   │   └── fa652b5020de044ef0cab7f56833578904167a
+│   │   ├── c7
+│   │   │   ├── 029b27079b42189edae9a28825103e0e5ff3e0
+│   │   │   ├── 5cf36cc3a3d004818b25d404cbb7a1bf6f8d2d
+│   │   │   └── 6b142662ae23772cef63b62bed7608af6ebf4e
+│   │   ├── c8
+│   │   │   └── 396f565cd5c5df56476c1788f265a04ff9c724
+│   │   ├── c9
+│   │   │   ├── 13ae436e7ef0b31726b8eab9762994b25bf8ea
+│   │   │   └── f4ebbb5f513332a80dedef5f33805b6a3df6b8
+│   │   ├── ca
+│   │   │   ├── f43de6e68d309d06ff0b5d45cd54439a27be37
+│   │   │   └── f7fb90aaa86b9283d3098d3ada526eee0159cd
+│   │   ├── cb
+│   │   │   ├── ba4050595490b5c9ea0b12056810e59a1743ab
+│   │   │   └── cd0d8c104e245161857d944381b1f1bee96fce
+│   │   ├── cc
+│   │   │   └── c70748d9b910adbc4ef2cda52fc04dab1449ed
+│   │   ├── cd
+│   │   │   ├── 2f254a3649b2ed5f90ae69e2bf1f0dba177bcc
+│   │   │   ├── 751807f6f4694d2a4db31bae7f9faff0a3e5e9
+│   │   │   └── 91bab36739dc03c6c58f1681596dbb7439c742
+│   │   ├── ce
+│   │   │   ├── 43b2459ef863d1efd0593c242559bf5114c80a
+│   │   │   ├── b791ff4ab1ba081d8140bb4dda3f2825044edc
+│   │   │   └── d14885bcb8c36fb60856d9e55bc86b85816088
+│   │   ├── cf
+│   │   │   ├── 7f16d0620ffc2dcebd33d8700b0ba4017314fb
+│   │   │   └── a2fafa421bc4fc7d95b9dd54a381439b05d20b
+│   │   ├── d0
+│   │   │   ├── 2d2c209f533bddc0c45f9f7796edac745cfdfe
+│   │   │   └── 4e1f3a5b4bca349249ea07df2bc614c8cac670
+│   │   ├── d1
+│   │   │   ├── 4284d4e99de1b59ce6da76cd0e7d83a9ac4648
+│   │   │   ├── 56e99ac1b931e6cf2ead41cf2121b2f8caa6f0
+│   │   │   ├── 937046c9d0f7bdb91b7014cde7af9d56658cb0
+│   │   │   └── a9b7c57e8b770b235629704587155deb94f07c
+│   │   ├── d2
+│   │   │   └── 77bf71f8669a72e4652806055d60e853af93d2
+│   │   ├── d3
+│   │   │   ├── 40206d0b13e7855156e1b2815deba52071ccb1
+│   │   │   └── e4a7f5215e40c39c2fce2577143ebaee60713a
+│   │   ├── d4
+│   │   │   ├── f6a99e42775149329ff2215d5693ab7b906511
+│   │   │   └── f716bd733d643853b9a268eac088b9e0395dd7
+│   │   ├── d5
+│   │   │   ├── 171b257cec2436f32867a9354309737f5504c5
+│   │   │   ├── 54d18f109f52ae37d4003d2497fa79e845c505
+│   │   │   └── ae889de0615b88481d727aa5b0b2ce939c271c
+│   │   ├── d6
+│   │   │   ├── 14732a573fa85ebb8a4963eeeeea99b408b929
+│   │   │   └── 9d46e04b5d837952bcb89959bde104a60c2c91
+│   │   ├── d7
+│   │   │   ├── 015185407fb7fec9de65e29fd9f7496c691fcd
+│   │   │   ├── 9b0400f62fec5491f6facf950d26c9f3b9ad2f
+│   │   │   └── a60c2de6b441a42a7fe7d0c6d96742a0608463
+│   │   ├── d8
+│   │   │   ├── 137886f592e47411ca5396b5563e37b6f5651f
+│   │   │   ├── a48d97e6ec2767b651685a7d9db69e8c17a7ca
+│   │   │   └── cd8ac7bf7cc256e73ab29128ae778d98881503
+│   │   ├── d9
+│   │   │   ├── 77edc5c13304d0a85d0fb3073cf88216840d04
+│   │   │   └── d0c275810477162a7eeb35403650d27be73433
+│   │   ├── da
+│   │   │   └── 1b0c2e1bb5c11bbf9473918fc35fcad8957802
+│   │   ├── db
+│   │   │   ├── 34b9ee58aa59bda314c543b21aa6c6fc8ce191
+│   │   │   ├── 37c1b0a8afd479f45d719412caaac231d4d1a5
+│   │   │   ├── b3c45ebdbd2d68e34acc8c39a46f07ddae54ad
+│   │   │   ├── e27aeb742411cf75e00b775683a311cf465a0a
+│   │   │   ├── e4f63f3eaf0b7f8161e0a57df898215cd386fb
+│   │   │   └── fdd8b33a488ad73a381f596aa3c59584c8df62
+│   │   ├── dc
+│   │   │   └── 30f31d8d3cd93639eef6fb618ac9a726f94ad0
+│   │   ├── dd
+│   │   │   └── 8cb436325dbb4e1ad993cc1d4675a98667a69c
+│   │   ├── de
+│   │   │   ├── 85f2094d624c79f9e2f5d587925ea015a57206
+│   │   │   ├── a407455059071539462b5a1ad1ccad28ecabe8
+│   │   │   ├── f0045a04c894762532bce0ef1de30b1d11e485
+│   │   │   └── f40a4f658cf8a9f7029c98931f5c9ff5a00910
+│   │   ├── df
+│   │   │   ├── 47c18394333b76e877c8dfdce4abd4bd4e587c
+│   │   │   ├── a51db835db6af602c470f6295309511ad81be2
+│   │   │   └── d51834955855882b51627ed5d1a1918f9ba2ee
+│   │   ├── e0
+│   │   │   ├── 70c3d30975e9f8d664ef36862a67f198ebb392
+│   │   │   ├── 8dbeb5fca981d840a4bcbd74b768b58926440f
+│   │   │   └── b3771386f4fbe78c94580192d77123d1237849
+│   │   ├── e1
+│   │   │   ├── 334a869c52f2261a393587f764c137b6f4cba3
+│   │   │   └── cfd2af03fcf8905030c93654f913ff6500f4d7
+│   │   ├── e2
+│   │   │   ├── 5c0e137adf0f8d5d12480871509887333bb47a
+│   │   │   ├── 96c0a8ad1d1f2988ab2161bd977131e741ea72
+│   │   │   ├── edcc20514439befe7b490cc2f911a56900be54
+│   │   │   └── f4565f6da49a2ff1c0c2ae32c25131b87b3d47
+│   │   ├── e3
+│   │   │   ├── 6a300797877621f3ad8e6d7e34a58f031d6024
+│   │   │   ├── 886dd141e2cc1d9738b7d5e0f9f43529e8fdbd
+│   │   │   └── e24ede68251a1e171c30d826732c9ca37eb975
+│   │   ├── e4
+│   │   │   ├── 8748b5e99b394750f9219e52f4ef07a3cca26d
+│   │   │   └── b202f4a0cf74dd6f4e2e5b74ba2bf1cf4e3c4a
+│   │   ├── e5
+│   │   │   ├── 12b184542284552263a82deef6afc921b2824a
+│   │   │   ├── 8fc71b8048d51e851a19663392362b530e8bc5
+│   │   │   └── 942a465b2b11ed10ec1c3e6cc2317f715a4264
+│   │   ├── e6
+│   │   │   ├── 6b55ce5e3923d2c44a4c9b40b1f3484ecb88fb
+│   │   │   ├── 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+│   │   │   ├── cc6338537b1c27240200035cdfad3f2ba49392
+│   │   │   └── f004291623e93ede984f779fa5314136272897
+│   │   ├── e7
+│   │   │   ├── 162b97332ec7a82e2551bff0378b233f738a65
+│   │   │   └── 358533905168cae4ca13ec589edb78acf8e3e0
+│   │   ├── e8
+│   │   │   ├── 0e3fed67e2f7d82552cccfcc8ec945811229c9
+│   │   │   ├── 2ffcb7e4bc3828eb1df76a697c5bb7f657636a
+│   │   │   └── eb6fe79cff4c0b6ef87ff0f51cbdf37dbc4bee
+│   │   ├── e9
+│   │   │   ├── 2eaa76d2cf2455b5b1f3810a7f4bb6ab4af84d
+│   │   │   └── 810409c4a4777d27dfebec45db970e43a2daa5
+│   │   ├── ea
+│   │   │   ├── 39839a73ed6a10b8741b3b6dc5199713b41803
+│   │   │   └── 577e4466c485e4b0ce92609a0d2fdc55035192
+│   │   ├── eb
+│   │   │   ├── 0f116297a4f2b063f6ae9747fe5c25cbe8e6d5
+│   │   │   ├── a87860d54a7ccc952e5bc4a70d8f97c46c8e77
+│   │   │   ├── c26e8803591f06d744b4e9faeb1de043a100e6
+│   │   │   └── d14a48fa92064cf5573f1fec1788ad99a46660
+│   │   ├── ec
+│   │   │   └── 4eb9fd1f029bea84e26d2528e66e79b63172ab
+│   │   ├── ed
+│   │   │   ├── 30387d8afcd619b6ee3cd9e3d2d1c57cd4bdf3
+│   │   │   └── 3457aa70e675036de44b6c9723dc40969b7c46
+│   │   ├── ef
+│   │   │   ├── 040f184fba4b63a990fea8b20c57bd9ce99c33
+│   │   │   ├── 5fa5aed76dd3358c5a96c43861bd7c75d07f18
+│   │   │   └── c766bde990e1b2bc1794d8f4a1c65f0627a335
+│   │   ├── f0
+│   │   │   ├── 0faf8f5d6a843897aa99554e8941d31bddb159
+│   │   │   └── b5ae00194b9473da8239d5aac5306273a612d8
+│   │   ├── f1
+│   │   │   ├── 4022c8d5009fca796667b8a1be635ecab08e43
+│   │   │   ├── cbe1ac8cfc3a7a6aa71380eaab3ab68c3c5a27
+│   │   │   └── f97abc9a466e915b2c2df8bfeffd1cd177de1b
+│   │   ├── f2
+│   │   │   ├── 524dc7b9af230909fa81b9e10ff372ca7a81f7
+│   │   │   └── de50c78d32906c9a37b8ffd602439db0c7e44c
+│   │   ├── f3
+│   │   │   ├── 1135d0e18727aaa5bbb6737a97619699751b63
+│   │   │   ├── ad9f31dadaaa98aeb2f83c0b12af89105aa95c
+│   │   │   └── c93da09e87106767b37b7a58936603767ad845
+│   │   ├── f4
+│   │   │   ├── 45d8b8a680089682b38b4fe306bde21e4f826f
+│   │   │   └── 6348718a2617e5b0e7faf75171e0c22f420300
+│   │   ├── f5
+│   │   │   └── 8154cc9c5e9756865ff647965d6607cee4ecd7
+│   │   ├── f7
+│   │   │   ├── 0c87169206335da2f05c50396d6de55acd67d4
+│   │   │   └── fefbbddad92cf119ce4abc4a473726a41cc796
+│   │   ├── f8
+│   │   │   ├── 0b456449903339dfd513e31f01152fd3918453
+│   │   │   ├── bf3c091ed2b6920d8c47ddde233b3df5e8bb3e
+│   │   │   └── d94b4a5a7f212e8f20b124c7a5477787ead4a8
+│   │   ├── f9
+│   │   │   ├── 28111696cb030d12baa4a8cdf809db97b619ba
+│   │   │   ├── 300e2e435fc4d1790d9cf3c0bc70b3825c518d
+│   │   │   ├── 71855a27fda5cc0e4e1e34093d283a7469c581
+│   │   │   └── c4f56425c9bdcaf22748ed5d7c35df08659065
+│   │   ├── fa
+│   │   │   ├── 08d71ee2cacabc5b9ca984be102910204b5c3f
+│   │   │   ├── 547b027263577a2b908e584de8d4672f58fb39
+│   │   │   ├── f0b555a83bcdbe44f7476b9b61e2972828a5ad
+│   │   │   └── f827bc21e4f27cdc0515f78dfbe6fde2732ee6
+│   │   ├── fb
+│   │   │   └── 574c9d388e960c861f5f4d29e3c1680f0724dd
+│   │   ├── fd
+│   │   │   ├── 0d3477284239494edb23810e67a5ff0113ba20
+│   │   │   ├── 34a736ae9c71e730f4c0f17d331ffeb405831f
+│   │   │   └── 6169bc6dd0a739fcc1533c7b5ac11b3354d399
+│   │   ├── fe
+│   │   │   └── df8b9642f4f33d48fd8ea587a4e8f051c32038
+│   │   ├── ff
+│   │   │   ├── f4a6db901a22d87d4c829865162373f4b72ab7
+│   │   │   └── f59807b1d7616afa03e05497743c6ce96d1501
+│   │   ├── info
+│   │   └── pack
+│   │       ├── pack-2efd360e97f4923ba0643ef9fefb12f27a66a084.idx
+│   │       ├── pack-2efd360e97f4923ba0643ef9fefb12f27a66a084.pack
+│   │       └── pack-2efd360e97f4923ba0643ef9fefb12f27a66a084.rev
+│   ├── ORIG_HEAD
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       │   ├── feature
+│       │   │   ├── accessibility-toggle
+│       │   │   ├── content-lists
+│       │   │   ├── content-structure
+│       │   │   ├── deploy-pages
+│       │   │   ├── init-vitepress
+│       │   │   └── vitepress-config
+│       │   └── main
+│       ├── remotes
+│       │   └── origin
+│       │       ├── HEAD
+│       │       └── main
+│       └── tags
+├── .github
+│   └── workflows
+│       └── deploy.yml
+├── .gitignore
 ├── LICENSE
 ├── node_modules
 │   ├── @algolia
@@ -1179,6 +2103,15 @@
 │   │       ├── LICENSE
 │   │       ├── package.json
 │   │       └── README.md
+│   ├── .bin
+│   │   ├── cssesc -> ../cssesc/bin/cssesc
+│   │   ├── esbuild -> ../esbuild/bin/esbuild
+│   │   ├── jiti -> ../jiti/lib/jiti-cli.mjs
+│   │   ├── nanoid -> ../nanoid/bin/nanoid.cjs
+│   │   ├── parser -> ../@babel/parser/bin/babel-parser.js
+│   │   ├── rollup -> ../rollup/dist/bin/rollup
+│   │   ├── vite -> ../vite/bin/vite.js
+│   │   └── vitepress -> ../vitepress/bin/vitepress.js
 │   ├── birpc
 │   │   ├── dist
 │   │   │   ├── index.cjs
@@ -1548,7 +2481,8 @@
 │   │       ├── generated
 │   │       │   ├── decode-data-html.ts
 │   │       │   ├── decode-data-xml.ts
-│   │       │   └── encode-html.ts
+│   │       │   ├── encode-html.ts
+│   │       │   └── .eslintrc.json
 │   │       ├── index.ts
 │   │       └── internal
 │   │           ├── bin-trie-flags.ts
@@ -1697,6 +2631,7 @@
 │   │       ├── license.txt
 │   │       ├── package.json
 │   │       ├── pnpm-lock.yaml
+│   │       ├── .prettierrc
 │   │       ├── provider.d.ts
 │   │       ├── provider.js
 │   │       ├── README.md
@@ -1965,8 +2900,13 @@
 │   │   │   ├── mark.es6.min.js
 │   │   │   ├── mark.js
 │   │   │   └── mark.min.js
+│   │   ├── .editorconfig
+│   │   ├── .eslintrc
+│   │   ├── .gitattributes
 │   │   ├── ISSUE_TEMPLATE.md
+│   │   ├── .jsbeautifyrc
 │   │   ├── LICENSE
+│   │   ├── .npmignore
 │   │   ├── package.json
 │   │   ├── README.md
 │   │   ├── src
@@ -1975,239 +2915,241 @@
 │   │   │   │   ├── domiterator.js
 │   │   │   │   └── mark.js
 │   │   │   └── vanilla.js
-│   │   └── test
-│   │       ├── fixtures
-│   │       │   ├── across-elements
-│   │       │   │   ├── basic
-│   │       │   │   │   ├── accuracy-exactly.html
-│   │       │   │   │   ├── empty.html
-│   │       │   │   │   ├── filter.html
-│   │       │   │   │   ├── ignore-joiners.html
-│   │       │   │   │   ├── main.html
-│   │       │   │   │   └── merge-blanks.html
-│   │       │   │   ├── iframes
-│   │       │   │   │   ├── across.html
-│   │       │   │   │   ├── inc.html
-│   │       │   │   │   ├── main.html
-│   │       │   │   │   ├── nested.html
-│   │       │   │   │   └── nested-inc.html
-│   │       │   │   ├── nested
-│   │       │   │   │   └── main.html
-│   │       │   │   └── regexp
-│   │       │   │       ├── filter.html
-│   │       │   │       ├── ignore-groups.html
-│   │       │   │       ├── infinite.html
-│   │       │   │       └── main.html
-│   │       │   ├── basic
-│   │       │   │   ├── accuracy-complementary.html
-│   │       │   │   ├── accuracy-complementary-limiters.html
-│   │       │   │   ├── accuracy-exactly.html
-│   │       │   │   ├── accuracy-exactly-limiters.html
-│   │       │   │   ├── accuracy-partially.html
-│   │       │   │   ├── array-keyword.html
-│   │       │   │   ├── case-sensitive-diacritics.html
-│   │       │   │   ├── case-sensitive.html
-│   │       │   │   ├── case-sensitive-synonyms-diacritics.html
-│   │       │   │   ├── case-sensitive-synonyms.html
-│   │       │   │   ├── context-array.html
-│   │       │   │   ├── context-direct.html
-│   │       │   │   ├── context-nodelist.html
-│   │       │   │   ├── context-string.html
-│   │       │   │   ├── custom-element-class.html
-│   │       │   │   ├── diacritics.html
-│   │       │   │   ├── diacritics-vietnamese.html
-│   │       │   │   ├── duplicate-context.html
-│   │       │   │   ├── duplicate-keywords.html
-│   │       │   │   ├── empty.html
-│   │       │   │   ├── entities.html
-│   │       │   │   ├── escape.html
-│   │       │   │   ├── events.html
-│   │       │   │   ├── exclude.html
-│   │       │   │   ├── filter.html
-│   │       │   │   ├── ignore-joiners-diacritics.html
-│   │       │   │   ├── ignore-joiners-escape.html
-│   │       │   │   ├── ignore-joiners.html
-│   │       │   │   ├── ignore-joiners-synonyms-diacritics.html
-│   │       │   │   ├── ignore-joiners-synonyms.html
-│   │       │   │   ├── ignore-punctuation-accuracy.html
-│   │       │   │   ├── ignore-punctuation.html
-│   │       │   │   ├── ignore-punctuation-ignore-joiners.html
-│   │       │   │   ├── ignore-punctuation-separate-word-search.html
-│   │       │   │   ├── ignore-punctuation-synonyms-diacritics.html
-│   │       │   │   ├── ignore-punctuation-synonyms.html
-│   │       │   │   ├── large-document.html
-│   │       │   │   ├── main.html
-│   │       │   │   ├── manipulated-mark.html
-│   │       │   │   ├── merge-blanks.html
-│   │       │   │   ├── nested-mark.html
-│   │       │   │   ├── no-options.html
-│   │       │   │   ├── same-keywords.html
-│   │       │   │   ├── script-style.html
-│   │       │   │   ├── separate-word-search-blank.html
-│   │       │   │   ├── separate-word-search.html
-│   │       │   │   ├── synonyms-diacritics.html
-│   │       │   │   ├── synonyms.html
-│   │       │   │   ├── synonyms-merge-blanks.html
-│   │       │   │   ├── synonyms-no-match.html
-│   │       │   │   ├── synonyms-not-empty.html
-│   │       │   │   ├── unmark-exclude.html
-│   │       │   │   ├── wildcards-between-words.html
-│   │       │   │   ├── wildcards-diacritics.html
-│   │       │   │   ├── wildcards-escaped.html
-│   │       │   │   ├── wildcards.html
-│   │       │   │   ├── wildcards-ignore-joiners-synonyms.html
-│   │       │   │   └── wildcards-synonyms.html
-│   │       │   ├── iframes
-│   │       │   │   ├── disabled.html
-│   │       │   │   ├── exclude.html
-│   │       │   │   ├── inaccessible.html
-│   │       │   │   ├── inc.html
-│   │       │   │   ├── main.html
-│   │       │   │   ├── nested.html
-│   │       │   │   ├── nested-inc.html
-│   │       │   │   ├── onload.html
-│   │       │   │   ├── onload-inc.html
-│   │       │   │   ├── order.html
-│   │       │   │   ├── readystate.html
-│   │       │   │   └── unmark-same-instance.html
-│   │       │   ├── nested
-│   │       │   │   └── main.html
-│   │       │   ├── ranges
-│   │       │   │   ├── across-elements.html
-│   │       │   │   ├── each.html
-│   │       │   │   ├── filter.html
-│   │       │   │   ├── iframes.html
-│   │       │   │   ├── inc.html
-│   │       │   │   ├── main.html
-│   │       │   │   ├── no-match.html
-│   │       │   │   └── overlap.html
-│   │       │   └── regexp
-│   │       │       ├── filter.html
-│   │       │       ├── ignore-groups.html
-│   │       │       ├── infinite.html
-│   │       │       └── main.html
-│   │       ├── manual.html
-│   │       └── specs
-│   │           ├── across-elements
-│   │           │   ├── basic
-│   │           │   │   ├── accuracy-exactly.js
-│   │           │   │   ├── done.js
-│   │           │   │   ├── each.js
-│   │           │   │   ├── empty.js
-│   │           │   │   ├── filter.js
-│   │           │   │   ├── ignore-joiners.js
-│   │           │   │   ├── main.js
-│   │           │   │   └── merge-blanks.js
-│   │           │   ├── iframes
-│   │           │   │   ├── across.js
-│   │           │   │   ├── main.js
-│   │           │   │   └── nested.js
-│   │           │   ├── nested
-│   │           │   │   └── main.js
-│   │           │   └── regexp
-│   │           │       ├── filter.js
-│   │           │       ├── ignore-groups.js
-│   │           │       ├── infinite.js
-│   │           │       └── main.js
-│   │           ├── basic
-│   │           │   ├── accuracy-complementary.js
-│   │           │   ├── accuracy-complementary-limiters.js
-│   │           │   ├── accuracy-exactly.js
-│   │           │   ├── accuracy-exactly-limiters.js
-│   │           │   ├── accuracy-partially.js
-│   │           │   ├── array-keyword.js
-│   │           │   ├── case-sensitive-diacritics.js
-│   │           │   ├── case-sensitive.js
-│   │           │   ├── case-sensitive-synonyms-diacritics.js
-│   │           │   ├── case-sensitive-synonyms.js
-│   │           │   ├── context-array.js
-│   │           │   ├── context-direct.js
-│   │           │   ├── context-nodelist.js
-│   │           │   ├── context-string.js
-│   │           │   ├── custom-element-class.js
-│   │           │   ├── custom-element-class-unmark.js
-│   │           │   ├── debug.js
-│   │           │   ├── diacritics.js
-│   │           │   ├── diacritics-vietnamese.js
-│   │           │   ├── done.js
-│   │           │   ├── duplicate-context.js
-│   │           │   ├── duplicate-keyword.js
-│   │           │   ├── each.js
-│   │           │   ├── empty.js
-│   │           │   ├── entities.js
-│   │           │   ├── escape.js
-│   │           │   ├── events.js
-│   │           │   ├── exclude.js
-│   │           │   ├── filter.js
-│   │           │   ├── ignore-joiners-diacritics.js
-│   │           │   ├── ignore-joiners-escape.js
-│   │           │   ├── ignore-joiners.js
-│   │           │   ├── ignore-joiners-synonyms-diacritics.js
-│   │           │   ├── ignore-joiners-synonyms.js
-│   │           │   ├── ignore-punctuation-accuracy.js
-│   │           │   ├── ignore-punctuation-ignore-joiners.js
-│   │           │   ├── ignore-punctuation.js
-│   │           │   ├── ignore-punctuation-separate-word-search.js
-│   │           │   ├── ignore-punctuation-synonyms-diacritics.js
-│   │           │   ├── ignore-punctuation-synonyms.js
-│   │           │   ├── jquery.js
-│   │           │   ├── large-document.js
-│   │           │   ├── main.js
-│   │           │   ├── manipulated-mark.js
-│   │           │   ├── merge-blanks.js
-│   │           │   ├── nested-mark.js
-│   │           │   ├── no-match.js
-│   │           │   ├── no-options.js
-│   │           │   ├── same-keywords.js
-│   │           │   ├── script-style.js
-│   │           │   ├── separate-word-search-blank.js
-│   │           │   ├── separate-word-search.js
-│   │           │   ├── synonyms-diacritics.js
-│   │           │   ├── synonyms.js
-│   │           │   ├── synonyms-merge-blanks.js
-│   │           │   ├── synonyms-no-match.js
-│   │           │   ├── synonyms-not-empty.js
-│   │           │   ├── unmark-exclude.js
-│   │           │   ├── unmark-jquery.js
-│   │           │   ├── unmark.js
-│   │           │   ├── wildcards-between-words.js
-│   │           │   ├── wildcards-diacritics.js
-│   │           │   ├── wildcards-escaped.js
-│   │           │   ├── wildcards-ignore-joiners-synonyms.js
-│   │           │   ├── wildcards.js
-│   │           │   └── wildcards-synonyms.js
-│   │           ├── configuration.js
-│   │           ├── iframes
-│   │           │   ├── disabled.js
-│   │           │   ├── exclude.js
-│   │           │   ├── inaccessible.js
-│   │           │   ├── main.js
-│   │           │   ├── nested.js
-│   │           │   ├── nested-unmark.js
-│   │           │   ├── onload.js
-│   │           │   ├── order.js
-│   │           │   ├── readystate.js
-│   │           │   ├── unmark.js
-│   │           │   └── unmark-same-instance.js
-│   │           ├── nested
-│   │           │   ├── main.js
-│   │           │   └── unmark.js
-│   │           ├── ranges
-│   │           │   ├── across-elements.js
-│   │           │   ├── each.js
-│   │           │   ├── filter.js
-│   │           │   ├── iframes.js
-│   │           │   ├── main.js
-│   │           │   ├── no-match.js
-│   │           │   └── overlap.js
-│   │           └── regexp
-│   │               ├── done.js
-│   │               ├── filter.js
-│   │               ├── ignore-groups.js
-│   │               ├── infinite.js
-│   │               ├── jquery.js
-│   │               ├── main.js
-│   │               └── no-match.js
+│   │   ├── test
+│   │   │   ├── .eslintrc
+│   │   │   ├── fixtures
+│   │   │   │   ├── across-elements
+│   │   │   │   │   ├── basic
+│   │   │   │   │   │   ├── accuracy-exactly.html
+│   │   │   │   │   │   ├── empty.html
+│   │   │   │   │   │   ├── filter.html
+│   │   │   │   │   │   ├── ignore-joiners.html
+│   │   │   │   │   │   ├── main.html
+│   │   │   │   │   │   └── merge-blanks.html
+│   │   │   │   │   ├── iframes
+│   │   │   │   │   │   ├── across.html
+│   │   │   │   │   │   ├── inc.html
+│   │   │   │   │   │   ├── main.html
+│   │   │   │   │   │   ├── nested.html
+│   │   │   │   │   │   └── nested-inc.html
+│   │   │   │   │   ├── nested
+│   │   │   │   │   │   └── main.html
+│   │   │   │   │   └── regexp
+│   │   │   │   │       ├── filter.html
+│   │   │   │   │       ├── ignore-groups.html
+│   │   │   │   │       ├── infinite.html
+│   │   │   │   │       └── main.html
+│   │   │   │   ├── basic
+│   │   │   │   │   ├── accuracy-complementary.html
+│   │   │   │   │   ├── accuracy-complementary-limiters.html
+│   │   │   │   │   ├── accuracy-exactly.html
+│   │   │   │   │   ├── accuracy-exactly-limiters.html
+│   │   │   │   │   ├── accuracy-partially.html
+│   │   │   │   │   ├── array-keyword.html
+│   │   │   │   │   ├── case-sensitive-diacritics.html
+│   │   │   │   │   ├── case-sensitive.html
+│   │   │   │   │   ├── case-sensitive-synonyms-diacritics.html
+│   │   │   │   │   ├── case-sensitive-synonyms.html
+│   │   │   │   │   ├── context-array.html
+│   │   │   │   │   ├── context-direct.html
+│   │   │   │   │   ├── context-nodelist.html
+│   │   │   │   │   ├── context-string.html
+│   │   │   │   │   ├── custom-element-class.html
+│   │   │   │   │   ├── diacritics.html
+│   │   │   │   │   ├── diacritics-vietnamese.html
+│   │   │   │   │   ├── duplicate-context.html
+│   │   │   │   │   ├── duplicate-keywords.html
+│   │   │   │   │   ├── empty.html
+│   │   │   │   │   ├── entities.html
+│   │   │   │   │   ├── escape.html
+│   │   │   │   │   ├── events.html
+│   │   │   │   │   ├── exclude.html
+│   │   │   │   │   ├── filter.html
+│   │   │   │   │   ├── ignore-joiners-diacritics.html
+│   │   │   │   │   ├── ignore-joiners-escape.html
+│   │   │   │   │   ├── ignore-joiners.html
+│   │   │   │   │   ├── ignore-joiners-synonyms-diacritics.html
+│   │   │   │   │   ├── ignore-joiners-synonyms.html
+│   │   │   │   │   ├── ignore-punctuation-accuracy.html
+│   │   │   │   │   ├── ignore-punctuation.html
+│   │   │   │   │   ├── ignore-punctuation-ignore-joiners.html
+│   │   │   │   │   ├── ignore-punctuation-separate-word-search.html
+│   │   │   │   │   ├── ignore-punctuation-synonyms-diacritics.html
+│   │   │   │   │   ├── ignore-punctuation-synonyms.html
+│   │   │   │   │   ├── large-document.html
+│   │   │   │   │   ├── main.html
+│   │   │   │   │   ├── manipulated-mark.html
+│   │   │   │   │   ├── merge-blanks.html
+│   │   │   │   │   ├── nested-mark.html
+│   │   │   │   │   ├── no-options.html
+│   │   │   │   │   ├── same-keywords.html
+│   │   │   │   │   ├── script-style.html
+│   │   │   │   │   ├── separate-word-search-blank.html
+│   │   │   │   │   ├── separate-word-search.html
+│   │   │   │   │   ├── synonyms-diacritics.html
+│   │   │   │   │   ├── synonyms.html
+│   │   │   │   │   ├── synonyms-merge-blanks.html
+│   │   │   │   │   ├── synonyms-no-match.html
+│   │   │   │   │   ├── synonyms-not-empty.html
+│   │   │   │   │   ├── unmark-exclude.html
+│   │   │   │   │   ├── wildcards-between-words.html
+│   │   │   │   │   ├── wildcards-diacritics.html
+│   │   │   │   │   ├── wildcards-escaped.html
+│   │   │   │   │   ├── wildcards.html
+│   │   │   │   │   ├── wildcards-ignore-joiners-synonyms.html
+│   │   │   │   │   └── wildcards-synonyms.html
+│   │   │   │   ├── iframes
+│   │   │   │   │   ├── disabled.html
+│   │   │   │   │   ├── exclude.html
+│   │   │   │   │   ├── inaccessible.html
+│   │   │   │   │   ├── inc.html
+│   │   │   │   │   ├── main.html
+│   │   │   │   │   ├── nested.html
+│   │   │   │   │   ├── nested-inc.html
+│   │   │   │   │   ├── onload.html
+│   │   │   │   │   ├── onload-inc.html
+│   │   │   │   │   ├── order.html
+│   │   │   │   │   ├── readystate.html
+│   │   │   │   │   └── unmark-same-instance.html
+│   │   │   │   ├── nested
+│   │   │   │   │   └── main.html
+│   │   │   │   ├── ranges
+│   │   │   │   │   ├── across-elements.html
+│   │   │   │   │   ├── each.html
+│   │   │   │   │   ├── filter.html
+│   │   │   │   │   ├── iframes.html
+│   │   │   │   │   ├── inc.html
+│   │   │   │   │   ├── main.html
+│   │   │   │   │   ├── no-match.html
+│   │   │   │   │   └── overlap.html
+│   │   │   │   └── regexp
+│   │   │   │       ├── filter.html
+│   │   │   │       ├── ignore-groups.html
+│   │   │   │       ├── infinite.html
+│   │   │   │       └── main.html
+│   │   │   ├── manual.html
+│   │   │   └── specs
+│   │   │       ├── across-elements
+│   │   │       │   ├── basic
+│   │   │       │   │   ├── accuracy-exactly.js
+│   │   │       │   │   ├── done.js
+│   │   │       │   │   ├── each.js
+│   │   │       │   │   ├── empty.js
+│   │   │       │   │   ├── filter.js
+│   │   │       │   │   ├── ignore-joiners.js
+│   │   │       │   │   ├── main.js
+│   │   │       │   │   └── merge-blanks.js
+│   │   │       │   ├── iframes
+│   │   │       │   │   ├── across.js
+│   │   │       │   │   ├── main.js
+│   │   │       │   │   └── nested.js
+│   │   │       │   ├── nested
+│   │   │       │   │   └── main.js
+│   │   │       │   └── regexp
+│   │   │       │       ├── filter.js
+│   │   │       │       ├── ignore-groups.js
+│   │   │       │       ├── infinite.js
+│   │   │       │       └── main.js
+│   │   │       ├── basic
+│   │   │       │   ├── accuracy-complementary.js
+│   │   │       │   ├── accuracy-complementary-limiters.js
+│   │   │       │   ├── accuracy-exactly.js
+│   │   │       │   ├── accuracy-exactly-limiters.js
+│   │   │       │   ├── accuracy-partially.js
+│   │   │       │   ├── array-keyword.js
+│   │   │       │   ├── case-sensitive-diacritics.js
+│   │   │       │   ├── case-sensitive.js
+│   │   │       │   ├── case-sensitive-synonyms-diacritics.js
+│   │   │       │   ├── case-sensitive-synonyms.js
+│   │   │       │   ├── context-array.js
+│   │   │       │   ├── context-direct.js
+│   │   │       │   ├── context-nodelist.js
+│   │   │       │   ├── context-string.js
+│   │   │       │   ├── custom-element-class.js
+│   │   │       │   ├── custom-element-class-unmark.js
+│   │   │       │   ├── debug.js
+│   │   │       │   ├── diacritics.js
+│   │   │       │   ├── diacritics-vietnamese.js
+│   │   │       │   ├── done.js
+│   │   │       │   ├── duplicate-context.js
+│   │   │       │   ├── duplicate-keyword.js
+│   │   │       │   ├── each.js
+│   │   │       │   ├── empty.js
+│   │   │       │   ├── entities.js
+│   │   │       │   ├── escape.js
+│   │   │       │   ├── events.js
+│   │   │       │   ├── exclude.js
+│   │   │       │   ├── filter.js
+│   │   │       │   ├── ignore-joiners-diacritics.js
+│   │   │       │   ├── ignore-joiners-escape.js
+│   │   │       │   ├── ignore-joiners.js
+│   │   │       │   ├── ignore-joiners-synonyms-diacritics.js
+│   │   │       │   ├── ignore-joiners-synonyms.js
+│   │   │       │   ├── ignore-punctuation-accuracy.js
+│   │   │       │   ├── ignore-punctuation-ignore-joiners.js
+│   │   │       │   ├── ignore-punctuation.js
+│   │   │       │   ├── ignore-punctuation-separate-word-search.js
+│   │   │       │   ├── ignore-punctuation-synonyms-diacritics.js
+│   │   │       │   ├── ignore-punctuation-synonyms.js
+│   │   │       │   ├── jquery.js
+│   │   │       │   ├── large-document.js
+│   │   │       │   ├── main.js
+│   │   │       │   ├── manipulated-mark.js
+│   │   │       │   ├── merge-blanks.js
+│   │   │       │   ├── nested-mark.js
+│   │   │       │   ├── no-match.js
+│   │   │       │   ├── no-options.js
+│   │   │       │   ├── same-keywords.js
+│   │   │       │   ├── script-style.js
+│   │   │       │   ├── separate-word-search-blank.js
+│   │   │       │   ├── separate-word-search.js
+│   │   │       │   ├── synonyms-diacritics.js
+│   │   │       │   ├── synonyms.js
+│   │   │       │   ├── synonyms-merge-blanks.js
+│   │   │       │   ├── synonyms-no-match.js
+│   │   │       │   ├── synonyms-not-empty.js
+│   │   │       │   ├── unmark-exclude.js
+│   │   │       │   ├── unmark-jquery.js
+│   │   │       │   ├── unmark.js
+│   │   │       │   ├── wildcards-between-words.js
+│   │   │       │   ├── wildcards-diacritics.js
+│   │   │       │   ├── wildcards-escaped.js
+│   │   │       │   ├── wildcards-ignore-joiners-synonyms.js
+│   │   │       │   ├── wildcards.js
+│   │   │       │   └── wildcards-synonyms.js
+│   │   │       ├── configuration.js
+│   │   │       ├── iframes
+│   │   │       │   ├── disabled.js
+│   │   │       │   ├── exclude.js
+│   │   │       │   ├── inaccessible.js
+│   │   │       │   ├── main.js
+│   │   │       │   ├── nested.js
+│   │   │       │   ├── nested-unmark.js
+│   │   │       │   ├── onload.js
+│   │   │       │   ├── order.js
+│   │   │       │   ├── readystate.js
+│   │   │       │   ├── unmark.js
+│   │   │       │   └── unmark-same-instance.js
+│   │   │       ├── nested
+│   │   │       │   ├── main.js
+│   │   │       │   └── unmark.js
+│   │   │       ├── ranges
+│   │   │       │   ├── across-elements.js
+│   │   │       │   ├── each.js
+│   │   │       │   ├── filter.js
+│   │   │       │   ├── iframes.js
+│   │   │       │   ├── main.js
+│   │   │       │   ├── no-match.js
+│   │   │       │   └── overlap.js
+│   │   │       └── regexp
+│   │   │           ├── done.js
+│   │   │           ├── filter.js
+│   │   │           ├── ignore-groups.js
+│   │   │           ├── infinite.js
+│   │   │           ├── jquery.js
+│   │   │           ├── main.js
+│   │   │           └── no-match.js
+│   │   └── .travis.yml
 │   ├── mdast-util-to-hast
 │   │   ├── index.d.ts
 │   │   ├── index.js
@@ -2477,6 +3419,7 @@
 │   │   ├── LICENSE
 │   │   ├── package.json
 │   │   └── README.md
+│   ├── .package-lock.json
 │   ├── perfect-debounce
 │   │   ├── dist
 │   │   │   ├── index.cjs
@@ -2972,6 +3915,9 @@
 │   │       └── index.d.ts
 │   ├── rfdc
 │   │   ├── default.js
+│   │   ├── .github
+│   │   │   └── workflows
+│   │   │       └── ci.yml
 │   │   ├── index.d.ts
 │   │   ├── index.js
 │   │   ├── index.test-d.ts
@@ -4735,16 +5681,21 @@
 │   │   ├── bower.json
 │   │   ├── CHANGELOG.md
 │   │   ├── component.json
+│   │   ├── .editorconfig
 │   │   ├── examples
 │   │   │   ├── browser-example.html
 │   │   │   └── node-example.js
 │   │   ├── Gulpfile.js
 │   │   ├── index.js
+│   │   ├── .jsbeautifyrc
+│   │   ├── .jshintignore
+│   │   ├── .jshintrc
 │   │   ├── lib
 │   │   │   ├── speakingurl.js
 │   │   │   └── speakingurl-rails.rb
 │   │   ├── LICENSE
 │   │   ├── Makefile
+│   │   ├── .npmignore
 │   │   ├── package.json
 │   │   ├── README.md
 │   │   ├── speakingurl.min.js
@@ -4772,6 +5723,7 @@
 │   │   │   ├── test-titlecase.js
 │   │   │   ├── test-truncate.js
 │   │   │   └── test-turkish.js
+│   │   ├── .travis.yml
 │   │   └── typings
 │   │       └── speakingurl
 │   │           └── speakingurl.d.ts
@@ -5069,6 +6021,9 @@
 │   │       │   ├── json.js
 │   │       │   ├── serialize.js
 │   │       │   └── types.js
+│   │       ├── .github
+│   │       │   └── workflows
+│   │       │       └── node.js.yml
 │   │       ├── LICENSE
 │   │       ├── package.json
 │   │       ├── README.md
@@ -5403,7 +6358,13 @@
 │   │   ├── template
 │   │   │   ├── api-examples.md
 │   │   │   ├── index.md
-│   │   │   └── markdown-examples.md
+│   │   │   ├── markdown-examples.md
+│   │   │   └── .vitepress
+│   │   │       ├── config.js
+│   │   │       └── theme
+│   │   │           ├── index.js
+│   │   │           ├── Layout.vue
+│   │   │           └── style.css
 │   │   ├── theme.d.ts
 │   │   ├── theme-without-fonts.d.ts
 │   │   └── types
@@ -5741,8 +6702,7 @@
 ├── package-lock.json
 ├── README.md
 ├── scripts
-│   ├── gen-file-lists.mjs
-│   └── gen-gallery.mjs
+│   └── build-from-yadisk.mjs
 └── struct-teacher.txt
 
-600 directories, 5146 files
+869 directories, 5837 files
