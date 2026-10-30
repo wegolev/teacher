@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { cp, mkdir, readdir, stat } from 'node:fs/promises'
+import { cp, mkdir, readdir, stat, rm } from 'node:fs/promises'
 import { join, relative, dirname } from 'node:path'
 
 const SRC = '/media/storage/yadisk/atmp/site'
