@@ -112,13 +112,13 @@ export default defineConfig({
       ],
       '/08_gallery/': [
         {
-          text: 'Фотогалерея',
+          text: 'Галерея',
           items: [
             { text: 'Фотогалерея', link: '/08_gallery/photogallery/' },
             { text: 'Проектные работы учащихся', link: '/08_gallery/projects/' },
           ],
         },
-],
+      ],
     },
 
     outline: { level: [2, 3], label: 'Содержание' },
