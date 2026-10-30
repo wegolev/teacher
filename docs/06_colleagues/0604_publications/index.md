@@ -1,15 +1,12 @@
 # Публикации и статьи
 
-## PDF
-
-- [«Каменная летопись памяти Воинские захоронения села Орловка и хутора Пегушин»\.\.pdf](/files/colleagues/publications/%C2%AB%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BB%D0%B5%D1%82%D0%BE%D0%BF%D0%B8%D1%81%D1%8C%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%B8%20%D0%92%D0%BE%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%81%D0%B5%D0%BB%D0%B0%20%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B8%20%D1%85%D1%83%D1%82%D0%BE%D1%80%D0%B0%20%D0%9F%D0%B5%D0%B3%D1%83%D1%88%D0%B8%D0%BD%C2%BB..pdf) _(887.2 КБ)_
-- [Историческая память и уроки XX века как говорить с подростками о\.pdf](/files/colleagues/publications/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C%20%D0%B8%20%D1%83%D1%80%D0%BE%D0%BA%D0%B8%20XX%20%D0%B2%D0%B5%D0%BA%D0%B0%20%D0%BA%D0%B0%D0%BA%20%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D1%8C%20%D1%81%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D1%81%D1%82%D0%BA%D0%B0%D0%BC%D0%B8%20%D0%BE.pdf) _(138.8 КБ)_
-- [Исторический контент в соцсетях\.pdf](/files/colleagues/publications/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%20%D0%B2%20%D1%81%D0%BE%D1%86%D1%81%D0%B5%D1%82%D1%8F%D1%85.pdf) _(143.9 КБ)_
-- [Как говорить с подростками о войнах\.pdf](/files/colleagues/publications/%D0%9A%D0%B0%D0%BA%20%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D1%8C%20%D1%81%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D1%81%D1%82%D0%BA%D0%B0%D0%BC%D0%B8%20%D0%BE%20%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%D1%85.pdf) _(138.8 КБ)_
-- [Монография Александр Второй\.pdf](/files/colleagues/publications/%D0%9C%D0%BE%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%20%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B9.pdf) _(231.2 КБ)_
-- [МР Глобальные компетенции на уроках обществознания\.pdf](/files/colleagues/publications/%D0%9C%D0%A0%20%D0%93%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B5%D1%82%D0%B5%D0%BD%D1%86%D0%B8%D0%B8%20%D0%BD%D0%B0%20%D1%83%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F.pdf) _(225.6 КБ)_
-- [Научно\-иследовательская работа\.pdf](/files/colleagues/publications/%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D0%B8%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.pdf) _(326.6 КБ)_
-- [Очерк о музее История села Орловки\.pdf](/files/colleagues/publications/%D0%9E%D1%87%D0%B5%D1%80%D0%BA%20%D0%BE%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B5%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D1%81%D0%B5%D0%BB%D0%B0%20%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D0%BA%D0%B8.pdf) _(778.6 КБ)_
-- [Статья Между мифом и фактом\.Границы школьного исторического образования\.pdf](/files/colleagues/publications/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F%20%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%20%D0%BC%D0%B8%D1%84%D0%BE%D0%BC%20%D0%B8%20%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D0%BC.%D0%93%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B%20%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf) _(183.6 КБ)_
-- [Цифровая трансформация исторического образования от ИИ\-помощников до\.pdf](/files/colleagues/publications/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%20%D0%98%D0%98-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%B4%D0%BE.pdf) _(112.3 КБ)_
-
+- [«Каменная летопись памяти. Воинские захоронения села Орловка и хутора Пегушин»](https://disk.yandex.ru/d/s-81KkGDuRG9zA)
+- [Историческая память и уроки XX века: как говорить с подростками о войне](https://disk.yandex.ru/d/YZ9QOyddzQ9pJA)
+- [Исторический контент в соцсетях](https://disk.yandex.ru/d/s-CWLxYBC5sUQA)
+- [Как говорить с подростками о войнах](https://disk.yandex.ru/d/TUAtAUh65WOWJA)
+- [МР Глобальные компетенции на уроках обществознания](https://disk.yandex.ru/d/FP03wnVLD2QFaA)
+- [Монография «Александр Второй»](https://disk.yandex.ru/d/DDcA5_CUMcJ_bg)
+- [Научно-исследовательская работа](https://disk.yandex.ru/d/BgFS0bLhTwOtnA)
+- [Очерк о музее «История села Орловки»](https://disk.yandex.ru/d/DNeug9DCEJUn8Q)
+- [Статья «Между мифом и фактом. Границы школьного исторического образования»](https://disk.yandex.ru/d/6v_Q2To7L4iuEw)
+- [Цифровая трансформация исторического образования: от ИИ-помощников](https://disk.yandex.ru/d/j7xdh9w7lWSUOA)
