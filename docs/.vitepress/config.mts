@@ -40,7 +40,7 @@ export default defineConfig({
       { text: 'Родителям', link: '/05_parents/' },
       { text: 'Коллегам', link: '/06_colleagues/' },
       { text: 'Новости', link: '/07_news/' },
-      { text: 'Галерея', link: '/08_gallery/' },
+      { text: 'Галерея', link: '/08_gallery/photogallery/' },
     ],
 
     sidebar: {
@@ -110,6 +110,15 @@ export default defineConfig({
           ],
         },
       ],
+      '/08_gallery/': [
+        {
+          text: 'Фотогалерея',
+          items: [
+            { text: 'Фотогалерея', link: '/08_gallery/photogallery/' },
+            { text: 'Проектные работы учащихся', link: '/08_gallery/projects/' },
+          ],
+        },
+],
     },
 
     outline: { level: [2, 3], label: 'Содержание' },

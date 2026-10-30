@@ -52,7 +52,9 @@ const MAP = {
   '07_Новости/Этот день в истории': '07_news/this_day_in_history',
 
   // Подпапки 08
-  '08_Галерея/Проектные работы учащихся': '08_gallery/projects',
+  '08_Галерея': '08_gallery',
+  '08_Галерея/0801_Фотогалерея': '08_gallery/photogallery',
+  '08_Галерея/0802_Проектные работы учащихся': '08_gallery/projects',
 }
 
 // Транслитерация (fallback для папок, которых нет в MAP)
@@ -131,14 +133,18 @@ async function syncDir(srcRel) {
 
 async function main() {
   console.log('🚀 Синхронизация контента из Яндекс.Диска...')
-  
-  for (const key of Object.keys(MAP)) {
-    // Обрабатываем корневые папки и папку конкурса
-    if (!key.includes('/') || key.includes('Конкурс') || key.includes('Проектные работы')) {
-       await syncDir(key)
-    }
+
+  // Удаляем старые/битые папки
+  for (const stale of ['08_gallery/проектные_работы_учащихся']) {
+    await rm(join(DST, stale), { recursive: true, force: true })
   }
-  
+
+  // Обрабатываем только корневые папки (01_, 02_, …) — вложенные обойдутся рекурсивно
+  const roots = Object.keys(MAP).filter((k) => !k.includes('/'))
+  for (const key of roots) {
+    await syncDir(key)
+  }
+
   console.log('✅ Синхронизация завершена.')
 }
 
