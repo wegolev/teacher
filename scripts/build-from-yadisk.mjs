@@ -52,7 +52,25 @@ const MAP = {
   '07_Новости/Этот день в истории': '07_news/this_day_in_history',
 
   // Подпапки 08
-  '08_Галерея/Проектные работы': '08_gallery/projects',
+  '08_Галерея/Проектные работы учащихся': '08_gallery/projects',
+}
+
+// Транслитерация (fallback для папок, которых нет в MAP)
+const TRANSLIT = {
+  а:'a', б:'b', в:'v', г:'g', д:'d', е:'e', ё:'e', ж:'zh', з:'z', и:'i',
+  й:'y', к:'k', л:'l', м:'m', н:'n', о:'o', п:'p', р:'r', с:'s', т:'t',
+  у:'u', ф:'f', х:'h', ц:'c', ч:'ch', ш:'sh', щ:'sch', ъ:'', ы:'y', ь:'',
+  э:'e', ю:'yu', я:'ya',
+}
+
+function translit(str) {
+  return str
+    .toLowerCase()
+    .split('')
+    .map((ch) => TRANSLIT[ch] ?? ch)
+    .join('')
+    .replace(/[^a-z0-9_\-]+/g, '_')
+    .replace(/^_+|_+$/g, '')
 }
 
 function getDstPath(srcRel) {
@@ -61,16 +79,10 @@ function getDstPath(srcRel) {
   const parent = dirname(srcRel);
   if (MAP[parent]) {
     const folderName = srcRel.split('/').pop();
-    // Транслитерация не нужна, так как мы используем точный маппинг для конкурса.
-    // Для остальных безопасно заменяем пробелы и спецсимволы.
-    const safeName = folderName
-      .replace(/^\s+|\s+$/g, '') 
-      .replace(/[^a-zA-Z0-9а-яА-ЯёЁ_\-]/g, '_')
-      .toLowerCase();
-    return `${MAP[parent]}/${safeName}`;
+    return `${MAP[parent]}/${translit(folderName)}`;
   }
   
-  return srcRel.replace(/\s+/g, '_').toLowerCase();
+  return translit(srcRel);
 }
 
 async function syncDir(srcRel) {
@@ -120,19 +132,9 @@ async function syncDir(srcRel) {
 async function main() {
   console.log('🚀 Синхронизация контента из Яндекс.Диска...')
   
-  // Очистка старой папки docs (кроме .vitepress и public)
-  const entries = await readdir(DST)
-  for (const entry of entries) {
-    if (entry !== '.vitepress' && entry !== 'public' && entry !== 'index.md') {
-      // Вместо удаления используем временное перемещение, если нужно, 
-      // или просто перезаписываем (cp с force). 
-      // Для чистоты можно использовать rm, но в скрипте оставим безопасный вариант.
-    }
-  }
-
   for (const key of Object.keys(MAP)) {
     // Обрабатываем корневые папки и папку конкурса
-    if (!key.includes('/') || key.includes('Конкурс')) {
+    if (!key.includes('/') || key.includes('Конкурс') || key.includes('Проектные работы')) {
        await syncDir(key)
     }
   }

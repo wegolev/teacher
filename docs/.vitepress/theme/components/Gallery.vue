@@ -3,29 +3,35 @@
     <a
       v-for="(img, i) in images"
       :key="i"
-      :href="img.src"
-      :data-pswp-width="img.width"
-      :data-pswp-height="img.height"
+      :href="withBase(img.src)"
+      :data-pswp-width="img.width || 1600"
+      :data-pswp-height="img.height || 1200"
       :data-pswp-alt="img.alt"
       class="pswp-item"
       target="_blank"
       rel="noopener"
     >
-      <img :src="img.src" :alt="img.alt" loading="lazy" class="pswp-thumb" />
+      <img
+        :src="withBase(img.src)"
+        :alt="img.alt"
+        loading="lazy"
+        class="pswp-thumb"
+      />
     </a>
   </div>
 </template>
 
 <script setup lang="ts">
 import { onMounted, onBeforeUnmount, ref } from 'vue'
+import { withBase } from 'vitepress'
 import PhotoSwipeLightbox from 'photoswipe/lightbox'
 import 'photoswipe/style.css'
 
 interface GalleryImage {
   src: string
   alt: string
-  width: number
-  height: number
+  width?: number
+  height?: number
 }
 
 const props = defineProps<{ images: GalleryImage[] }>()
@@ -34,8 +40,8 @@ const galleryRoot = ref<HTMLElement | null>(null)
 let lightbox: PhotoSwipeLightbox | null = null
 
 onMounted(async () => {
-  // Подгружаем реальные размеры из изображений, чтобы PhotoSwipe
-  // не открывал миниатюру, а показывал полноценную картинку.
+  // Подгружаем реальные размеры через withBase, чтобы PhotoSwipe
+  // открывал полноценную картинку, а не миниатюру.
   await Promise.all(
     props.images.map(
       (img) =>
@@ -48,7 +54,7 @@ onMounted(async () => {
             resolve()
           }
           probe.onerror = () => resolve()
-          probe.src = img.src
+          probe.src = withBase(img.src)
         })
     )
   )

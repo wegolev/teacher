@@ -2,17 +2,17 @@
 
 ## DOCX
 
-- [Геннадий Гурин увековечение памяти в проекте «Парта героя\.docx](/files/gallery/projects/%D0%93%D0%B5%D0%BD%D0%BD%D0%B0%D0%B4%D0%B8%D0%B9%20%D0%93%D1%83%D1%80%D0%B8%D0%BD%20%D1%83%D0%B2%D0%B5%D0%BA%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%B8%20%D0%B2%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5%20%C2%AB%D0%9F%D0%B0%D1%80%D1%82%D0%B0%20%D0%B3%D0%B5%D1%80%D0%BE%D1%8F.docx) _(420.8 КБ)_
-- [Исторческое исследование «Кто виноват Две правды одной войны»\.docx](/files/gallery/projects/%D0%98%D1%81%D1%82%D0%BE%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%C2%AB%D0%9A%D1%82%D0%BE%20%D0%B2%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%20%D0%94%D0%B2%D0%B5%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D1%8B%20%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9%20%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B%C2%BB.docx) _(18.9 КБ)_
-- [Проектно\-исследовательская работа Герой нашего времени\.docx](/files/gallery/projects/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%93%D0%B5%D1%80%D0%BE%D0%B9%20%D0%BD%D0%B0%D1%88%D0%B5%D0%B3%D0%BE%20%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8.docx) _(28.1 КБ)_
-- [Проектно\-исследовательская работа История развития Кавмивод\.docx](/files/gallery/projects/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F%20%D0%9A%D0%B0%D0%B2%D0%BC%D0%B8%D0%B2%D0%BE%D0%B4.docx) _(40.8 КБ)_
-- [Пусть память говорит Окружной конкурс\-фестиваль авторских стихотворений Грабовец С\.docx](/files/gallery/projects/%D0%9F%D1%83%D1%81%D1%82%D1%8C%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C%20%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%20%D0%9E%D0%BA%D1%80%D1%83%D0%B6%D0%BD%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81-%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C%20%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D1%85%20%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%93%D1%80%D0%B0%D0%B1%D0%BE%D0%B2%D0%B5%D1%86%20%D0%A1.docx) _(14.4 КБ)_
-- [Пусть память говорит Окружной конкурс\-фестиваль авторских стихотворений Кленова К\.docx](/files/gallery/projects/%D0%9F%D1%83%D1%81%D1%82%D1%8C%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C%20%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%20%D0%9E%D0%BA%D1%80%D1%83%D0%B6%D0%BD%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81-%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C%20%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D1%85%20%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%9A%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%9A.docx) _(13.6 КБ)_
-- [Шаг в науку  Выступление Мозговая Ю\.docx](/files/gallery/projects/%D0%A8%D0%B0%D0%B3%20%D0%B2%20%D0%BD%D0%B0%D1%83%D0%BA%D1%83%20%20%D0%92%D1%8B%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9C%D0%BE%D0%B7%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%AE.docx) _(22.4 КБ)_
-- [Эссе «Плакат как оружие Искусство, которое вело к Победе»\.docx](/files/gallery/projects/%D0%AD%D1%81%D1%81%D0%B5%20%C2%AB%D0%9F%D0%BB%D0%B0%D0%BA%D0%B0%D1%82%20%D0%BA%D0%B0%D0%BA%20%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5%20%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B5%20%D0%B2%D0%B5%D0%BB%D0%BE%20%D0%BA%20%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%B5%C2%BB.docx) _(16.7 КБ)_
-- [Эссе Право служит человеку Коломыц Дарья\.docx](/files/gallery/projects/%D0%AD%D1%81%D1%81%D0%B5%20%D0%9F%D1%80%D0%B0%D0%B2%D0%BE%20%D1%81%D0%BB%D1%83%D0%B6%D0%B8%D1%82%20%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D1%83%20%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D1%8B%D1%86%20%D0%94%D0%B0%D1%80%D1%8C%D1%8F.docx) _(15.9 КБ)_
-
-## PDF
-
-- [Исследование  Герой моей семьи\. Без права забвения\.pdf](/files/gallery/projects/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%20%D0%93%D0%B5%D1%80%D0%BE%D0%B9%20%D0%BC%D0%BE%D0%B5%D0%B9%20%D1%81%D0%B5%D0%BC%D1%8C%D0%B8.%20%D0%91%D0%B5%D0%B7%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D0%B7%D0%B0%D0%B1%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F.pdf) _(184.2 КБ)_
-
+- [Геннадий Гурин: увековечение памяти в проекте «Парта героя»](https://disk.yandex.ru/i/7xaiwQtIVlaVzw)
+- [Исследование «Герой моей семьи. Без права забвения»](https://disk.yandex.ru/d/Mc777vlkqc9qTw)
+- [Исследовательская работа «От крестьянской избы к колхозу-миллионеру»](https://disk.yandex.ru/d/q2ZUCHxI8Bh1oA)
+- [Исследовательская работа «Эволюция российского предварительного следствия»](https://disk.yandex.ru/d/G__7xn2gCnuzNA)
+- [Историческое исследование «Кто виноват? Две правды одной войны»](https://disk.yandex.ru/d/HALk7h3bkEfNjg)
+- [Краевой конкурс творческих работ на антикоррупционную тематику](https://disk.yandex.ru/d/tU6RRfvUYPP_WA)
+- [Проект «Чернобыль: взгляд издалека»](https://disk.yandex.ru/d/Ck8EkyEmPD884A)
+- [Проектно-исследовательская работа «Герой нашего времени»](https://disk.yandex.ru/d/SB6hw0KWY6nL9g)
+- [Проектно-исследовательская работа «История развития Кавминвод»](https://disk.yandex.ru/d/0p29zoT2tbI5zg)
+- [Пусть память говорит (Окружной конкурс-фестиваль авторских стихотворений)](https://disk.yandex.ru/d/A2mQbgAuHmPoJg)
+- [Пусть память говорит (Окружной конкурс-фестиваль авторских стихотворений)](https://disk.yandex.ru/d/j-G1nWQM39bT0w)
+- [Шаг в науку: выступление участника](https://disk.yandex.ru/d/ddIsDxKxl0Gn7Q)
+- [Эссе «Плакат как оружие: Искусство, которое вело к Победе»](https://disk.yandex.ru/d/buOpOtE1ndzXGg)
+- [Эссе «Право служит человеку»](https://disk.yandex.ru/d/HaIqVpaIr-ZBvw)
