@@ -116,3 +116,26 @@ html.large-text-theme button:hover {
     margin: 0 auto;
   }
 }
+
+/* Подпись фото в полноэкранном просмотре PhotoSwipe */
+.pswp__custom-caption {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 12px 16px;
+  font-size: 15px;
+  line-height: 1.4;
+  color: #fff;
+  text-align: center;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.8));
+  z-index: 10;
+  pointer-events: none;
+}
+
+@media (max-width: 640px) {
+  .pswp__custom-caption {
+    font-size: 13px;
+    padding: 10px 12px;
+  }
+}
